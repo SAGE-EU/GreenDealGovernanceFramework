@@ -1,0 +1,7 @@
+# Data Value Creation Enablers
+
+One of the ultimate goals of a data space is to generate value amongst its participants through data sharing. To accomplish this objective, participants must be aware of the data, services, and offerings available in the data space. This pillar provides the technical enablers to make all the above possible, distributed among the following building blocks:
+
+* [Data, Services and Offering Descriptions](https://dssc.eu/space/BVE2/1071256347): This building block provides data providers with the tools to describe data, services and offerings appropriately, thoroughly, and in a manner that will be understandable by any participant in the data space. It also includes related data policies and how they can be obtained.
+* [Publication and Discovery](https://dssc.eu/space/BVE2/1071256989): This building block allows providers to publish the description of their data, services and offerings so that they can be discovered by future potential users, following the FAIR (Findable, Accessible, Interoperable and Reusable) principles as much as possible.
+* [Value Creation Services](https://dssc.eu/space/BVE2/1071257170)[:](https://dataspacessupportcentre.atlassian.net/wiki/spaces/BV/pages/143720695) This building block addresses the technical aspects related to the definition of services aimed at creating value out of the data shared in the data space and sets up the conditions to ensure the appropriate provision, delivery and utilization of those services
