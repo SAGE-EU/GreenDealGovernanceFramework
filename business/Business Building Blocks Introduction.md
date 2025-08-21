@@ -1,6 +1,4 @@
-# Business & Organisational Building Blocks
-
-## Business Building Blocks
+# Business Building Blocks
 
 The Business Building Blocks of the Green Deal Data Space (GDDS) provide the strategic foundation for building a viable, scalable, and purpose-driven data space. They define the value propositions, service offerings, and economic models needed to turn data availability into tangible value for stakeholders, from real estate owners and logistics providers to CO₂ consultants and municipalities.
 
