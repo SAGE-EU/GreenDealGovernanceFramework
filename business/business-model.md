@@ -1,3 +1,5 @@
+* Business Model *
+
 A clear business model defines who benefits, how value is created, and how operations are sustained over time. In GDDS, this means clarifying:
 - Value propositions for different roles (e.g. data providers, users, municipalities, consultants, real estate owners, etc.)
 - Revenue mechanisms (e.g. subscription, pay-per-use, public-private funding)
