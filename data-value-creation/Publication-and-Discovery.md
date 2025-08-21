@@ -1,4 +1,4 @@
-# Publication & discovery
+# Publication & Discovery
 
 The Publication & Discovery building block enables providers of data and services to expose their offerings (with metadata, terms, and access conditions) and make them visible to other data space participants. Consumers, in turn, use this capability to search, identify, and request access to offerings that best fit their needs.
 
