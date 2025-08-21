@@ -8,4 +8,5 @@ A clear business model defines who benefits, how value is created, and how opera
 
 Given the public-good nature of environmental data, hybrid models may emerge, blending open access for non-commercial insights with paid tiers for premium analytical services or compliance tooling. The goal is to ensure that data sharing benefits are both equitably distributed and economically sustainable.
 
+*Further content will be added after co-creation sessions.* 
 
