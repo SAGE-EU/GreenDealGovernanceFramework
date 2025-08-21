@@ -10,7 +10,7 @@ This documentation is mainly structured based on the [building blocks as defined
 - Legal: The required contractual framework between participants and regulatory compliance. 
 
 [Technical Building Blocks](https://dssc.eu/space/BVE2/1071254703): These address the key capabilities on a technical level. They are also subdivided into three categories:
--Data Interoperability: Specifying domain models/semantics, technical interfaces for data exchange and approaches for provenance & traceability.
--Data Sovereignty & Trust: Enabling the identification of participants, verifying compliance and specifying and enforcing data access and usage policies.
--Data Value Creation Enablers: Describing and publishing of data products and making them findable for others (e.g. in a catalogue), as well as introducing additional services for value-creation in your data space
+- Data Interoperability: Specifying domain models/semantics, technical interfaces for data exchange and approaches for provenance & traceability.
+- Data Sovereignty & Trust: Enabling the identification of participants, verifying compliance and specifying and enforcing data access and usage policies.
+- Data Value Creation Enablers: Describing and publishing of data products and making them findable for others (e.g. in a catalogue), as well as introducing additional services for value-creation in your data space
 
