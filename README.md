@@ -1,4 +1,4 @@
-# Introduction to the iSHARE Data space Template
+# Introduction to the SAGE Data space Template
 
 This is a template for defining a data space that is build on top of the [iSHARE Trust Framework](https://framework.ishare.eu). To start defining a data space:
 
