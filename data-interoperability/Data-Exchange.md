@@ -1,4 +1,4 @@
-# Data exchange
+# Data Exchange
 
 The Data Exchange building block defines how data is actually transmitted between GDDS participants, ensuring technical interoperability, reliability, and alignment with the Trust Framework, Access & Usage Policies, and agreed Data Models.
 
