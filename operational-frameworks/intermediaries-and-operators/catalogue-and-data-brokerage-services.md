@@ -1,0 +1,15 @@
+# Catalogue and Data Brokerage Services
+
+A dedicated [Catalogue portal](https://beta.catalogue.gdds.eu/search/all_collection?q=) has been developed to significantly enhance dataset discovery within the GDDS ecosystem by leveraging deep integration with the Federated Catalogue API. The Catalogue, based on the CYFRONET technical solution, provides a unified and intuitive search interface that allows users to efficiently explore a wide range of metadata resources. Advanced filtering capabilities and faceted search capabilities enable users to refine queries based on multiple criteria, including the possibility to restrict results to selected underlying catalogues. By exposing harmonised and standardized metadata and supporting structured navigation across federated resources, the Catalogue improves visibility and accessibility of datasets while reducing fragmentation between catalogue services. Upon selecting a dataset, users are seamlessly redirected to the Federated Catalogue dashboard, where detailed metadata can be reviewed and where access negotiation and subsequent data transfer can be initiated in accordance with governance frameworks.&#x20;
+
+From a technical perspective, the Catalogue is implemented as a modular web application consisting of a Python FastAPI backend and an Angular frontend, supported by Apache Solr as the search engine and PostgreSQL database. Metadata records are retrieved from the Federated Catalogue API and synchronised into the search index through a dedicated transformer service, also implemented in Python using FastAPI, which ensures consistent metadata structure and efficient indexing. This architecture enables scalable ingestion, fast querying, and flexible filtering of metadata across multiple catalogues.
+
+In parallel, the integration of the iSHARE Trust Framework components is currently underway. This integration will enable federated authentication via trusted identity providers (e.g. based on Keycloak) operated by or on behalf of organisations registered within the data space. As a result, users will benefit from a single sign-on experience, allowing them to authenticate once and seamlessly move between the Catalogue portal and Federated Catalogue dashboard without repeated logins.  This ensures a secure, compliant, and user-friendly interaction with GDDS data assets while maintaining strict adherence to trust and identity management principles [_(You can read more about this on the next page)._](#user-content-fn-1)[^1]
+
+Through these combined capabilities, the Catalogue portal reinforces the role of intermediaries within the GDDS framework. It facilitates trusted data discovery, supports efficient access brokerage, and promotes interoperability across distributed data services. Ultimately, it contributes to a more integrated, scalable, and user-centric data-sharing environment.&#x20;
+
+{% hint style="warning" %}
+_Editor's note: Further content will be added in alignment with WP6, WP4, WP5 and the Techie group, including inputs from Task 3.4 on value-added services._
+{% endhint %}
+
+[^1]: consider to add note

@@ -1,3 +1,7 @@
+---
+icon: seedling
+---
+
 # Introduction to the Green Deal Data Space (GDDS)
 
 ## GDDS: The Data Space for a Sustainable Green Europe
