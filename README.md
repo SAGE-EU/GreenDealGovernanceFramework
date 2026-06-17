@@ -1,27 +1,72 @@
-# GDDS Rulebook v0.3
+# Introduction to the Green Deal Data Space (GDDS)
 
-Welcome to the **Green Deal Data Space (GDDS) Rulebook** — the common framework governing the design, implementation, and operation of the Green Deal Data Space. Developed by the SAGE consortium, the Rulebook brings together the principles, governance arrangements, legal foundations, and technical building blocks needed to make environmental and sustainability data shareable, trustworthy, and useful across the European Union.
+## GDDS: The Data Space for a Sustainable Green Europe
 
-This site is the working version of the Rulebook (v0.3). Each chapter below corresponds to a section of the document and can be read on its own, or you can open the [Full Rulebook](./full.md) for a single-page view of everything. The sidebar navigation on GitBook is generated from [`SUMMARY.md`](./SUMMARY.md).
+SAGE consortium will establish an initial version of the Green Deal Data Space (GDDS), supporting the use cases development within the project and aligning with the applicable data space rules and standards defined over the project timelin The GDDS will aim to enhance the accessibility, integration, and utilisation of green and environmental data across the EU to support key pillars of the European Green Deal—Zero Pollution, Climate Adaptation, Biodiversity and the Circular Economy Action Plan.&#x20;
 
-## Contents
+Building directly upon the[ ](https://www.greatproject.eu/)[GREAT project](https://www.greatproject.eu/) Community of Practice and results and aligning with the Digital Europe Programme's strategic focus on AI, cybersecurity, advanced computing, and data infrastructure, SAGE leverages outcomes from the European Strategy for Data and Research facilitated by[ Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en). &#x20;
 
-- [Preamble](./00-preamble.md)
-- [Introduction to the Green Deal Data Space (GDDS)](./01-introduction-to-the-green-deal-data-space-gdds.md)
-- [Green Deal Data Space Rulebook](./02-green-deal-data-space-rulebook.md)
-- [Documentation Structure](./03-documentation-structure.md)
-- [Glossary](./04-glossary.md)
-- [Business & Organisational Building Blocks](./05-business-organisational-building-blocks.md)
-- [Governance Building Blocks](./06-governance-building-blocks.md)
-- [Organisational Form and Governance Authority](./07-organisational-form.md)
-- [Governance Framework](./08-governance-framework.md)
-- [Legal Building Blocks](./09-legal-building-blocks.md)
-- [Technical Building Blocks](./10-technical-building-blocks.md)
-- [Data Interoperability](./11-data-interoperability.md)
-- [Data Sovereignty and Trust](./12-data-sovereignty-and-trust.md)
-- [Data Value Creation Enablers](./13-data-value-creation-enablers.md)
-- [Full Rulebook (Single Page)](./full.md)
+SAGE's outcomes include seamlessly integrating fragmented environmental data through federation, enriching data with consistent quality, validation, and interoperable metadata, and enhancing capabilities for data transformation, processing, analysis, forecasting, target setting, and performance monitoring. Targeting businesses seeking compliance with EGD regulations, government bodies optimising environmental impact, citizens and citizen scientists engaging in environmental stewardship, and researchers aiming to deepen our ecological understanding, SAGE aspires to foster informed decision-making and policy formulation based on robust data and evidence. SAGE’s sustainability will be ensured by establishing a standalone legal entity to manage the data space and scale operations throughout the project's lifetime and beyond.&#x20;
 
-## Images
+## GDDS Mission, Vision, Values
 
-Embedded figures are stored in [`./images/`](./images/).
+{% hint style="warning" %}
+_Editor’s note: This section has been developed by building on the original mission and vision defined in the GDDS GREAT project and further refined and agreed upon through co-creation sessions with SAGE consortium members._
+{% endhint %}
+
+### **Mission**
+
+To enable a trusted, interoperable, and sustainable Green Deal Data Space ecosystem that empowers all actors, within GDDS and beyond, to securely share and use environmental and sustainability data in support of the European Green Deal objectives.&#x20;
+
+GDDS facilitates secure and governed data access, connects fragmented infrastructures, and enhances data FAIRness. It supports regulatory implementation, enables advanced use cases such as digital twins, and drives data-driven value creation, while ensuring transparent, inclusive, and adaptable governance that evolves alongside EU priorities.&#x20;
+
+### **Vision**
+
+A globally connected and self-sustaining Green Deal Data Space in which public authorities, private organisations, research institutions, and communities seamlessly exchange high-quality, sovereign, and FAIR environmental data.&#x20;
+
+In this vision, data-driven insights actively inform environmental action, accelerate circular economy growth, and enable cross-sector collaboration. GDDS operates as part of an interoperable ecosystem of data spaces that collectively support a fair, green, and digital transition in Europe and beyond.&#x20;
+
+### **Core Values**
+
+**Transparency and Accountability** \
+GDDS ensures open, traceable decision-making processes, clear participation rules, and accountable governance aligned with European values to foster trust among all participants.&#x20;
+
+**Inclusiveness and Openness** \
+GDDS promotes broad participation across sectors, regions, and communities, respecting diversity and ensuring equitable access and representation.&#x20;
+
+**Scalability and Sustainability** \
+The governance and technical framework of GDDS evolves with its maturity, supporting scalable operations, viable business models, and long-term continuity.&#x20;
+
+**Trust and Ethics** \
+GDDS safeguards sensitive, personal, and commercial data, ensuring compliance with EU security, privacy, and “Do No Significant Harm” principles.&#x20;
+
+**Adaptability and Innovation** \
+GDDS embraces continuous learning and innovation, aligning with evolving EU priorities and integrating emerging technologies such as digital twins and AI.&#x20;
+
+**FAIR & Sovereign Data Sharing** \
+GDDS is committed to ensuring data is Findable, Accessible, Interoperable, and Reusable, while fully respecting data sovereignty and enabling ethical data use.&#x20;
+
+**Collaboration & Value Creation** \
+GDDS fosters cross-sector collaboration, interoperability with other data spaces, and the creation of downstream economic and societal value from data-driven services.&#x20;
+
+{% hint style="warning" %}
+_Editor’s note: These values will be aligned and validated with UNIBO from an ethical perspective, WP9._&#x20;
+{% endhint %}
+
+## GDDS: Stakeholders
+
+GDDS stakeholders encompass all entities that are involved in, contribute to, or are affected by the GDDS ecosystem.
+
+For clarity, stakeholders are grouped into internal and external stakeholders.
+
+### Internal Stakeholders
+
+Internal stakeholders are organisations or individuals formally engaged in the GDDS and operating under the GDDS Rulebook and its governance, legal, and contractual framework. These include GDDS Participants and GDDS Governance bodies.&#x20;
+
+A detailed description of these stakeholder categories, including their roles, responsibilities, and governance structures, is provided in the Governance Framework section of the Rulebook.&#x20;
+
+### External Stakeholder
+
+External stakeholders are organisations or groups that are not formally participating in the GDDS but may influence or be affected by its activities. These may include regulators, non-governmental organisations, sectoral actors, and end-user communities.
+
+External stakeholders are not bound by the GDDS Rulebook; however, their perspectives and potential impact shall be considered to ensure transparency, trust, and responsible governance. They may engage with the GDDS through mechanisms such as a Community of Practice or other consultation frameworks.
