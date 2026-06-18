@@ -19,9 +19,8 @@ The remainder of this page serves as a reader’s guide to the GDDS Frameworks�
 
 The Figure below illustrates the GDDS Framework Structure: &#x20;
 
-<img src=".gitbook/assets/unknown (2).png" alt="Figure 1: Documentation Structure Breakdown" height="331" width="624">
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Figure 1: Documentation Structure Breakdown</p></figcaption></figure>
 
-&#x20;\
 1\. Business Frameworks: This framework sets out the economic and value-creation rationale of the GDDS – why the data space exists and how it delivers value to its participants. It covers the following: &#x20;
 
 * Business Model (the value propositions, revenue logic, and sustainability of the data space), &#x20;

@@ -23,8 +23,12 @@
 ## GOVERNNACE FRAMEWORKS
 
 * [Introduction](governnace-frameworks/introduction.md)
-* [Governance Playbook](governnace-frameworks/governance-playbook.md)
-* [Rulebook](governnace-frameworks/rulebook.md)
+* [Governance Playbook](governnace-frameworks/governance-playbook/README.md)
+  * [GDDS Organisational Form](governnace-frameworks/governance-playbook/gdds-organisational-form.md)
+  * [GDDS Governance Authority & Model](governnace-frameworks/governance-playbook/gdds-governance-authority-and-model/README.md)
+    * [Governance Model for the Project Phase (MVP1)](governnace-frameworks/governance-playbook/gdds-governance-authority-and-model/governance-model-for-the-project-phase-mvp1.md)
+    * [Governance Model for the Operational GDDS (MVP2)](governnace-frameworks/governance-playbook/gdds-governance-authority-and-model/governance-model-for-the-operational-gdds-mvp2.md)
+* [GDDS Rulebook](governnace-frameworks/gdds-rulebook.md)
 * [Rolebook](governnace-frameworks/rolebook.md)
 
 ## Legal Frameworks
