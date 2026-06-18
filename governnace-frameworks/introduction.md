@@ -16,7 +16,7 @@ The current GDDS Governance Framework has been developed through an iterative co
 
 To further orient readers, this section first introduces a layered view of governance – helping readers understand how governance can be structured and what it should enable – before describing the individual components in detail.&#x20;
 
-This layered approach supports the design of an evolving governance model that can adapt as the data space matures, while ensuring clear responsibilities for strategic direction, operational execution, stakeholder participation, and independent oversight. See the expandable tabs below with Layer 1 and Layer 2 detailed desriptions.
+This layered approach supports the design of an evolving governance model that can adapt as the data space matures, while ensuring clear responsibilities for strategic direction, operational execution, stakeholder participation, and independent oversight. See the expandable tabs below with Layer 1 and Layer 2 detailed descriptions.
 
 <details>
 
@@ -167,7 +167,7 @@ Editor’s note: This section synthesises governance principles derived from ana
 
 <summary><strong>LAYER 2 – Governance Capabilities defined in GDDS — what governance should enable</strong></summary>
 
-The GDDS governance framework must enable a defined set of capabilities across its ecosystem. These capabilities reflect the consolidated requirements of the GDDS Use Cases (WP6), GDDS Process Requirements and suggestions from the SIMPL Feasibility study [(See here](#user-content-fn-1)[^1]). They establish what governance must make possible in practice, spanning authority, participation, roles, trust, data sovereignty, and compliance. Detailed requirements for each area are embedded in the corresponding building block sections of this Rulebook.&#x20;
+The GDDS governance framework must enable a defined set of capabilities across its ecosystem. These capabilities reflect the consolidated requirements of the GDDS Use Cases (WP6), GDDS Process Requirements and suggestions from the SIMPL Feasibility study [(See here](#user-content-fn-1)[^1]). They establish what governance must make possible in practice, spanning authority, participation, roles, trust, data sovereignty, and compliance.&#x20;
 
 ### Organisational Form and Governance Authority&#x20;
 
