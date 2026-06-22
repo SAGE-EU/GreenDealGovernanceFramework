@@ -91,7 +91,7 @@ Within the MVP1 governance framework, the General Assembly acts as the primary g
 
 ### Composition&#x20;
 
-The General Assembly consists of representatives of all funded consortium partners participating in the SAGE project.&#x20;
+The General Assembly consists of representatives of all funded consortium partners participating in the SAGE project (for more details, visit this [page](https://www.greendealdata.eu/about/consortium/)).&#x20;
 
 Members participate through the organisational structure of the project, including Work Packages and coordination bodies.&#x20;
 

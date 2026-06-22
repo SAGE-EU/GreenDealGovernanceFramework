@@ -26,7 +26,7 @@ GDDS facilitates secure and governed data access, connects fragmented infrastruc
 
 ### **Vision**
 
-A globally connected and self-sustaining Green Deal Data Space in which public authorities, private organisations, research institutions, and communities seamlessly exchange high-quality, sovereign, and FAIR environmental data.&#x20;
+A globally connected and self-sustaining Green Deal Data Space in which public authorities, private organisations, research institutions, and communities seamlessly exchange high-quality, sovereign, and FAIR (Findable, Accessible, Interoperable, and Reusable) environmental data.&#x20;
 
 In this vision, data-driven insights actively inform environmental action, accelerate circular economy growth, and enable cross-sector collaboration. GDDS operates as part of an interoperable ecosystem of data spaces that collectively support a fair, green, and digital transition in Europe and beyond.&#x20;
 
@@ -53,9 +53,9 @@ GDDS is committed to ensuring data is Findable, Accessible, Interoperable, and R
 **Collaboration & Value Creation** \
 GDDS fosters cross-sector collaboration, interoperability with other data spaces, and the creation of downstream economic and societal value from data-driven services.&#x20;
 
-{% hint style="warning" %}
-_Editor’s note: These values will be aligned and validated with UNIBO from an ethical perspective, WP9._&#x20;
-{% endhint %}
+The mission and values described under the governance perspective are aligned to the approach taken by the ethical principles of the SAGE Project. Specifically, the mission reflects the GDDS objectives, mainly focused on sustainability, i.e, the goal of achieving the digital transition through fair, transparent, and inclusive governance framework. “Scalability”, “Adaptability and Innovation” and “Value Creation” transpose the theoretical findings set through “data-oriented” ethical principles in the “living” governance of the GDDS. &#x20;
+
+The core values in the governance layer establish accountability, broad participation, and cross-collaboration among different sectors. By following this framework, the GDDS fosters a structured approach to legal, governance, and business frameworks by understanding their relationship rather than isolating them as individual components. The ethical principles outlined above allow for this integration.
 
 ## GDDS: Stakeholders
 

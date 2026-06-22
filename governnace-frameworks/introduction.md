@@ -1,6 +1,6 @@
 # Introduction
 
-The Governance Frameworks define how the GDDS is governed, by whom, and under which rules. It also serves as a foundation of the GDDS, including its governance bodies, decision-making processes, and participation management mechanisms. Together, these elements provide the structure necessary to ensure accountability, trust, and coordinated collaboration across the data space.
+The Governance Frameworks define how the GDDS is governed, by whom, and under which rules. It also serves as a foundation of the GDDS, including its governance bodies, decision-making processes, and participation lifecycle management mechanisms. Together, these elements provide the structure necessary to ensure accountability, trust, and coordinated collaboration across the data space.
 
 For this reason, the Governance Frameworks comprise:&#x20;
 
@@ -45,7 +45,7 @@ The GDDS governance framework is therefore expected to operate across clearly di
 
 * an ecosystem or cross-data-space layer,&#x20;
 * a GDDS-wide governance layer,&#x20;
-* domain or use-case-specific governance, to maintain Fairness across participants&#x20;
+* domain or use-case-specific governance, to maintain FAIR principles across participants&#x20;
 * and participant-level rules and obligations, to preserve Accountability.&#x20;
 
 Each layer has a distinct purpose and scope, and governance decisions must be taken at the appropriate layer to avoid over-centralization or fragmentation.&#x20;

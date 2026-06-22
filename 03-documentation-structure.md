@@ -25,7 +25,7 @@ To read further, open the extandable tabs below.
 
 <details>
 
-<summary>1. <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/business-frameworks">Business Frameworks</a></summary>
+<summary>1. Business Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/business-frameworks">here</a>)</summary>
 
 This framework sets out the economic and value-creation rationale of the GDDS – why the data space exists and how it delivers value to its participants. It covers the following: &#x20;
 
@@ -39,7 +39,7 @@ Readers looking to understand the purpose, scope, and value drivers of the GDDS 
 
 <details>
 
-<summary>2. <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/operational-frameworks">Operational Frameworks</a></summary>
+<summary>2. Operational Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/operational-frameworks">here</a>)</summary>
 
 This framework describes how the GDDS runs in practice and who keeps it running. It covers the following: &#x20;
 
@@ -53,12 +53,19 @@ Readers concerned with the practical operation, service delivery, and operationa
 
 <details>
 
-<summary>3.<a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/governnace-frameworks"> Governance Frameworks</a></summary>
+<summary>3. Governance Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/governnace-frameworks">here</a>)</summary>
 
 This framework defines how the GDDS is governed, by whom, and under which rules. It comprises the following: &#x20;
 
 * The Governance Playbook, which describes the governance model, decision-making bodies, and lines of authority across the data space, &#x20;
-* and the Governance / GDDS Rulebook, which operationalises the governance framework. The Rulebook in turn covers Trust & Participant Governance (how participants are identified, admitted, onboarded, monitored, and, where necessary, suspended or withdrawn), the Conformity Framework & Governance Enforcement (the mechanisms for verifying compliance and enforcing the rules), Data Sovereignty (the governance of rights and control over data), and Technical Governance (the governance touchpoints for the technical components and standards of the data space). &#x20;
+* and the Governance / GDDS Rulebook, which operationalises the governance framework.&#x20;
+
+The Rulebook in turn covers:&#x20;
+
+* Trust & Participant Governance (how participants are identified, admitted, onboarded, monitored, and, where necessary, suspended or withdrawn),&#x20;
+* The Conformity Framework & Governance Enforcement (the mechanisms for verifying compliance and enforcing the rules),&#x20;
+* Data Sovereignty (the governance of rights and control over data), and&#x20;
+* Technical Governance (the governance touchpoints for the technical components and standards of the data space). &#x20;
 
 Readers seeking to understand participants’ rights and obligations, the governance bodies, and how the rules are maintained and enforced should consult this framework.&#x20;
 
@@ -66,7 +73,7 @@ Readers seeking to understand participants’ rights and obligations, the govern
 
 <details>
 
-<summary>4. <a href="03-documentation-structure.md#id-4.-legal-frameworks">Legal Frameworks</a></summary>
+<summary>4. Legal Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/legal-frameworks">here</a>)</summary>
 
 This framework establishes the legal basis for participation in and operation of the GDDS. It comprises the following: &#x20;
 
@@ -79,7 +86,7 @@ Readers needing to understand the regulatory obligations and the contractual rel
 
 <details>
 
-<summary>5. <a href="03-documentation-structure.md#id-5.-technical-frameworks">Technical Frameworks</a></summary>
+<summary>5. Technical Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/technical-frameworks">here</a>)</summary>
 
 This framework specifies the technical means by which the GDDS operates and through which data is exchanged securely and meaningfully. This section covers the following: &#x20;
 
