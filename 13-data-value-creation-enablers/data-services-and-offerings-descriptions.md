@@ -1,5 +1,9 @@
 # Data, Services, and Offerings Descriptions
 
+{% hint style="warning" %}
+_This section might be updated based on the latest developments in the SAGE consortium, specifically considering WP2, WP3, WP4, and WP5 working groups. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
+{% endhint %}
+
 A foundational step toward value creation in the Green Deal Data Space (GDDS) is ensuring that data, services, and offerings are described in a clear, standardised, and machine-readable manner. Without a common way of expressing what is available in the data space, participants cannot efficiently discover, compare, or reuse resources.
 
 This building block provides the tools and methodologies for consistent and transparent descriptions. It enables data providers and service operators to publish offerings in a way that is not only understandable to humans, but also interoperable for automated discovery and integration across systems and Member States.

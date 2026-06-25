@@ -44,10 +44,18 @@ Moreover, as proposed by the DSSC blueprint, based on the governance of the data
 
 This requirement allows other participants, intermediaries, and value-added service providers to assess semantic compatibility, perform mappings where needed, and build cross‑domain applications without ambiguity. For example, emissions related use cases require explicit references to calculation methodologies and classifications to make datasets comparable, while environmental valuation use cases depend on clearly declared ecosystem service classifications to support reuse and aggregation.&#x20;
 
+{% hint style="warning" %}
+_To note: Governance gap: the Vocabulary Service concept is established here, but the governance authority responsible for managing, approving, and evolving models in the service remains unassigned. WP4 to define which body holds this responsibility and what the admission process for new models is._
+{% endhint %}
+
 ## Levels of semantic abstraction and evolution&#x20;
 
 Following the incremental approach described above, the GDDS will support multiple levels of semantic abstraction, ranging from lightweight vocabularies and code lists, through application profiles and schemas, to fully formalised ontologies where appropriate. Transitions between these levels are expected and supported, allowing participants to progressively increase semantic interoperability maturity according to their needs and capabilities. For example, a dataset described using controlled vocabularies may still be exchanged in formats such as JSON, CSV, or NetCDF, while higher-level semantic relationships can be captured through metadata, documentation, or semantic annotations. In more advanced scenarios, these relationships may also be formally represented using fully fledged ontologies and semantic data representations such as JSON-LD or RDF.&#x20;
 
 From a governance perspective, data models used within GDDS will be treated as living artefacts. Models evolve as domains mature, policies change, or new use cases emerge. GDDS will, therefore, promote explicit versioning, change documentation, and lifecycle management of semantic artefacts. Rather than centralising modelling authority, governance will focus on ensuring that models are discoverable, referenced consistently, and aligned — where necessary — with cross‑domain and cross‑data‑space interoperability requirements. This approach will enable GDDS to remain flexible and inclusive while still supporting scalable interoperability across Green Deal domains.&#x20;
+
+{% hint style="warning" %}
+_Note: Governance gap: a change management SOP for semantic artefacts has been identified as a required operational document (see also WP4 planning and sections above). This includes the procedure for requesting model updates, approval authority, backward compatibility obligations, and communication to affected participants. To be developed as part of the D4.1 - at least first draft._
+{% endhint %}
 
 [^1]: &#x20;Curry E. (2020) Fundamentals of Real-time Linked Dataspaces. In: Real-time Linked Dataspaces. Springer, Cham
