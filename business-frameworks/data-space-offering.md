@@ -1,4 +1,12 @@
+---
+icon: hands-holding-diamond
+---
+
 # Data Space Offering
+
+{% hint style="warning" %}
+_This section might be updated based on the latest developments in the SAGE consortium, specifically considering WP6, WP7, WP4, and the Techie group, including inputs from Task 3.4 on value-added services. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._ &#x20;
+{% endhint %}
 
 The GDDS data space offering comprises data assets and associated services that enable the development and deployment of use cases within the ecosystem. It includes both data products and services that, together, support the creation of value for different categories of participants.
 
@@ -13,7 +21,3 @@ Value-added services extend the core functionality of the data space by enabling
 The design and packaging of data space offerings shall reflect user needs and specific use case requirements. This includes the bundling of data products and services into coherent offerings, such as dashboards, APIs, or integrated solutions tailored to user groups. Such offerings shall be defined in a manner that ensures clarity with respect to licensing models, terms of use, and user support services, while also enabling interoperability with relevant European data infrastructures.
 
 A well-defined and structured data space offering contributes to enhanced usability, legal certainty, and trust, thereby supporting the adoption of the GDDS and its long-term sustainability.
-
-{% hint style="warning" %}
-_Editor's note: Further content will be added in alignment with WP6, WP7, WP4, and the Techie group, including inputs from Task 3.4 on value-added services._
-{% endhint %}

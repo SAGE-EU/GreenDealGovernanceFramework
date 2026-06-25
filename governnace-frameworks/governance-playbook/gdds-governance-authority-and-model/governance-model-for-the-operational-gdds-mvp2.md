@@ -13,7 +13,7 @@ MVP2 governance builds upon the institutional foundations established during MVP
 
 The Figure below showcases the MVP2 governance model with the recommended structure of governance bodies.&#x20;
 
-<figure><img src="../../../.gitbook/assets/mvp2_operational_governance_structure.png" alt=""><figcaption><p>Figure XXX: MVP2 Governance Model for GDDS Operational Phase</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/mvp2_operational_governance_structure.png" alt=""><figcaption><p>Figure XXXXX: MVP2 Governance Model for GDDS Operational Phase</p></figcaption></figure>
 
 ***
 

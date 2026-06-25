@@ -1,5 +1,9 @@
 # Provenance & Traceability
 
+{% hint style="warning" %}
+_This section might be updated based on the latest developments in the SAGE consortium, specifically considering the WP5 working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
+{% endhint %}
+
 ## Importance of trust and reuse&#x20;
 
 Provenance and traceability are critical enablers of trust, accountability, and reuse within the GDDS. They provide transparent evidence about where data originates from, how it has been created or transformed (including evidence about ownership, custody and originating location), and how it is subsequently accessed and used. Across the SAGE use cases, provenance consistently emerged as a first‑order requirement, not only for regulatory compliance but also for scientific validity, business trust, and operational decision‑making.&#x20;

@@ -1,18 +1,24 @@
 # Introduction
 
+{% hint style="warning" %}
+_This section might be updated based on the latest developments in the SAGE consortium, specifically considering the WP4 Governance working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._ &#x20;
+{% endhint %}
+
 The Governance Frameworks define how the GDDS is governed, by whom, and under which rules. It also serves as a foundation of the GDDS, including its governance bodies, decision-making processes, and participation lifecycle management mechanisms. Together, these elements provide the structure necessary to ensure accountability, trust, and coordinated collaboration across the data space.
 
 For this reason, the Governance Frameworks comprise:&#x20;
 
 1. The Governance Playbook, which describes the governance model, decision-making bodies, and lines of authority,&#x20;
 2. and the Governance / GDDS Rulebook, which operationalises that framework and covers Trust & Participant Governance, the Conformity Framework & Governance Enforcement, Data Sovereignty, and Technical Governance.&#x20;
-3. _Rolebook - TBD - see specific page for this_
+3. [_Rolebook - TBD - see specific page for this_](#user-content-fn-1)[^1]
 
 {% hint style="info" %}
-The current GDDS Governance Framework has been developed through an iterative co-creation process, drawing on insights from the GREAT project, governance models from other European data spaces, and continuous input from SAGE consortium partners and external stakeholders. Governance is therefore designed as an evolving structure, capable of adapting as the data space matures while maintaining clear responsibilities for strategic direction, operational execution, stakeholder participation, and independent oversight.
+_The current GDDS Governance Framework has been developed through an iterative co-creation process, drawing on insights from the GREAT project, governance models from other European data spaces, and continuous input from SAGE consortium partners and external stakeholders. Governance is therefore designed as an evolving structure, capable of adapting as the data space matures while maintaining clear responsibilities for strategic direction, operational execution, stakeholder participation, and independent oversight._
 {% endhint %}
 
-&#x20;Readers seeking to understand participants’ rights and obligations, the governance bodies, and how the rules are maintained and enforced should consult this section.
+{% hint style="warning" %}
+Readers seeking to understand participants’ rights and obligations, the governance bodies, and how the rules are maintained and enforced should consult this section.
+{% endhint %}
 
 To further orient readers, this section first introduces a layered view of governance – helping readers understand how governance can be structured and what it should enable – before describing the individual components in detail.&#x20;
 
@@ -167,7 +173,7 @@ Editor’s note: This section synthesises governance principles derived from ana
 
 <summary><strong>LAYER 2 – Governance Capabilities defined in GDDS — what governance should enable</strong></summary>
 
-The GDDS governance framework must enable a defined set of capabilities across its ecosystem. These capabilities reflect the consolidated requirements of the GDDS Use Cases (WP6), GDDS Process Requirements and suggestions from the SIMPL Feasibility study [(See here](#user-content-fn-1)[^1]). They establish what governance must make possible in practice, spanning authority, participation, roles, trust, data sovereignty, and compliance.&#x20;
+The GDDS governance framework must enable a defined set of capabilities across its ecosystem. These capabilities reflect the consolidated requirements of the GDDS Use Cases (WP6), GDDS Process Requirements and suggestions from the SIMPL Feasibility study [(See here](#user-content-fn-2)[^2]). They establish what governance must make possible in practice, spanning authority, participation, roles, trust, data sovereignty, and compliance.&#x20;
 
 ### Organisational Form and Governance Authority&#x20;
 
@@ -181,7 +187,7 @@ Governance must enable the GDDS to operate under a formally constituted authorit
 * Accommodate facilitator and use-case orchestrator roles within the governance structure.&#x20;
 * Define and oversee monetisation models, including centralised payment and settlement mechanisms.&#x20;
 
-[_See: Organisational Form and Governance Authority (p. XX)_ ](#user-content-fn-2)[^2]
+[_See: Organisational Form and Governance Authority (p. XX)_ ](#user-content-fn-3)[^3]
 
 ### Participation Management, Onboarding and Admission&#x20;
 
@@ -193,7 +199,7 @@ Governance must enable a structured, trustworthy participation lifecycle, includ
 * Issue participant identities enabling selective data browsing prior to transactions.&#x20;
 * Onboard holders of specialised or sensitive datasets under appropriate governance safeguards.&#x20;
 
-[_See: Participation Management, Onboarding and Admission (p. XX)_ ](#user-content-fn-2)[^2]
+[_See: Participation Management, Onboarding and Admission (p. XX)_ ](#user-content-fn-3)[^3]
 
 ### GDDS Roles, Rights and Responsibilities&#x20;
 
@@ -207,7 +213,7 @@ Governance must establish a clear and enforceable taxonomy of roles and associat
 * Support event-based notifications from providers upon relevant operational events.&#x20;
 * Require providers to expose data access via standard, governed interfaces (e.g. APIs).&#x20;
 
-[_See: GDDS Roles, Rights and Responsibilities (p. XX)_ ](#user-content-fn-2)[^2]
+[_See: GDDS Roles, Rights and Responsibilities (p. XX)_ ](#user-content-fn-3)[^3]
 
 ### Participation, Roles and Trust Framework / Authentication and Authorisation&#x20;
 
@@ -220,7 +226,7 @@ Governance must establish the conditions under which participants are authentica
 * Facilitate access by financial institutions to ecosystem service and natural capital evaluations (UC9 specific).&#x20;
 * Enforce trust conditions established at onboarding throughout the participation lifecycle.&#x20;
 
-[_See: Participation, Roles and Trust Framework / Authentication and Authorisation (p. XX)_ ](#user-content-fn-2)[^2]
+[_See: Participation, Roles and Trust Framework / Authentication and Authorisation (p. XX)_ ](#user-content-fn-3)[^3]
 
 ### Data Sovereignty and Technical Governance&#x20;
 
@@ -238,7 +244,7 @@ Governance must align technical mechanisms with governance rules, ensuring the G
 * Govern data refresh frequency, latency expectations, and upload protocol standards.&#x20;
 * Enable custom access policies where standard policies are insufficient, including geofence-based rules. &#x20;
 
-[_See: Data Sovereignty and Technical Governance (p. XX)_ ](#user-content-fn-2)[^2]
+[_See: Data Sovereignty and Technical Governance (p. XX)_ ](#user-content-fn-3)[^3]
 
 ### Certification and Conformity Framework&#x20;
 
@@ -249,18 +255,22 @@ Governance must define and oversee a conformity regime ensuring all participants
 * Enforce GDPR compliance for internal data flows, including those involving personal data.&#x20;
 * Apply personal data protection requirements to health-sensitive data (GDPR, EHDS).&#x20;
 
-[_See: Certification and Conformity Framework (p. XX)_ ](#user-content-fn-2)[^2]
+[_See: Certification and Conformity Framework (p. XX)_ ](#user-content-fn-3)[^3]
 
 </details>
 
 ### Alignment with the overall GDDS Mission, Vision, and Values&#x20;
 
-The GDDS Governance Framework operates in alignment with the overarching GDDS mission, vision, and values, which define the purpose, ambition, and societal objectives of the Green Deal Data Space as a whole.&#x20;
+The GDDS Governance Framework operates in alignment with the overarching GDDS mission, vision, and values, which define the purpose, ambition, and societal objectives of the Green Deal Data Space as a whole. See more [here ](../#gdds-mission-vision-values)on this topic.&#x20;
 
 While the definition and evolution of the GDDS mission and vision are addressed at the data space level through cross-work-package collaboration (including business, ethical, social and sustainability perspectives), the Governance Framework ensures that governance structures, decision-making processes, and operational practices remain consistent with these shared objectives.&#x20;
 
-The Governance Authority is responsible for monitoring alignment between governance decisions and the GDDS mission and vision, and for triggering formal review processes when external policy developments (e.g. changes in European Green Deal priorities) require reassessment.&#x20;
+[The Governance Authority is responsible for monitoring alignment between governance decisions and the GDDS mission and vision, and for triggering formal review processes when external policy developments (e.g. changes in European Green Deal priorities) require reassessment. ](#user-content-fn-4)[^4]
 
-[^1]: attach referance or link
+[^1]: TBC
 
-[^2]: add link
+[^2]: attach referance or link
+
+[^3]: add link
+
+[^4]: Is it the DSGA in collaboration with the Ethics Committee?&#x20;

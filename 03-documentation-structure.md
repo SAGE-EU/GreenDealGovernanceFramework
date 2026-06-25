@@ -1,11 +1,11 @@
 ---
 description: >-
   This page serves as a reader's guide on how to navigate through the GDDS
-  Frameworks
+  Frameworks.
 icon: sitemap
 ---
 
-# Documentation Structure / Reader's Guide
+# Reader's Guide
 
 The GDDS Frameworks are informed by and aligned with the[ building blocks defined in the ](https://dssc.eu/space/BVE2/1071251457/Data+Spaces+Blueprint+v2.0+-+Home)[Data Spaces Blueprint 3.0 by the Data Spaces Support Centre,](https://blueprint.dssc.eu/) which in turn is based on the[ Open DEI project.](https://design-principles-for-data-spaces.org/) &#x20;
 
@@ -13,15 +13,17 @@ Building on these foundations, the SAGE Consortium has developed a tailored fram
 
 However, the original building blocks are still incorporated in the GDDS Frameworks, and they ensure modularity, scalability, and interoperability. Each building block represents a distinct set of capabilities required for the functioning of the data space, while allowing flexibility in implementation across different use cases and participants. This approach enables the GDDS to align with European data space standards while supporting incremental development and integration of additional functionalities over time.&#x20;
 
-The Figure below illustrates the GDDS Framework Structure: &#x20;
+The Figure below illustrates the GDDS Frameworks Structure: &#x20;
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Figure 1: Documentation Structure Breakdown</p></figcaption></figure>
 
 The remainder of this page serves as a reader’s guide to the GDDS Frameworks’ documentation: it introduces the Frameworks, explains what they cover, and points readers to where the related rules, policies, and specifications can be found.
 
-&#x20;Readers new to the GDDS are encouraged to start here to understand how the different parts of the documentation fit together before consulting the detailed sections.&#x20;
+{% hint style="warning" %}
+&#x20;Readers are encouraged to start here to understand how the different parts of the documentation fit together before consulting the detailed sections.&#x20;
+{% endhint %}
 
-To read further, open the extandable tabs below.
+To see further, open the expandable tabs below.
 
 <details>
 

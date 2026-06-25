@@ -1,5 +1,9 @@
 # Introduction
 
+{% hint style="warning" %}
+_This section might be updated based on the latest developments in the SAGE consortium, specifically considering WP2, WP3, WP4, and WP5 working groups. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
+{% endhint %}
+
 Technical capabilities form the foundation for operating and scaling the Green Deal Data Space (GDDS). Their purpose is to ensure secure, interoperable, and value-driven data exchange between diverse participants across sectors and Member States.&#x20;
 
 The Technical Frameworks specify the technical means by which the GDDS operates and through which data is exchanged securely and meaningfully. They begin with the GDDS Infrastructure / Architecture, which describes the overall technical structure of the data space and its core components, and are then organised into the three areas described below.

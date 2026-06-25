@@ -1,7 +1,11 @@
+---
+icon: briefcase-blank
+---
+
 # Business Model
 
 {% hint style="warning" %}
-_Note: This section is not the final one, it is expected to be updated based on the D7.1._&#x20;
+_This section might be updated based on the latest development in the SAGE consortium, specifically considering D7.1 by WP7 - Business Model working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
 {% endhint %}
 
 A clear business model defines who benefits, how value is created, and how operations are sustained over time. &#x20;

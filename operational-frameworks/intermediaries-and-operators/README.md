@@ -1,4 +1,12 @@
+---
+icon: head-side-gear
+---
+
 # Intermediaries & Operators
+
+{% hint style="warning" %}
+_This section might be updated based on the latest developments in the SAGE consortium, specifically considering WP6, WP7, WP4, and the Techie group, including inputs from Task 3.4 on value-added services. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._ &#x20;
+{% endhint %}
 
 In GDDS, intermediaries and operators play a crucial enabling role, making data accessible, trustworthy, and compliant with EU regulations. They help reduce complexity and lower barriers to entry for participants.
 
@@ -10,9 +18,5 @@ Key responsibilities may include:
 * Onboarding and support for participants, especially SMEs and municipalities.
 
 Operators might include neutral industry bodies, domain-specific hubs, or trusted IT providers. In GDDS, multiple operators can coexist under federated rules, enabling sectoral specialisation while ensuring interoperability through shared trust frameworks.
-
-{% hint style="warning" %}
-_Editor's note: Further content will be added in alignment with WP6, WP4, WP5 and the Techie group, including inputs from Task 3.4 on value-added services._
-{% endhint %}
 
 [^1]: TBD

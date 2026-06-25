@@ -22,7 +22,7 @@ The MVP1 phase, therefore, also serves as a testing environment for elements of 
 
 The Figure below showcases the MVP1 governance structure, in line with the current project organisation and includes the governance bodies.
 
-<figure><img src="../../../.gitbook/assets/mvp1_interim_governance_structure.png" alt=""><figcaption><p>Figure XXX: MVP1 Governance Model for SAGE Project Phase</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/mvp1_interim_governance_structure.png" alt=""><figcaption><p>Figure XXXXX: MVP1 Governance Model for SAGE Project Phase</p></figcaption></figure>
 
 ***
 
@@ -161,17 +161,30 @@ Membership may include:&#x20;
 
 ### Appointment Process of SSC &#x20;
 
-Members of the GDDS Strategic Steering Committee shall be appointed by the General Assembly based on a proposal prepared by the Project Coordinator (or a designated small group), considering the composition principles defined in this document.&#x20;
+First, the General Assembly votes on the establishment of the SSC, including its proposed mandates and compositions based on the Proposal prepared by the WP4 Governance Group. (see below also in the Mandate and Scope section).
 
-The selection process shall aim to ensure:&#x20;
+Then, members of the GDDS Strategic Steering Committee are nominated by the General Assembly with the following rules in mind:&#x20;
 
-* Balanced representation across governance, technical, business, legal and use case domains &#x20;
-* Diversity of perspectives across participating organisations &#x20;
-* Inclusion of members with sufficient decision-making insight &#x20;
+The SSC is proposed to consist of 5–7 members with balanced representation across five domains: Governance, Technical, Business, Legal, and Use Cases. Additionally, it should include the Project coordinators and an External Advisor. Members are expected to act with independence of judgement in the broader interest of the GDDS. The members must be part of the consortium to represent the domains.
 
-Consortium partners may express interest or nominate candidates.&#x20;
+Submission rules:\
+• One submission per consortium member organisation\
+• Maximum one nominee per domain (up to 5 nominees total)\
+• Self-nominations are not accepted
+
+The SSC proposal sets out the following working principles for members:\
+• Diversity of expertise — complementary skills and perspectives\
+• Independence of judgement — acting in the best interest of the GDDS, not solely their organisation\
+• Commitment and availability — active participation throughout 2026-2027\
+• Transparency and accountability — regular reporting to the General Assembly
 
 The final composition of the SSC shall be subject to approval by the General Assembly in accordance with the Consortium Agreement procedures.&#x20;
+
+{% hint style="info" %}
+_Note: The GDDS SSC was confirmed in May, 2026 in the General Assembly hosted in Oslo. The nominations happened in June, 2026. During the nomination, requests from members of the General Assembly were received on expanding the composition of the SSC, specifically the UC representation from 1 to at least 2 members._ \
+\
+_This request is currently (26/06/2026) being considered, and the SSC nominee set up is expected to happen by the end of July, 2026._&#x20;
+{% endhint %}
 
 ### Mandate and Scope&#x20;
 

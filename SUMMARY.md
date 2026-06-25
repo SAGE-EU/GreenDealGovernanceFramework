@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction to the Green Deal Data Space (GDDS)](README.md)
-* [Documentation Structure / Reader's Guide](03-documentation-structure.md)
+* [Reader's Guide](03-documentation-structure.md)
 * [Glossary](04-glossary.md)
 
 ## Business Frameworks
@@ -28,8 +28,9 @@
   * [GDDS Governance Authority & Model](governnace-frameworks/governance-playbook/gdds-governance-authority-and-model/README.md)
     * [Governance Model for the Project Phase (MVP1)](governnace-frameworks/governance-playbook/gdds-governance-authority-and-model/governance-model-for-the-project-phase-mvp1.md)
     * [Governance Model for the Operational GDDS (MVP2)](governnace-frameworks/governance-playbook/gdds-governance-authority-and-model/governance-model-for-the-operational-gdds-mvp2.md)
-* [GDDS Rulebook](governnace-frameworks/gdds-rulebook.md)
-* [Rolebook](governnace-frameworks/rolebook.md)
+* [GDDS Rulebook](governnace-frameworks/gdds-rulebook/README.md)
+  * [Trust & Participation Governance](governnace-frameworks/gdds-rulebook/trust-and-participation-governance.md)
+* [GDDS Rolebook](governnace-frameworks/gdds-rolebook.md)
 
 ## Legal Frameworks
 

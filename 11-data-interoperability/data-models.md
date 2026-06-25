@@ -1,5 +1,9 @@
 # Data Models
 
+{% hint style="warning" %}
+_This section might be updated based on the latest developments in the SAGE consortium, specifically considering the WP5 working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
+{% endhint %}
+
 ## Role of data models in the GDDS&#x20;
 
 Within the GDDS, data models will form the backbone of semantic interoperability by providing a shared conceptual understanding of data exchanged between participants. A data model provides the semantic “dictionary” for a data product or service, defining data elements, their relationships, and their meaning. Using shared or compatible data models allows data providers and consumers to “speak the same language” when exchanging information — essential for avoiding misunderstandings, enabling automated processing, and ensuring that data from multiple sources can be combined meaningfully.&#x20;

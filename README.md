@@ -14,9 +14,13 @@ SAGE's outcomes include seamlessly integrating fragmented environmental data thr
 
 ## GDDS Mission, Vision, Values
 
-{% hint style="warning" %}
-_Editor’s note: This section has been developed by building on the original mission and vision defined in the GDDS GREAT project and further refined and agreed upon through co-creation sessions with SAGE consortium members._
+{% hint style="info" %}
+_This section has been developed by building on the original mission and vision defined in the GDDS GREAT project and further refined and agreed upon through co-creation sessions with SAGE consortium members._
 {% endhint %}
+
+The mission and values described here are aligned with the approach taken by the ethical principles of the SAGE Project (WP1 - Ethics Requirements). Specifically, the mission reflects the GDDS objectives, mainly focused on sustainability, i.e, the goal of achieving the digital transition through a fair, transparent, and inclusive governance framework. “Scalability”, “Adaptability and Innovation”, and “Value Creation” transpose the theoretical findings set through “data-oriented” ethical principles in the “living” governance of the GDDS. &#x20;
+
+The core values establish accountability, broad participation, and cross-collaboration among different sectors. By following this framework, the GDDS fosters a structured approach to legal, governance, and business frameworks by understanding their relationship rather than isolating them as individual components. The ethical principles outlined below allow for this integration.
 
 ### **Mission**
 
@@ -53,9 +57,7 @@ GDDS is committed to ensuring data is Findable, Accessible, Interoperable, and R
 **Collaboration & Value Creation** \
 GDDS fosters cross-sector collaboration, interoperability with other data spaces, and the creation of downstream economic and societal value from data-driven services.&#x20;
 
-The mission and values described under the governance perspective are aligned to the approach taken by the ethical principles of the SAGE Project. Specifically, the mission reflects the GDDS objectives, mainly focused on sustainability, i.e, the goal of achieving the digital transition through fair, transparent, and inclusive governance framework. “Scalability”, “Adaptability and Innovation” and “Value Creation” transpose the theoretical findings set through “data-oriented” ethical principles in the “living” governance of the GDDS. &#x20;
-
-The core values in the governance layer establish accountability, broad participation, and cross-collaboration among different sectors. By following this framework, the GDDS fosters a structured approach to legal, governance, and business frameworks by understanding their relationship rather than isolating them as individual components. The ethical principles outlined above allow for this integration.
+***
 
 ## GDDS: Stakeholders
 

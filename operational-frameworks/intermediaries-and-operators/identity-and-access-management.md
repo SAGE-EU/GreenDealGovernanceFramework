@@ -1,8 +1,12 @@
 # Identity and Access Management
 
+{% hint style="warning" %}
+_This section might be updated based on the latest developments in the SAGE consortium, specifically considering WP6, WP7, WP4, and the Techie group, including inputs from T3.1 - GDDS Trust Framework and AAI Federation. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._ &#x20;
+{% endhint %}
+
 ## **Overview**
 
-Identity and Access Management (IAM) represents a foundational component of the GDDS, providing the mechanisms required to securely identify users and control their access to services, data, and computational resources. IAM covers the full lifecycle of digital identities for both natural persons (e.g. researchers, data stewards) and legal entities (e.g. participating organisations, data providers). This lifecycle ranges from initial registration and onboarding of users and services, through authentication and authorization, to the management, renewal, and revocation of credentials.
+Identity and Access Management (IAM) represents a foundational component of the GDDS, providing the mechanisms required to securely identify users and control their access to services, data, and computational resources. IAM covers the full lifecycle of digital identities for both natural persons (e.g. researchers, data stewards) and legal entities (e.g. participating organisations, data providers). This lifecycle ranges from initial registration and onboarding of users and services, through authentication and authorisation, to the management, renewal, and revocation of credentials.
 
 ## **IAM Architecture and Components**
 
@@ -36,7 +40,3 @@ These mechanisms collectively ensure that only verified, active participants can
 The Identity and Access Management framework of the GDDS will be developed with a focus on establishing the core IAM architecture, defining governance and trust policies, integrating suitable identity providers, and implementing robust authentication and authorization mechanisms to support secure and interoperable access for all participating stakeholders.
 
 The framework follows an evolutionary approach. GDDS has adopted the Decentralised Claims Protocol (DCP) and Verifiable Credentials (VCs) to support trust, delegation, and authorisation across the data space. These complement existing federation-based approaches (e.g. OAuth 2.0 / OpenID Connect and SAML), which continue to be used for user authentication and service integration. Access decisions are based on the verification of claims issued by trusted authorities and evaluated against trusted registries and policies, enabling fine-grained delegation and interoperability with emerging European frameworks such as eIDAS 2.0.
-
-{% hint style="warning" %}
-_Editor's note: Further content will be added in alignment with WP6, WP4, and the Techie group, including inputs from Task 3.4 on value-added services._
-{% endhint %}

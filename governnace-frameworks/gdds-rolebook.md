@@ -1,8 +1,9 @@
 ---
 description: TBD
+icon: user-vneck
 ---
 
-# Rolebook
+# GDDS Rolebook
 
 _The GDDS Rolebook is a companion document to the Green Deal Data Space (GDDS) Rulebook. Where the Rulebook establishes the overall governance structure, legal framework, and participation lifecycle, the Rolebook operationalises those rules into role-specific playbooks._
 
