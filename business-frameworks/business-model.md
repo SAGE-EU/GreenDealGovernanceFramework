@@ -36,6 +36,6 @@ Figure XX: The DSSC Business Model for GDDS – Business Section&#x20;
 
 The second highlights the dynamic capabilities of the GDDS, including monitoring, business model innovation, and governance evolution, which together enable the data space to adapt, scale, and remain sustainable.&#x20;
 
-<img src="../.gitbook/assets/unknown (6).png" alt="Figure XXX: The DSSC Business Model for GDDS- Ecosystem and Governance Section (Source: SAGE Consortium WP7, Business Model Group, D7.1, 2026)" height="317" width="642">
+<div align="center"><img src="../.gitbook/assets/unknown (6).png" alt="Figure XXX: The DSSC Business Model for GDDS- Ecosystem and Governance Section (Source: SAGE Consortium WP7, Business Model Group, D7.1, 2026)" height="317" width="642"></div>
 
 Together, these figures provide a comprehensive and participant-centric view of the GDDS as a governed, service-enabled, and economically viable ecosystem. They illustrate not only how value is created and captured across different actors, but also how the data space can grow and evolve over time through aligned incentives, continuous onboarding of use cases, and the development of new services and capabilities.&#x20;

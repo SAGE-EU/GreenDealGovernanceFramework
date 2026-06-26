@@ -50,11 +50,7 @@ _See more in the sections of technical - Data sovereignty - Identity and Attesta
 The GDDS Operator performs identity verification under the oversight of the Data Space Governance Authority (DSGA). Authoritative identifiers are validated against official registries at registration; the resulting iSHARE DID serves as the canonical participant identifier thereafter.&#x20;
 
 {% hint style="warning" %}
-_Open decision: The minimum eIDAS assurance level required per role has not yet been formally decided — in particular, whether a Data Provider must always use Substantial or High assurance while a Data Recipient may use Low, and how eIDAS status (mandatory, optional, or one of several accepted schemes) applies per role. To be resolved and documented here before Rulebook v0.4 is finalised. Owner: WP4 / WP3._&#x20;
-{% endhint %}
-
-{% hint style="warning" %}
-_Note: European identification standards are prioritised across all pathways. Country-specific variations in accepted identifiers will be documented as confirmed, in coordination with WP3 and GRNET. Participants from countries with non-standard identifier schemes should contact the GDDS Operator for guidance._&#x20;
+_Note: European identification standards are prioritised across all pathways. Country-specific variations in accepted identifiers will be documented as confirmed, in coordination with WP3. Participants from countries with non-standard identifier schemes should contact the GDDS Operator for guidance._&#x20;
 {% endhint %}
 
 {% hint style="warning" %}

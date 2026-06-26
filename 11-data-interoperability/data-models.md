@@ -55,7 +55,7 @@ Following the incremental approach described above, the GDDS will support multip
 From a governance perspective, data models used within GDDS will be treated as living artefacts. Models evolve as domains mature, policies change, or new use cases emerge. GDDS will, therefore, promote explicit versioning, change documentation, and lifecycle management of semantic artefacts. Rather than centralising modelling authority, governance will focus on ensuring that models are discoverable, referenced consistently, and aligned — where necessary — with cross‑domain and cross‑data‑space interoperability requirements. This approach will enable GDDS to remain flexible and inclusive while still supporting scalable interoperability across Green Deal domains.&#x20;
 
 {% hint style="warning" %}
-_Note: Governance gap: a change management SOP for semantic artefacts has been identified as a required operational document (see also WP4 planning and sections above). This includes the procedure for requesting model updates, approval authority, backward compatibility obligations, and communication to affected participants. To be developed as part of the D4.1 - at least first draft._
+_Note: Governance gap: a change management SOP for semantic artefacts has been identified as a required operational document (see also WP4 planning and sections above). This includes the procedure for requesting model updates, approval authority, backward compatibility obligations, and communication to affected participants._
 {% endhint %}
 
 [^1]: &#x20;Curry E. (2020) Fundamentals of Real-time Linked Dataspaces. In: Real-time Linked Dataspaces. Springer, Cham

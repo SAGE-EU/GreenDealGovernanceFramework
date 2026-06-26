@@ -62,7 +62,7 @@ The previously listed criteria per category are also suggested to be divided by 
 | Sector certification (ISO 27001, CSRD, domain accreditation) — optional / per DSG      | Optional       | Optional        | Optional            | Recommended    | Recommended       |
 
 {% hint style="warning" %}
-_Note: The eligibility-criteria table is a working proposal from Co-Creation Sessions 8 and 9 (28 May 2026), subject to review and formal approval by WP4 and UNIBO. Conformance-testing scope for Intermediaries and Service Providers is to be confirmed with WP2 and WP3. Personal data collected via the application form requires an explicit lawful basis, and the GDDS Privacy Policy must cover data received from identity providers — coordinate with UNIBO for legal review. The primary/secondary classification of application fields is subject to finalisation._&#x20;
+_Note: The eligibility-criteria table is a working proposal from Co-Creation Sessions 8 and 9 (28 May 2026), subject to review and formal approval by WP4. Conformance-testing scope for Intermediaries and Service Providers is to be confirmed with WP2 and WP3. Personal data collected via the application form requires an explicit lawful basis, and the GDDS Privacy Policy must cover data received from identity providers — coordinate with WP4 for legal review. The primary/secondary classification of application fields is subject to finalisation._&#x20;
 {% endhint %}
 
 ***
@@ -130,7 +130,7 @@ The DSGA must notify the participant of the decision of the eligibility review. 
 These agreements can be found in the Section of [Contractual Frameworks](../../../contractual-frameworks.md).
 
 {% hint style="warning" %}
-Note: There might be additions in this section, or in the Contractual framework section about some rules on how long they have to sign, descrption of the suggested process, automated etc.  &#x20;
+_Note: There might be additions in this section, or in the Contractual framework section about some rules on how long they have to sign, description of the suggested process, automated etc._  &#x20;
 {% endhint %}
 
 [^1]: TBD

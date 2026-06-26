@@ -11,5 +11,3 @@ The Value Creation Services building block provides the technical and governance
 This building block therefore sets the conditions for innovation, reusability, and sustainable growth within the GDDS by making offerings transparent, discoverable, and usable under agreed standards.
 
 _Further content will be added after co-creation sessions._
-
-1. “Assurance” qualifies the strength of any identity in identifying the real world legal or natural person associated with that identity. High assurance identities can be relied upon by relying parties to refer to an entity in the real world, reducing the chance that the high assurance identity might be associated with inappropriate or illegal behaviour in the SAGE digital platform.

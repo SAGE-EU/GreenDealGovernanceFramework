@@ -13,6 +13,6 @@ Through these capabilities, the Catalogue reinforces the role of intermediaries 
 The technical architecture of the Catalogue, its application stack, its integration with the Federated Catalogue API, and the federated authentication that enables single sign-on across the portal and the Federated Catalogue dashboard, is specified in the Technical Framework (see [Data Value Creation Enablers — Publication and Discovery](../../13-data-value-creation-enablers/publication-and-discovery.md)). This Operational Framework section describes only the service and the intermediary role it serves.&#x20;
 
 {% hint style="warning" %}
-_Note: The portal requires a confirmed name. The DoA (Task 3.2) refers to it as the "GDDS Central data and service catalogue" (Giuseppe La Rocca); a final portal name is to be confirmed (Michał Kołomański). Owner: WP3 / CYFRONET._&#x20;
+_Note: The portal requires a confirmed name.  (Task 3.2) refers to it as the "GDDS Central data and service catalogue"; a final portal name is to be confirmed. Owner: WP3._&#x20;
 {% endhint %}
 

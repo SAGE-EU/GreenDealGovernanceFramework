@@ -18,7 +18,7 @@ Onboarding brings the admitted participant into operation: required documentatio
 The GDDS Operator carries out technical onboarding and party-identifier issuance under DSGA oversight, within the role and access-rights/trust framework approved by the governance bodies and described within this GDDS Rulebook.&#x20;
 
 {% hint style="warning" %}
-_Note: The final admission documentation set (documents to sign, legal instruments such as the DPA, service level agreement acceptance, and Rulebook acceptance) is to be completed. The technical onboarding and party-ID issuance procedure is to be detailed in the_[ _Technical Framework section_](../../../12-data-sovereignty-and-trust/identity-and-attestation-management.md)_._&#x20;
+_Note: The final admission documentation set (documents to sign, legal instruments such as the Data Space Participant Agreement, service level agreement acceptance, and Rulebook acceptance) is to be completed. The technical onboarding and party-ID issuance procedure is to be detailed in the_[ _Technical Framework section_](../../../12-data-sovereignty-and-trust/identity-and-attestation-management.md)_._&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
@@ -26,7 +26,7 @@ _Note: A dedicated co-creation session on special onboarding scenarios, covering
 {% endhint %}
 
 {% hint style="info" %}
-_The Pictures below are first draft and they might be removed, or moved to either the technical framework section or opertaional framework section - TBD._
+_The Pictures below are a first draft, and they might be removed, or moved to either the technical framework section or operational framework section - TBD._
 {% endhint %}
 
 <img src="../../../.gitbook/assets/unknown (10).png" alt="" height="368" width="624">
