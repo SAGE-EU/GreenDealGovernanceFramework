@@ -34,18 +34,18 @@ These principles do not prescribe a fixed organisational model. Instead, they de
 
 ### Principle 1 – Governance is Foundational Infrastructure&#x20;
 
-Research across multiple European data spaces consistently shows that governance is the foundational infrastructure of a data space. Governance and following policies define who is allowed to do what, under what conditions data can be shared, trusted, and reused, who decides and who enforces, what is mandatory and what is optional, and lastly enables coordination across legal, technical, organisational, and societal dimensions. This ensures the long-term Sustainability of the GDDS and the Accountability of its participants, as well as proving grounds for Inclusivity of new stakeholders.&#x20;
+Research across multiple European data spaces consistently shows that governance is the foundational infrastructure of a data space. Governance and following policies define who is allowed to do what, under what conditions data can be shared, trusted, and reused, who decides and who enforces, what is mandatory and what is optional, and lastly enables coordination across legal, technical, organisational, and societal dimensions. This ensures the long-term Sustainability of the GDDS and the Accountability of its participants, as well as providing grounds for Inclusivity of new stakeholders.&#x20;
 
 For the GDDS, governance therefore:&#x20;
 
 * precedes and enables technical implementation,&#x20;
 * provides predictability and trust for participants,&#x20;
 * balances innovation with accountability,&#x20;
-* and ensures alignment with European Green Deal objectives.Governance must be treated as a first-class system component, evolving alongside operational, technical and business capabilities.&#x20;
+* and ensures alignment with European Green Deal objectives. Governance must be treated as a first-class system component, evolving alongside operational, technical and business capabilities.&#x20;
 
 ### Principle 2 – Multi-Layer Governance is Essential&#x20;
 
-All mature data space initiatives adopt a multi-layer governance approach, recognising that no single governance level can address all needs. This is aligned with the principle of Transparency and ultimately contributes to foster the Accountability of the GDDS and its participants.&#x20;
+All mature data space initiatives adopt a multi-layer governance approach, recognising that no single governance level can address all needs. This is aligned with the principle of Transparency and ultimately contributes to fostering the Accountability of the GDDS and its participants.&#x20;
 
 The GDDS governance framework is therefore expected to operate across clearly distinguished layers, including:&#x20;
 
@@ -54,7 +54,7 @@ The GDDS governance framework is therefore expected to operate across clearly di
 * domain or use-case-specific governance, to maintain FAIR principles across participants&#x20;
 * and participant-level rules and obligations, to preserve Accountability.&#x20;
 
-Each layer has a distinct purpose and scope, and governance decisions must be taken at the appropriate layer to avoid over-centralization or fragmentation.&#x20;
+Each layer has a distinct purpose and scope, and governance decisions must be taken at the appropriate layer to avoid over-centralisation or fragmentation.&#x20;
 
 ### Principle 3 – Subsidiarity by Design&#x20;
 
@@ -113,9 +113,9 @@ A data space governance framework must define:&#x20;
 * mechanisms for identity, credentials, and verification,&#x20;
 * compliance monitoring (in particular, in the area of Privacy and Data Protection) and enforcement procedures (to maintain Accountability)&#x20;
 
-Principle 7 – Rulebooks Are the Core Governance Instrument&#x20;
+### Principle 7 – Rulebooks Are the Core Governance Instrument&#x20;
 
-Across European data spaces, the Rulebook emerges as the central governance artefact.&#x20;
+Across European data spaces, the Rulebook emerges as the key governance artefact.&#x20;
 
 A Rulebook:&#x20;
 

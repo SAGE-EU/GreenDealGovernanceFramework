@@ -6,7 +6,7 @@ icon: seedling
 
 ## GDDS: The Data Space for a Sustainable Green Europe
 
-SAGE consortium will establish an initial version of the Green Deal Data Space (GDDS), supporting the use cases development within the project and aligning with the applicable data space rules and standards defined over the project timelin The GDDS will aim to enhance the accessibility, integration, and utilisation of green and environmental data across the EU to support key pillars of the European Green Deal—Zero Pollution, Climate Adaptation, Biodiversity and the Circular Economy Action Plan.&#x20;
+SAGE consortium will establish an initial version of the Green Deal Data Space (GDDS), supporting the use cases development within the project and aligning with the applicable data space rules and standards defined over the project timeline The GDDS will aim to enhance the accessibility, integration, and utilisation of green and environmental data across the EU to support key pillars of the European Green Deal—Zero Pollution, Climate Adaptation, Biodiversity and the Circular Economy Action Plan.&#x20;
 
 Building directly upon the[ ](https://www.greatproject.eu/)[GREAT project](https://www.greatproject.eu/) Community of Practice and results and aligning with the Digital Europe Programme's strategic focus on AI, cybersecurity, advanced computing, and data infrastructure, SAGE leverages outcomes from the European Strategy for Data and Research facilitated by[ Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en). &#x20;
 
