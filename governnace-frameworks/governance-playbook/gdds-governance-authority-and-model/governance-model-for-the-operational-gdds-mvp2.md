@@ -159,71 +159,25 @@ This body evolves conceptually from the MVP1 General Assembly, ensuring continui
 
 <details>
 
-<summary><strong>Data Sharing Groups (DSGs)</strong></summary>
-
-### Function and Role&#x20;
-
-Data Sharing Groups (DSGs) represent domain-specific collaboration structures within the GDDS ecosystem.&#x20;
-
-Each DSG brings together participants involved in a specific sector, use case, or thematic area and provides a coordination mechanism for domain-level data sharing activities.&#x20;
-
-DSGs operate within the governance framework defined by the GDDS Rulebook while enabling domain-specific adaptation and coordination.&#x20;
-
-### Composition&#x20;
-
-DSGs may include participants operating within a specific domain, such as:&#x20;
-
-* data providers,&#x20;
-* data consumers,&#x20;
-* service providers,&#x20;
-* intermediaries.&#x20;
-
-Participation in a DSG reflects engagement in a particular data-sharing initiative or sectoral collaboration.&#x20;
-
-### Responsibilities & Limitations&#x20;
-
-Data Sharing Groups are responsible for implementing the GDDS governance framework within their domain with the support of the Orchestrator. DSGs retain autonomy within their domain unless decisions have cross-domain implications, in which case escalation to the Council of Participants occurs.&#x20;
-
-Their responsibilities include:&#x20;
-
-* coordinating domain-specific data sharing initiatives,&#x20;
-* applying the GDDS baseline governance rules,&#x20;
-* defining domain-specific governance practices consistent with the Rulebook,&#x20;
-* ensuring compliance of domain participants with applicable policies.&#x20;
-
-DSGs, therefore, play a key role in translating the general governance framework into operational practices within specific domains.&#x20;
-
-DSGs operate within the governance framework of the GDDS and therefore cannot:&#x20;
-
-* modify the GDDS baseline governance rules independently,&#x20;
-* override decisions taken by the Council of Participants or the Supervisory Board.&#x20;
-
-### Coordination&#x20;
-
-DSGs coordinate with:&#x20;
-
-* the GDDS Operator for operational support and infrastructure integration,&#x20;
-* the Council of Participants through representation by DSG Orchestrators.&#x20;
-
-### Operational Support&#x20;
-
-DSGs require:&#x20;
-
-* domain coordination capacity,&#x20;
-* access to technical integration support,&#x20;
-* governance templates and operational guidance.&#x20;
-
-</details>
-
-<details>
-
 <summary><strong>Data Sharing Group Orchestrators (DSGOs)</strong></summary>
+
+## Domain-Level Governance (Subsidiarity Principle)&#x20;
+
+Data Sharing Groups (DSGs) are domain-specific constituencies within the GDDS ecosystem, each bringing together the participants active in a given sector, use case, or thematic area (for example, data providers, data consumers, service providers, and relevant domain stakeholders). A DSG is not itself a governance body: it does not hold decision-making authority and does not exercise governance powers in its own right. Rather, it is the domain community whose needs, priorities, and proposed adaptations are surfaced, coordinated, and represented through its Data Sharing Group Orchestrator. Where this section describes the governance of domain-level activity, that governance is exercised by the Orchestrator (below) on the DSG’s behalf and within the framework defined by this Rulebook.&#x20;
+
+{% hint style="warning" %}
+_Note: It's important to clarify what a "use case specific decision" is and to what extent the decision is left to the UC. Are such decisions related to operations or to rules/roles (See also principle 5)? If we're uncertain, we risk jeopardising rules across UCs_&#x20;
+{% endhint %}
+
+## Data Sharing Group Orchestrators (DSGOs)&#x20;
 
 ### Function and Role&#x20;
 
 The Data Sharing Group Orchestrator (DSGO) acts as the coordination and facilitation role for a Data Sharing Group.&#x20;
 
-The DSGO ensures that the domain-level governance activities remain aligned with the broader GDDS governance framework and facilitates communication between the DSG and the central governance bodies.&#x20;
+The DSGO ensures that the domain-level governance activities remain aligned with the broader GDDS governance framework and facilitates communication between the DSG and the key governance bodies, like the Council of Participants or the Supervisory Board.&#x20;
+
+The DSGO’s mandate is bound to a single Data Sharing Group and to domain-level coordination within the framework established by this Rulebook. Its authority is facilitative and representative rather than legislative: the DSGO operationalises and applies GDDS baseline governance rules within its domain and may propose domain-specific adaptations, but it does not set or amend those baseline rules. Cross-domain matters, and any decision with implications beyond the DSG’s domain, fall outside the DSGO’s scope and are escalated to the Council of Participants.&#x20;
 
 ### Composition&#x20;
 
@@ -235,19 +189,26 @@ The role requires neutrality and the ability to coordinate across different stak
 
 The DSGO performs several coordination and governance support functions, including:&#x20;
 
-* support coordinating participant onboarding within the DSG if required,&#x20;
+* coordinating participant onboarding within the DSG,&#x20;
 * facilitating implementation of domain governance rules,&#x20;
 * maintaining relevant domain registries and attestations,&#x20;
 * supporting dispute resolution processes,&#x20;
 * escalating systemic governance issues to higher governance bodies.&#x20;
 
+### Limitations&#x20;
+
+The DSGO operates within the governance framework of the GDDS and therefore: &#x20;
+
+* cannot modify or override the GDDS baseline governance rules, nor override decisions taken by the Council of Participants or Supervisory Board. &#x20;
+* It holds no operational authority over shared infrastructure or registries, which remain the responsibility of the GDDS Operator, and its facilitative role does not extend to acting on behalf of individual participants in their own admission, certification, or contractual matters.&#x20;
+
 ### Coordination and Escalation&#x20;
 
 The DSGO interacts with several governance actors, including:&#x20;
 
-* the GDDS Operator for operational coordination,&#x20;
-* the Council of Participants through representation and consultation processes,&#x20;
-* the Supervisory Board in cases of governance escalation.&#x20;
+* The GDDS Operator for operational coordination,&#x20;
+* The Council of Participants through representation and consultation processes,&#x20;
+* The Supervisory Board in cases of governance escalation.&#x20;
 
 ### Operational Support&#x20;
 
@@ -281,6 +242,8 @@ The GDDS Operator (evolved from the MVP1 Operations Team) becomes the profession
 The Operator has operational authority but does not define governance rules.&#x20;
 
 It is also foreseen that there are specific working groups under the Operator, such as Technical, Business, Legal, Change Management, etc. This could be derived from the working groups of MVP1. &#x20;
+
+See more about the Operational Framework [here](https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/operational-frameworks).
 
 </details>
 
