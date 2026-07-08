@@ -367,3 +367,6 @@ To ensure effective and independent functioning, the committee requires:&#x20;
 
 </details>
 
+{% hint style="warning" %}
+_This section might be updated based on the latest developments in the SAGE consortium, specifically considering the WP4 Governance working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections.  For example, governance bodies appointment, suggested procedures for voting etc._&#x20;
+{% endhint %}

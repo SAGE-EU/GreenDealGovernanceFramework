@@ -6,11 +6,11 @@ _This section might be updated based on the latest developments in the SAGE cons
 
 A foundational step toward value creation in the Green Deal Data Space (GDDS) is ensuring that data, services, and offerings are described in a clear, standardised, and machine-readable manner. Without a common way of expressing what is available in the data space, participants cannot efficiently discover, compare, or reuse resources.
 
-This building block provides the tools and methodologies for consistent and transparent descriptions. It enables data providers and service operators to publish offerings in a way that is not only understandable to humans, but also interoperable for automated discovery and integration across systems and Member States.
+This capability provides the tools and methodologies for consistent and transparent descriptions. It enables data providers and service operators to publish offerings in a way that is not only understandable to humans, but also interoperable for automated discovery and integration across systems and Member States.
 
 For GDDS, these descriptions carry an additional responsibility: they must reflect sustainability-related attributes and policies. For example, datasets may need to include metadata about their relevance to CO₂ reduction, energy efficiency, circular economy practices, or compliance with environmental reporting regulations. Services and tools should also be described with sufficient detail to demonstrate their contribution to Green Deal objectives.
 
-The scope of this building block includes:
+The scope of this capability includes:
 
 * > **Standardised Metadata Models**: Adoption of common vocabularies, ontologies, and schemas that make data and services understandable across domains.
 * > **Policy-Aware Descriptions**: Integration of usage conditions, data-sharing rules, and sustainability-related criteria into offering descriptions.

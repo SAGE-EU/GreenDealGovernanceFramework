@@ -29,7 +29,7 @@ See more details about the detailed pathways and assurance levels in Technical F
 {% endhint %}
 
 {% hint style="warning" %}
-_Open decision: The minimum eIDAS assurance level required per role has not yet been formally decided. The open question is: must a Data Provider always use Substantial or High LoA, while a Data Recipient may use Low LoA? How does eIDAS status (mandatory / optional / one of several accepted schemes) apply per role? This must be resolved and documented here before Rulebook v0.4 is finalised. Owner: WP4 / WP3._&#x20;
+_Pathway-level minimum assurance is decided and documented above (Organisational pathway: eIDAS Substantial; Individual pathway: Substantial or High for full access; Academic pathway: institution-dependent, consistent with D3.1 §2.3.1). What remains open is the role-level application: whether a Data Provider must always use Substantial or High assurance while a Data Recipient may use Low, and how eIDAS status (mandatory, optional, or one of several accepted schemes) applies per role. Owner: WP4 / WP3._
 {% endhint %}
 
 Beyond initial identification, participants may enrich their credentials by adding verifiable attributes (for example, region of residence, professional role, or sector certifications) to support finer-grained, attribute-based access.&#x20;

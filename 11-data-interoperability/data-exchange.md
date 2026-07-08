@@ -4,7 +4,7 @@
 _This section might be updated based on the latest developments in the SAGE consortium, specifically considering the WP5 working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
 {% endhint %}
 
-The Data Exchange building block defines how data is transferred between GDDS participants in a secure, interoperable, and policy-compliant manner. While data models establish shared meaning, data exchange mechanisms operationalise this meaning by enabling datasets, streams, and services to be accessed and used across organisational and technical boundaries.&#x20;
+The Data Exchange capability defines how data is transferred between GDDS participants in a secure, interoperable, and policy-compliant manner. While data models establish shared meaning, data exchange mechanisms operationalise this meaning by enabling datasets, streams, and services to be accessed and used across organisational and technical boundaries.&#x20;
 
 Data exchange in GDDS is understood broadly, encompassing not only bulk dataset downloads but also API-based access, streaming data, event-based updates, and algorithm-to-data or compute-to-data patterns where data movement is restricted. Whatever the mode, the process shall be secure, standardised, and discoverable.&#x20;
 

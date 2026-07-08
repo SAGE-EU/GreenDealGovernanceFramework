@@ -8,11 +8,7 @@ icon: square-check
 _This section might be updated based on the latest developments in the SAGE consortium, specifically considering WP2, WP3, WP4, and WP5 working groups. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
 {% endhint %}
 
-According to the [DSSC Blueprint](https://blueprint.dssc.eu/?pane=technical#TechnicalBuildingBlocks-2.Overviewofpillars), Data Value Creation Enablers outlines capabilities for enabling value-creation in a data space: providing metadata on data products, publishing them in catalogues and developing additional value-creation services.
-
-* Data, Services and Offering Descriptions: capabilities to describe data, services and offerings in a manner that will be understandable by any participant in the data space.
-* Publication and Discovery: capabilities to publish the description of data, services and offerings so that they can be discovered by potential data users.
-* Value Creation Services: capabilities to add (shared) services to the dataspace aimed at creating value out of the available data and set up the conditions to ensure the appropriate provision, delivery and utilisation of those services.
+This area covers the capabilities through which shared data becomes usable value in the GDDS. They form a pipeline: offerings are first described in a standardised, machine-readable way (Data, Services, and Offerings Descriptions); described offerings are then published and made findable through the Catalogue (Publication and Discovery); and services that build on discovered data are provided and governed as Value Creation Services. The governance rules for the catalogue and registries reside in Data Sovereignty & Technical Governance (subsection 4, Registry and discovery governance); the subsections below specify the technical capabilities and the components implemented by Working Group 3.
 
 
 

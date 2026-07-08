@@ -6,7 +6,7 @@ _This section might be updated based on the latest developments in the SAGE cons
 
 Technical capabilities form the foundation for operating and scaling the Green Deal Data Space (GDDS). Their purpose is to ensure secure, interoperable, and value-driven data exchange between diverse participants across sectors and Member States.&#x20;
 
-The objective of these technical frameworks is to:&#x20;
+The objective of these technical areas is to:&#x20;
 
 * Identify essential capabilities required for GDDS implementation.&#x20;
 * Provide clear references to standards and specifications that can be adopted or adapted by participants.&#x20;
@@ -14,7 +14,7 @@ The objective of these technical frameworks is to:&#x20;
 
 The GDDS will draw on widely recognised open standards, specifications, and reference architectures. Leveraging these allows participants to make informed technical choices while ensuring compatibility across the ecosystem. This also promotes reusability of solutions, easier onboarding, and faster scaling.&#x20;
 
-Technical capabilities are grouped into three interconnected pillars:&#x20;
+Technical capabilities are grouped into three interconnected areas:&#x20;
 
 1. Data Interoperability&#x20;
 

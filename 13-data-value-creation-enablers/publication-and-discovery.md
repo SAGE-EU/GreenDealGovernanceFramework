@@ -4,7 +4,7 @@
 _This section might be updated based on the latest developments in the SAGE consortium, specifically considering WP2, WP3, WP4, and WP5 working groups. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
 {% endhint %}
 
-The Publication & Discovery building block enables providers of data and services to expose their offerings (with metadata, terms, and access conditions) and make them visible to other data space participants. Consumers, in turn, use this capability to search, identify, and request access to offerings that best fit their needs.
+The Publication & Discovery capability enables providers of data and services to expose their offerings (with metadata, terms, and access conditions) and make them visible to other data space participants. Consumers, in turn, use this capability to search, identify, and request access to offerings that best fit their needs.
 
 In the Green Deal Data Space (GDDS), this capability is central for creating transparency and trust between stakeholders. It ensures that:
 
@@ -27,7 +27,7 @@ The Catalogue integrates with the Federated Catalogue: on selecting a dataset, t
 The integration of the iSHARE Trust Framework components enables federated authentication via trusted identity providers (for example, based on Keycloak) operated by or on behalf of organisations registered within the data space. This provides users with a single sign-on experience, allowing them to authenticate once and move between the Catalogue portal and the Federated Catalogue dashboard without repeated logins, while maintaining adherence to the GDDS trust and identity-management principles. The identity, authentication, and trust mechanisms upon which this relies are specified under[ Data Sovereignty & Trust ](../12-data-sovereignty-and-trust/)(Identity & Attestation Management; Trust Framework).&#x20;
 
 {% hint style="warning" %}
-_Note: This content was relocated from the Operational Framework (Catalogue and Data Brokerage Services) per the agreed structure, so that the federation-level service description remains in the Operational Framework and the technical architecture resides here. The iSHARE Trust Framework integration was in progress at the time of writing; status to be confirmed._ &#x20;
+_Note: This content was relocated from the Operational Framework (Catalogue and Data Brokerage Services) per the agreed structure, so that the federation-level service description remains in the Operational Framework and the technical architecture resides here. The iSHARE Trust Framework integration was in progress at the time of writing; status to be confirmed.  Per D3.1 (WP3, §3), authenticated, attribute-based filtering of the datasets displayed to a user is not included in the MVP1 minimum feature set; the single sign-on experience described here reflects the target state foreseen for MVP2._
 {% endhint %}
 
 {% hint style="warning" %}

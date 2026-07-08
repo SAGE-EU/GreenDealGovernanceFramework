@@ -4,7 +4,7 @@
 _This section might be updated based on the latest developments in the SAGE consortium, specifically considering WP2, WP3, WP4, and WP5 working groups. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
 {% endhint %}
 
-The Identity & Attestation Management building block provides a trusted foundation for onboarding, verifying, and maintaining participants’ credentials within the GDDS ecosystem.
+The Identity & Attestation Management capability provides a trusted foundation for onboarding, verifying, and maintaining participants’ credentials within the GDDS ecosystem.
 
 It ensures that every actor and asset is uniquely identifiable, authenticated, and authorized before engaging in data transactions, while preserving sovereignty over identity data.
 
@@ -51,11 +51,29 @@ The framework follows an evolutionary approach. The GDDS has adopted the Decentr
 _Note: This content was relocated from the Operational Framework (IAA Services) per the agreed structure, so that the federation-level service description remains in the Operational Framework and the technical architecture resides here. Further content might be added in line with the developments within the WP3, WP4 group._&#x20;
 {% endhint %}
 
+## Levels of assurance and multi-factor authentication&#x20;
+
+Assurance in the GDDS is expressed through Levels of Assurance (LoA) that qualify the strength of identity proofing, credential issuance, and authenticator binding. For research and education participants authenticating through eduGAIN-connected providers, assurance is conveyed using the REFEDS Assurance Framework (RAF); for organisational and eIDAS-based identities it is expressed against the eIDAS Levels of Assurance (Low, Substantial, High).&#x20;
+
+As documented by Working Group 3 in D3.1, RAF Identity Assurance Profiles map to eIDAS as follows: RAF IAP “low” and “medium” map to eIDAS Low, while RAF IAP “high” can align with eIDAS Substantial where the RAF v2.0 criteria for strong authenticator binding and controlled remote proofing are met. Because most academic identity providers assert lower profiles, participants requiring higher assurance for restricted data may need to raise it through the individual pathway or through credential enrichment.&#x20;
+
+Where a role or data product requires stronger authentication, multi-factor authentication is signalled and enforced in line with the REFEDS MFA Profile, with interoperable proxy behaviour following AARC-G029. Where MFA is required but cannot be performed, access is denied rather than silently downgraded.&#x20;
+
+_Source: D3.1 GDDS first version report (WP3), §2.3.1–2.3.2. The RAF-to-eIDAS mapping and MFA handling reflect the Working Group 3 technical baseline and are authoritative for the assurance mechanisms; the governance rules that consume these levels reside in the Conformity Framework and Trust & Participation Governance._&#x20;
+
+## Research and education authorisation pattern&#x20;
+
+For participants authenticating through research and education federations, authorisation is conveyed through entitlements rather than through delegation evidence. Group membership, roles, and resource capabilities are encoded as structured entitlement values (following AARC-G069 and AARC-G027) and released in the eduPersonEntitlement attribute (SAML) or the entitlements claim (OIDC). Services may consume these entitlements directly from the assertion or retrieve them dynamically through token introspection (RFC 7662) against the federated authorisation server. This pattern operates alongside the iSHARE delegation-based model; the GDDS supports both.&#x20;
+
+_Source: D3.1 GDDS first version report (WP3), §2.2.1. This is the Working Group 3 description of the entitlement-based authorisation pattern underlying the eduGAIN / Academic identity pathway and is authoritative for it._&#x20;
+
 ***
 
-## 1.Identity Paths and Credential Enrichment in GDDS&#x20;
+## Identity Paths and Credential Enrichment in GDDS&#x20;
 
-### 1.1. Organisational Participants with Their Own Identity Systems&#x20;
+The identity paths below describe how each participant profile obtains and enriches credentials in practice, applying the architecture, standards, and assurance levels set out above. They were developed through WP3 and define the practical entry points into the GDDS.
+
+### 1.Organisational Participants with Their Own Identity Systems&#x20;
 
 Organisations such as municipalities, real estate companies, consultancies, or research labs may wish to participate using their existing identity infrastructure.&#x20;
 
@@ -66,9 +84,9 @@ Organisations such as municipalities, real estate companies, consultancies, or r
 * Manage datasets&#x20;
 * Input or extract data&#x20;
 * Administer services (e.g. onboarding of sub-participants)&#x20;
-* Role-based credentials are assigned internally and can be enriched further via GDDS processes (see Section 4).&#x20;
+* Role-based credentials are assigned internally and can be enriched further via GDDS processes (see Section 4, 'Credential Enrichment & Attribute-Based Access ').&#x20;
 
-### 1.2. Academic Participants&#x20;
+### 2. Academic Participants&#x20;
 
 Individuals working within academic institutions (e.g. universities, applied research centres) may participate via their existing academic credentials, such as institutional logins compliant with eduGAIN or national federation protocols.&#x20;
 
@@ -76,7 +94,7 @@ Individuals working within academic institutions (e.g. universities, applied res
 * The level of access will depend on the authentication assurances provided by the institution.&#x20;
 * If an academic participant requires higher assurance or greater access rights than their institution offers, they may proceed via the individual pathway (see below).&#x20;
 
-### 1.3. Individual Participants&#x20;
+### 3. Individual Participants&#x20;
 
 Individuals (e.g. freelancers, private consultants, independent researchers) may:&#x20;
 
@@ -85,13 +103,13 @@ Individuals (e.g. freelancers, private consultants, independent researchers) may
 * Register using eIDAS 1.0 -compliant digital identities from trusted EU providers. These identities can enable secure and verifiable participation in the data space. \[In future: eIDAS 2.0 wallet-based identities will be supported as they become available. Role-specific attestations (e.g. professional certifications, researcher accreditation) may be required for certain roles and will be accepted where applicable.]&#x20;
 * \[Minimum assurance level: High or Substantial assurance is required for full access to restricted data and services. Low assurance limits access to open resources only. Credential enrichment (adding verifiable credentials over time) enables finer-grained permissions as the participant's assurance level increases.]&#x20;
 
-#### 1.3.1 Individual to Institutional Participants&#x20;
+#### 3.1 Individual to Institutional Participants&#x20;
 
 An individual participant may begin participation in GDDS under the Individual pathway and subsequently migrate to Institutional participation once their institution is ready to formally join the data space. This upgrade path is relevant, for example, for an academic researcher who initially participates as an individual but whose institution later completes Institutional onboarding.&#x20;
 
 The upgrade process involves the following general steps:&#x20;
 
-1. The institution completes the Institutional onboarding process (see §2 — Onboarding and Admission Procedures), including identity verification under the Organisational or Academic pathway, eligibility assessment, and execution of the participation agreement.&#x20;
+1. The institution completes the Institutional onboarding process (see Trust & Participation Governance, Stage 2 — Eligibility assessment and admission, and Stage 3 — Onboarding and assignment of roles and access rights), including identity verification under the Organisational or Academic pathway, eligibility assessment, and execution of the participation agreement.&#x20;
 2. Once the institution is an admitted Institutional participant, the individual's existing credentials are re-linked under the institutional umbrella, subject to the institution's internal authorisation.&#x20;
 3. The individual's roles and access rights are re-evaluated and re-assigned in line with the institution's governance framework and the roles selected by the institution at onboarding.&#x20;
 4. Until the upgrade is complete, the individual retains Individual-level access only.&#x20;
@@ -100,7 +118,7 @@ The upgrade process involves the following general steps:&#x20;
 _Note: The detailed procedural steps and technical implementation of the upgrade pathway are to be defined in a dedicated follow-up session._
 {% endhint %}
 
-### 1.4. Credential Enrichment & Attribute-Based Access&#x20;
+### 4. Credential Enrichment & Attribute-Based Access&#x20;
 
 To enable finer-grained access control, participants may enrich their identity by adding verifiable credentials to their digital identity wallet. These could include:&#x20;
 
@@ -118,7 +136,7 @@ GDDS will define a credential ontology and maintain a list of trusted credential
 
 In addition to user-level identity enrichment, GDDS supports the exchange of verifiable credentials between system components (e.g. connectors) using protocols such as DCP. This occurs during data exchange interactions, enabling secure machine-to-machine communication and enforcement of data access and usage policies.&#x20;
 
-### 1.5. Group-Based Membership Systems&#x20;
+### 5. Group-Based Membership Systems&#x20;
 
 GDDS may implement Data User Groups (similar to virtual organisations or thematic circles), where:&#x20;
 
