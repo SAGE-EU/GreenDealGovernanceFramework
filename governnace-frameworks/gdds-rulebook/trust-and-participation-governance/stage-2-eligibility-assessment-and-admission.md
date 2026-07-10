@@ -110,6 +110,14 @@ The admission workflow operates under the oversight of the GDDS governance struc
 
 Overarching design principle: despite the multi-body governance structure, the applicant-facing admission process must be lightweight and as frictionless as possible. Governance complexity is managed in the back end; it must not create unnecessary barriers for applicants.&#x20;
 
+Where an applicant clearly satisfies the admission requirements and criteria established in the Rulebook, the DSGA may approve participation and initiate onboarding without further approval from higher governance bodies. Applications involving uncertainty, borderline eligibility, or governance concerns follow the principle-based assessment (see Section 2.3) and may be referred for additional review. This delegated approval capability ensures that participation can be managed efficiently and without unnecessary delays, in line with the overarching design principle of a lightweight, frictionless admission process.
+
+When reviewing operational or executive governance decisions, the Supervisory Board may request further information, supporting evidence, corrective actions, or additional assessments before confirming, modifying, or reversing the decision under review. It may also review complaints, appeals, and cases of suspected non-compliance submitted by participants or identified through governance monitoring.
+
+{% hint style="warning" %}
+_Note: The differentiation between the Supervisory Board's review powers and the Compliance & Ethics Committee's binding compliance opinions is to be confirmed within the next iterative phase of the SAGE Project by WP4 group._
+{% endhint %}
+
 ***
 
 ## 2.3 Rejection and Appeal Procedure&#x20;
