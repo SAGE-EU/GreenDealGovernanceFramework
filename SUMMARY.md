@@ -43,7 +43,7 @@
     * [2. Semantic transparency and interoperability](governnace-frameworks/gdds-rulebook/data-sovereignty-and-technical-governance/2.-semantic-transparency-and-interoperability.md)
     * [3. Data provenance and traceability](governnace-frameworks/gdds-rulebook/data-sovereignty-and-technical-governance/3.-data-provenance-and-traceability.md)
     * [4. Registry and discovery governance](governnace-frameworks/gdds-rulebook/data-sovereignty-and-technical-governance/4.-registry-and-discovery-governance.md)
-    * [5. Governance of APIs, connectors, and interoperability components](governnace-frameworks/gdds-rulebook/data-sovereignty-and-technical-governance/5.-governance-of-apis-connectors-and-interoperability-components.md)
+    * [5. Governance and interoperability of components](governnace-frameworks/gdds-rulebook/data-sovereignty-and-technical-governance/5.-governance-and-interoperability-of-components.md)
     * [6. Participant responsibilities](governnace-frameworks/gdds-rulebook/data-sovereignty-and-technical-governance/6.-participant-responsibilities.md)
 * [GDDS Rolebook](governnace-frameworks/gdds-rolebook.md)
 

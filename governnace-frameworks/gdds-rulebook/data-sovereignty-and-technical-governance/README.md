@@ -17,4 +17,4 @@ Hence, this section sets the rules, and points to the technical mechanisms, for 
 5. governance of APIs, connectors, and interoperability components;&#x20;
 6. participant responsibilities for internal data governance.&#x20;
 
-Throughout this section states, the governance rule and the responsible body and cross-references the Technical Framework (Data Interoperability; Data Sovereignty & Trust) for the specifications and implementation mechanics.&#x20;
+Throughout this section, each governance rule and the responsible body are stated, with cross-references to the Technical Framework (Data Interoperability; Data Sovereignty & Trust) for the corresponding specifications and implementation mechanisms.
