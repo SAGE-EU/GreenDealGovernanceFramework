@@ -6,11 +6,19 @@ icon: seedling
 
 ## GDDS: The Data Space for a Sustainable Green Europe
 
-SAGE consortium will establish an initial version of the Green Deal Data Space (GDDS), supporting the use cases development within the project and aligning with the applicable data space rules and standards defined over the project timeline The GDDS will aim to enhance the accessibility, integration, and utilisation of green and environmental data across the EU to support key pillars of the European Green Deal—Zero Pollution, Climate Adaptation, Biodiversity and the Circular Economy Action Plan.&#x20;
+The Green Deal Data Space (GDDS) was initially proposed in the [European Strategy for Data (EUSD)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020DC0066) in 2020, one of over [20 data spaces](https://digital-strategy.ec.europa.eu/en/policies/data-spaces) proposed at that time to be created as part of that strategy, and intended to to enhance the accessibility, integration, and utilisation of green and environmental data across the European Union (EU) to support key pillars of the European Green Deal (EGD).
 
-Building directly upon the[ ](https://www.greatproject.eu/)[GREAT project](https://www.greatproject.eu/) Community of Practice and results and aligning with the Digital Europe Programme's strategic focus on AI, cybersecurity, advanced computing, and data infrastructure, SAGE leverages outcomes from the European Strategy for Data and Research facilitated by[ Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en). &#x20;
+SAGE is a project funded by the Digital Europe Programme \[call reference?] to develop and deploy an initial version of the GDDS, supporting the use case development within the project and aligning with the applicable data space rules and standards defined over the project timeline (1 March 2025 to 28 February 2028). Since other data spaces are being deployed to address domains of relevance to the EGD (energy, agriculture, mobility), the GDDS being created by SAGE will focus on a subset of the EGD, addressing Zero Pollution, Climate Adaptation, Biodiversity and the Circular Economy Action Plan.&#x20;
 
-SAGE's outcomes include seamlessly integrating fragmented environmental data through federation, enriching data with consistent quality, validation, and interoperable metadata, and enhancing capabilities for data transformation, processing, analysis, forecasting, target setting, and performance monitoring. Targeting businesses seeking compliance with EGD regulations, government bodies optimising environmental impact, citizens and citizen scientists engaging in environmental stewardship, and researchers aiming to deepen our ecological understanding, SAGE aspires to foster informed decision-making and policy formulation based on robust data and evidence. SAGE’s sustainability will be ensured by establishing a standalone legal entity to manage the data space and scale operations throughout the project's lifetime and beyond.&#x20;
+{% hint style="info" %}
+Throughout this document, "SAGE[^1]" refers both to the funded project and the over 40 partners in the SAGE consortium who are working together to execute the project. &#x20;
+{% endhint %}
+
+Building directly upon the[ ](https://www.greatproject.eu/)[GREAT project](https://www.greatproject.eu/) Community of Practice and results and aligning with the Digital Europe Programme's strategic focus on AI, cybersecurity, advanced computing, and data infrastructure, SAGE leverages outcomes from the EUSD as well as research facilitated by[ Horizon Europe](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en). &#x20;
+
+The SAGE project's outcomes include seamlessly integrating fragmented environmental data through federation, enriching data with consistent quality, validation, and interoperable metadata, and enhancing capabilities for data transformation, processing, analysis, forecasting, target setting, and performance monitoring. Targeting businesses seeking compliance with EGD regulations, government bodies optimising environmental impact, citizens and citizen scientists engaging in environmental stewardship, and researchers aiming to deepen our ecological understanding, GDDS aspires to foster informed decision-making and policy formulation based on robust data and evidence.&#x20;
+
+The sustainability of the Green Deal Data Space will be ensured by establishing a standalone legal entity to manage the data space and scale operations not only through the project's lifetime but also beyond.&#x20;
 
 ## GDDS Mission, Vision, Values
 
@@ -76,3 +84,5 @@ A detailed description of these stakeholder categories, including their roles, r
 External stakeholders are organisations or groups that are not formally participating in the GDDS but may influence or be affected by its activities. These may include regulators, non-governmental organisations, sectoral actors, and end-user communities.
 
 External stakeholders are not bound by the GDDS Rulebook; however, their perspectives and potential impact shall be considered to ensure transparency, trust, and responsible governance. They may engage with the GDDS through mechanisms such as a Community of Practice or other consultation frameworks.
+
+[^1]: \[Mark: Here we might use a different term for the SAGE version of the GDDS, since its scope is less than what was originally proposed in the EUSD.]
