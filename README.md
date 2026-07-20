@@ -32,9 +32,9 @@ The core values establish accountability, broad participation, and cross-collabo
 
 ### **Mission**
 
-To enable a trusted, interoperable, and sustainable Green Deal Data Space ecosystem that empowers all actors, within GDDS and beyond, to securely share and use environmental and sustainability data in support of the European Green Deal objectives.&#x20;
+To enable a trusted, interoperable, and sustainable \[SAGE Data Space] ecosystem that empowers all actors, within the \[SAGE Data Space] and beyond, to securely share and use environmental and sustainability data in support of the European Green Deal objectives.&#x20;
 
-GDDS facilitates secure and governed data access, connects fragmented infrastructures, and enhances data FAIRness. It supports regulatory implementation, enables advanced use cases such as digital twins, and drives data-driven value creation, while ensuring transparent, inclusive, and adaptable governance that evolves alongside EU priorities.&#x20;
+The \[SAGE Data Space] facilitates secure and governed data access, connects fragmented infrastructures, and improves the findability, accesibility, interoperability and reusability (FAIRness) of the data available from the \[SAGE Data Space]. It supports regulatory implementation, enables advanced use cases such as digital twins, and drives data-driven value creation, while ensuring transparent, inclusive, and adaptable governance that evolves alongside EU priorities.&#x20;
 
 ### **Vision**
 
