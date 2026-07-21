@@ -53,7 +53,7 @@ Readers concerned with the practical operation, service delivery, and operationa
 
 <details>
 
-<summary>3. Governance Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/governnace-frameworks">here</a>)</summary>
+<summary>3. Governance Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/governance-frameworks">here</a>)</summary>
 
 This framework defines how the GDDS is governed, by whom, and under which rules. It comprises the following: &#x20;
 

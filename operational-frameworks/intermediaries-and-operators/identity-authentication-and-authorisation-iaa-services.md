@@ -10,7 +10,7 @@ The service covers the full lifecycle of digital identities for both natural per
 
 The service is provided by the intermediaries and operators that sustain the trust fabric of the GDDS, notably the[ Identity Providers, Authorisation Registries, and Participant Registries. ](#user-content-fn-1)[^1]
 
-These are defined as roles, and certain of them are certified roles, under Trust & Participation Governance and the Conformity Framework & Governance Enforcement. The participant-facing lifecycle that this service supports (identification, onboarding, credential issuance, and revocation) is governed under Trust & Participation Governance (see [here](../../governnace-frameworks/gdds-rulebook/trust-and-participation-governance/)).&#x20;
+These are defined as roles, and certain of them are certified roles, under Trust & Participation Governance and the Conformity Framework & Governance Enforcement. The participant-facing lifecycle that this service supports (identification, onboarding, credential issuance, and revocation) is governed under Trust & Participation Governance (see [here](../../governance-frameworks/gdds-rulebook/trust-and-participation-governance/)).&#x20;
 
 The technical architecture and trust mechanisms underpinning this service, identity and attestation management, authentication and federation standards, access control and authorisation models, and the federation, trust and security mechanisms, are specified in the Technical Framework (see [Data Sovereignty & Trus](../../12-data-sovereignty-and-trust/)t). &#x20;
 
