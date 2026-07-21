@@ -4,7 +4,7 @@
 _This section might be updated based on the latest developments in the SAGE consortium, specifically considering WP6, WP7, WP4, and the Techie group, including inputs from Task 3.4 on value-added services. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
 {% endhint %}
 
-The Operational Frameworks of the Green Deal Data Space (GDDS) describe how the data space runs in practice and who keeps it running. While the Business Frameworks explain why the GDDS exists and the value it creates, the Operational Frameworks turn that intent into day-to-day operation, ensuring that data and services are delivered reliably, securely, and in line with the data space’s rules.
+The Operational Framework of the Green Deal Data Space (GDDS) describes how the data space runs in practice and who keeps it running. While the Business Framework explains why the GDDS exists and the value it creates, the Operational Framework turns that intent into day-to-day operation, ensuring that data and services are delivered reliably, securely, and in line with the data space’s rules.
 
 This section is organised into three areas:&#x20;
 

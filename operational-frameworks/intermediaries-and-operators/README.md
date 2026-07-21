@@ -17,6 +17,8 @@ Key responsibilities may include:
 * [_Compliance assurance (e.g. ensuring data usage aligns with CSRD, EPBD, or GDPR);_](#user-content-fn-1)[^1]
 * Onboarding and support for participants, especially SMEs and municipalities.
 
-Operators might include neutral industry bodies, domain-specific hubs, or trusted IT providers. In GDDS, multiple operators can coexist under federated rules, enabling sectoral specialisation while ensuring interoperability through shared trust frameworks.
+Operators might include neutral industry bodies, domain-specific hubs, or trusted IT providers. In GDDS, multiple autonomous operators can coexist under a common set of rules (a shared rulebook and trust framework), enabling sectoral specialisation while ensuring interoperability.
 
-[^1]: TBD
+[^1]: TBD - We can have "conformity services" that check whether data complies with a standard, whether the values in a field in a data asset align with a controlled vocabulary, or an online service performs in accordance with some clear technical specification.
+
+    <br>
