@@ -15,8 +15,8 @@
 
 * [Introduction](operational-frameworks/introduction.md)
 * [Intermediaries & Operators](operational-frameworks/intermediaries-and-operators/README.md)
-  * [Catalogue and Data Brokerage Services](operational-frameworks/intermediaries-and-operators/catalogue-and-data-brokerage-services.md)
   * [Identity, Authentication and Authorisation (IAA) Services](operational-frameworks/intermediaries-and-operators/identity-authentication-and-authorisation-iaa-services.md)
+  * [Catalogue and Data Brokerage Services](operational-frameworks/intermediaries-and-operators/catalogue-and-data-brokerage-services.md)
 * [Service Management Framework](operational-frameworks/service-management-framework.md)
 * [Operating Policies & Procedures](operational-frameworks/operating-policies-and-procedures.md)
 

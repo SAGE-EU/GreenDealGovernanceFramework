@@ -5,7 +5,7 @@ icon: sitemap
 
 # Reader's Guide
 
-The GDDS Frameworks are informed by and aligned with the[ building blocks defined in the ](https://dssc.eu/space/BVE2/1071251457/Data+Spaces+Blueprint+v2.0+-+Home)[Data Spaces Blueprint 3.0 by the Data Spaces Support Centre,](https://blueprint.dssc.eu/) which in turn is based on the[ Open DEI project.](https://design-principles-for-data-spaces.org/) &#x20;
+The GDDS Frameworks are informed by and aligned with the building blocks defined in the [Data Spaces Blueprint 3.0](https://blueprint.dssc.eu/) by the Data Spaces Support Centre, which in turn is based on the[ Open DEI project.](https://design-principles-for-data-spaces.org/) &#x20;
 
 Building on these foundations, SAGE has developed a framework structure that organises the core GDDS documentation in a way that better fits the content and the intended final output. Rather than the original two-tier division into Business & Organisational and Technical Building Blocks, the GDDS Frameworks are organised into six individual, but complementary, frameworks, described below.&#x20;
 
