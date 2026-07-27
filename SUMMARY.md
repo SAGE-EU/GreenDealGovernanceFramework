@@ -2,7 +2,8 @@
 
 * [Introduction to the Green Deal Data Space (GDDS)](README.md)
 * [Reader's Guide](03-documentation-structure.md)
-* [Glossary](04-glossary.md)
+* [Glossary](04-glossary/README.md)
+  * [Acronyms](04-glossary/acronyms.md)
 
 ## Business Frameworks
 

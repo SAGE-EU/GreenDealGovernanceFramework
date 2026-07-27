@@ -99,6 +99,6 @@ This framework specifies the technical means by which the GDDS operates and thro
 {% endcolumn %}
 
 {% column valign="middle" %}
-<a href="04-glossary.md" class="button primary">Next: Glossary</a>
+<a href="04-glossary/" class="button primary">Next: Glossary</a>
 {% endcolumn %}
 {% endcolumns %}
