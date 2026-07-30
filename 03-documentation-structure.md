@@ -25,7 +25,7 @@ To see further, open the expandable tabs below.
 
 <details>
 
-<summary>1. Business Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/business-frameworks">here</a>)</summary>
+<summary>1. Business Framework (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/business-framework">here</a>)</summary>
 
 This framework sets out the economic and value-creation rationale of the GDDS – why the data space exists and how it delivers value to its participants. It covers the following: &#x20;
 
@@ -39,7 +39,7 @@ Readers looking to understand the purpose, scope, and value drivers of the GDDS 
 
 <details>
 
-<summary>2. Operational Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/operational-frameworks">here</a>)</summary>
+<summary>2. Operational Framework (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/operational-framework">here</a>)</summary>
 
 This framework describes how the GDDS runs in practice and who keeps it running. It covers the following: &#x20;
 
@@ -53,7 +53,7 @@ Readers concerned with the practical operation, service delivery, and operationa
 
 <details>
 
-<summary>3. Governance Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/governance-frameworks">here</a>)</summary>
+<summary>3. Governance Framework (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/governance-framework">here</a>)</summary>
 
 This framework defines how the GDDS is governed, by whom, and under which rules. It comprises the following: &#x20;
 
@@ -69,7 +69,7 @@ Readers seeking to understand participants’ rights and obligations, the govern
 
 <details>
 
-<summary>4. Legal Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/legal-frameworks">here</a>)</summary>
+<summary>4. Legal Framework (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/legal-framework">here</a>)</summary>
 
 This framework establishes the legal basis for participation in and operation of the GDDS. It comprises the following: &#x20;
 
@@ -82,7 +82,7 @@ Readers needing to understand the regulatory obligations and the contractual rel
 
 <details>
 
-<summary>5. Technical Frameworks (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/technical-frameworks">here</a>)</summary>
+<summary>5. Technical Framework (go <a href="https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/technical-framework">here</a>)</summary>
 
 This framework specifies the technical means by which the GDDS operates and through which data is exchanged securely and meaningfully. This section covers the following: &#x20;
 

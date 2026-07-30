@@ -4,7 +4,7 @@ The Legal Frameworks of the GDDS establish the legal basis for participation in 
 
 This pillar is composed of two key components:
 
-* > **Regulatory Compliance,** which identifies the legal obligations applicable to data space activities, including the GDPR, the Data Act, the DGA, CSRD, EPBD, and other EU or national legislations, and supports participants in addressing them proactively;
-* > **Contractual Framework,** which outlines the necessary agreements between participants, including governance and data sharing agreements.
+* **Regulatory Compliance,** which identifies the legal obligations applicable to data space activities, including the GDPR, the Data Act, the DGA, CSRD, EPBD, and other EU or national legislation, and supports participants in addressing them proactively;
+* **Contractual Framework,** which outlines the necessary agreements between participants, including governance and data sharing agreements.
 
 By clearly defining rights, liability schemes, and dispute resolution mechanisms, these frameworks help reduce transaction costs, foster legal interoperability, and create a reliable basis for sustainable data collaborations in support of Europe’s Green Deal ambitions. Readers needing to understand the regulatory obligations and the contractual relationships that underpin participation in the GDDS will find the relevant guidance in this section.

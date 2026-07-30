@@ -4,7 +4,7 @@
 _This section might be updated based on the latest developments in the SAGE consortium, specifically considering the WP4 Governance working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._ &#x20;
 {% endhint %}
 
-The Governance Frameworks define how the GDDS is governed, by whom, and under which rules. It also serves as a foundation of the GDDS, including its governance bodies, decision-making processes, and participation lifecycle management mechanisms. Together, these elements provide the structure necessary to ensure accountability, trust, and coordinated collaboration across the data space.
+The Governance Framework defines how the GDDS is governed, by whom, and under which rules. It also serves as a foundation of the GDDS, including its governance bodies, decision-making processes, and participation lifecycle management mechanisms. Together, these elements provide the structure necessary to ensure accountability, trust, and coordinated collaboration across the data space.
 
 For this reason, the Governance Frameworks comprise:&#x20;
 

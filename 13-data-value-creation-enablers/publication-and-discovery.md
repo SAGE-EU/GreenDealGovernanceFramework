@@ -4,7 +4,7 @@
 _This section might be updated based on the latest developments in the SAGE consortium, specifically considering WP2, WP3, WP4, and WP5 working groups. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
 {% endhint %}
 
-The Publication & Discovery capability enables providers of data and services to expose their offerings (with metadata, terms, and access conditions) and make them visible to other data space participants. Consumers, in turn, use this capability to search, identify, and request access to offerings that best fit their needs.
+The Publication & Discovery capability enables providers of data and services to expose their offerings (with metadata, terms, and access conditions) and make them visible to other data space participants. Consumers, in turn, use this capability to search, identify, and request access to offerings that best fit their needs. The capability supports both human-oriented discovery through portal interfaces and machine-to-machine discovery through standard APIs.
 
 In the Green Deal Data Space (GDDS), this capability is central for creating transparency and trust between stakeholders. It ensures that:
 

@@ -160,7 +160,7 @@ It also interacts with:&#x20;
 Effective functioning of the Council requires:&#x20;
 
 * a structured operational framework,&#x20;
-* formal consultation and voting procedures,&#x20;
+* [formal consultation and voting procedures, ](#user-content-fn-1)[^1]
 * governance documentation systems,&#x20;
 * secretariat support.&#x20;
 
@@ -291,7 +291,7 @@ Effective functioning of the DSGA requires:
 
 <summary><strong>Operator</strong></summary>
 
-The GDDS Operator (evolved from the MVP1 Operations Team) is foreseen as the operating entity or entities responsible for:&#x20;
+The GDDS Operator is foreseen as the operating entity or entities responsible for:&#x20;
 
 * running the federated, shared infrastructure,
 * maintaining registries and trust services,&#x20;
@@ -304,7 +304,7 @@ The Operator maintains records of operational decisions and provides periodic re
 
 It is also foreseen that there are specific working groups under the Operator, such as Technical, Business, Legal, Change Management, etc. This could be derived from the working groups of MVP1. &#x20;
 
-See more about the Operational Framework [here](https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/operational-frameworks), where the Operators and Intermediaries and their functions are defined.
+See more about the Operational Framework [here](https://app.gitbook.com/s/2Q8OXIfogkcLsEZE9xsb/operational-framework), where the Operators and Intermediaries and their functions are defined.
 
 </details>
 
@@ -457,3 +457,5 @@ In more mature stages of the data space, the oversight framework may be strength
 {% hint style="warning" %}
 _This section might be updated based on the latest developments in the SAGE consortium, specifically considering the WP4 Governance working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections.  For example, governance bodies appointment, suggested procedures for voting etc._&#x20;
 {% endhint %}
+
+[^1]: TBD

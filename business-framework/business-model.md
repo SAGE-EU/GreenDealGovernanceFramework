@@ -22,7 +22,7 @@ A particularly important aspect of the \[SAGE Data Space] business model is the 
 
 This separation is critical for the \[SAGE Data Space], as it enables a neutral, trusted governance structure while allowing operational flexibility and innovation through multiple service providers. It also supports sustainability, as operational responsibilities can be distributed and scaled independently of governance, reducing dependency on a single entity.&#x20;
 
-Overall, the \[SAGE Data Space] business model demonstrates that the \[SAGE Data Space] should be understood not just as a technical platform, but as a coordinated ecosystem in which governance and infrastructure together support use cases to create value. The central role of the data space is to enable these interactions in a consistent, trusted, and scalable way, allowing participants to benefit from shared infrastructure while maintaining their individual roles and objectives.&#x20;
+Overall, the \[SAGE Data Space] business model demonstrates that the \[SAGE Data Space] should not be understood just as a technical platform, but as a coordinated ecosystem in which governance and infrastructure together support use cases to create value. The central role of the data space is to enable these interactions in a consistent, trusted, and scalable way, allowing participants to benefit from shared infrastructure while maintaining their individual roles and objectives.&#x20;
 
 ## Breaking Down the Business Models Using the DSSC Framework&#x20;
 

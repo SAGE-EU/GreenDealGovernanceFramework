@@ -25,11 +25,11 @@ The Rulebook does not restate the full technical specifications, contractual tem
 
 ## Applicability&#x20;
 
-The Rulebook applies to all GDDS participants and governance bodies, collectively, the internal stakeholders of the data space, from the moment of admission and for the duration of their participation. It binds organisations and the individuals acting on their behalf, across the roles they hold.&#x20;
+The Rulebook applies to all GDDS participants and [governance bodies, ](#user-content-fn-1)[^1]collectively, the internal stakeholders of the data space, from the moment of admission and for the duration of their participation. It binds organisations and the individuals acting on their behalf, across the roles they hold.&#x20;
 
 External stakeholders, such as regulators, sectoral bodies, and end-user communities, are not bound by the Rulebook. Their interests are nonetheless taken into account to support transparency and responsible governance, and they may engage with the GDDS through mechanisms such as the Community of Practice.&#x20;
 
-The Rulebook is a living document. It is maintained under the authority of the GDDS governance bodies and evolves as the data space matures from its initial operational phase (MVP1) towards a fully operational data space (MVP2), and as the European regulatory landscape develops. Changes are made through the governance processes defined within it.&#x20;
+The Rulebook is a living document. It is maintained under the authority of the GDDS governance bodies and evolves as the data space matures from its initial operational phase (MVP1) towards a fully operational data space (MVP2), and as the European regulatory landscape develops. Changes are made through the [governance processes ](#user-content-fn-2)[^2]defined within it.&#x20;
 
 ## How this Rulebook is structured&#x20;
 
@@ -41,3 +41,11 @@ The Rulebook is organised so that a reader can move from the rules of participat
 * Technical Governance describes the governance of the technical components and standards through which the data space operates, linking governance requirements to their technical implementation.&#x20;
 
 Readers new to the GDDS are encouraged to begin with Trust & Participant Governance, which establishes the concepts and roles that the later sections build upon. Those concerned with a specific question, a participant's obligations, the conformity regime, or how data usage rights are upheld may consult the relevant section directly.&#x20;
+
+[^1]: we need to work on the detail of this more; while also defining how each governing body is elected, whats the eligibility process etc (this is more so in the playbook)
+
+    <br>
+
+    <br>
+
+[^2]: change management processes are defined, not yet added&#x20;

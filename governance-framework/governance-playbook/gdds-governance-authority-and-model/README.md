@@ -9,7 +9,7 @@ Early governance concepts explored during initial workshops and research activit
 
 * multi-layer and decentralised governance,&#x20;
 * separation of governance and operational activities,&#x20;
-* trust as core governance concerns,&#x20;
+* trust and compliance as core governance concerns,&#x20;
 * external regulatory compliance and internal compliance with rules and technical requirements,
 * and alignment with the data space principles and standards such as the ones defined in DSSC.&#x20;
 

@@ -66,7 +66,7 @@ Participation is non-restricted and may evolve throughout the project as the eco
 
 The Community of Practice contributes to the GDDS development through:&#x20;
 
-* providing feedback on GDDS offerings (see [here](../../../business-frameworks/data-space-offering.md)),&#x20;
+* providing feedback on GDDS offerings (see [here](../../../business-framework/data-space-offering.md)),&#x20;
 * sharing insights on ecosystem developments, policy trends, and emerging needs,&#x20;
 * identifying potential risks, opportunities, and cross-sector synergies,&#x20;
 * facilitating dialogue between GDDS and related initiatives.&#x20;
@@ -100,7 +100,7 @@ The General Assembly (GA) is the formal governing body of the SAGE consortium du
 
 The GA ensures that project activities remain aligned with contractual obligations, strategic objectives, and the overall mission of the GDDS initiative.&#x20;
 
-Within the MVP1 governance framework, the GA acts as the primary governance authority, with each member carrying equal vote.&#x20;
+Within the MVP1 governance framework, the GA acts as the primary governance authority, with each member carrying an equal vote.&#x20;
 
 ### Composition&#x20;
 
@@ -173,24 +173,42 @@ This includes:&#x20;
 
 ### Appointment Process of SSC &#x20;
 
-First, the GA votes on the establishment of the SSC, including its proposed mandates and composition based on the proposal prepared by the WP4 Governance Group (see below also in the Mandate and Scope section).
+1. First, the GA votes on the establishment of the SSC, including its proposed mandates and composition based on the proposal prepared by the WP4 Governance Group (see below also in the Mandate and Scope section).
+2. Second, members of the GDDS Strategic Steering Committee are nominated by the General Assembly with the following rules in mind:&#x20;
 
-Then, members of the GDDS Strategic Steering Committee are nominated by the General Assembly with the following rules in mind:&#x20;
+**Criteria:**&#x20;
 
-The SSC is proposed to consist of 5–8 members with balanced representation across five domains: Governance, Technical, Business, Legal, and Use Cases. Additionally, it should include the Project coordinators and an External Advisor. Members are expected to act with independence of judgement in the broader interest of the GDDS. The domain representatives must be part of the Consortium.
+The SSC is proposed to consist of 5–8 members with balanced representation across five domains: Governance, Technical, Business, Legal, and Use Cases. Additionally, it should include the Project coordinators and an External Advisor. The domain representatives must be part of the Consortium.
 
-Submission rules:\
+**Submission rules:**\
 • one submission per consortium member organisation,\
-• maximum one nominee per domain (up to 5 nominees total),\
+• maximum one nominee per domain,\
 • self-nominations are not accepted.
 
-The SSC proposal sets out the following working principles for members:\
+The SSC proposal sets out the following **working principles** for members:\
 • diversity of expertise — complementary skills and perspectives,\
 • independence of judgement — acting in the best interest of the GDDS, not solely their organisation,\
 • commitment and availability — active participation throughout 2026-2027,\
 • transparency and accountability — periodic reporting to the GA every six months.
 
-The final composition of the SSC is subject to approval by the GA in accordance with the Consortium Agreement procedures.&#x20;
+3. Third, candidates are reviewed against the composition principles and balanced cross-domain representation by the WP4 Governance Lead; those who meet the criteria and accept the candidacy proceed to appointment.
+4. The final composition of the SSC is subject to approval by the GA in accordance with the Consortium Agreement procedures (see below). The General Assembly appoints the members through a separate vote for each domain. Where a domain has a single candidate, the candidate is appointed by simple majority (confirmation vote). Where a domain has more than one candidate, each Member casts one vote for one candidate, and the candidate with the most votes is appointed (most-votes / plurality). In the event of a tie, a run-off vote is held between the tied candidates.
+
+The following voting procedure applies as per the Consortium Agreement (Section 6.3):
+
+* Quorum: the General Assembly deliberates and decides validly only if two-thirds (2/3) of its Members are present or represented. If the quorum is not reached, the meeting is reconvened in line with the Consortium Agreement.&#x20;
+* One vote per Member: each Member present or represented has one vote.&#x20;
+* Majority: as neither decision affects the Grant Agreement, both are taken by simple majority of the votes cast. (The two-thirds threshold in the Consortium Agreement applies only to decisions affecting the Grant Agreement.)&#x20;
+* Abstentions: abstaining Members count towards the quorum but are not counted when determining the majority of votes cast.&#x20;
+* Veto rights: the veto rights under Consortium Agreement Section 6.3.5 apply as normal.&#x20;
+
+**Additional rules**&#x20;
+
+The following rules apply to the appointment vote:&#x20;
+
+* One seat per person: a candidate may hold only one SSC seat. If a candidate obtains the most votes in more than one domain, they choose at the meeting which seat to accept. The domain(s) they do not take are filled by the next-highest-voted candidate in that domain; where no other candidate stands, the domain is reopened for renomination and a subsequent confirmation vote.&#x20;
+* Candidacy confirmation: only candidates who confirmed their candidacy by the deadline given are carried forward to the appointment vote. Candidates who do not confirm by the deadline are considered to have withdrawn and are not put to the vote.&#x20;
+* Multi-domain candidates: candidates nominated in more than one domain confirm which domain(s) they accept.&#x20;
 
 {% hint style="info" %}
 _Note: The GDDS SSC was confirmed in May, 2026 in the General Assembly hosted in Oslo. The nominations happened in June, 2026. During the nomination, requests from members of the General Assembly were received to expand the composition of the SSC, specifically the UC representation from 1 to at least 2 members._ \

@@ -12,9 +12,9 @@ For GDDS, these descriptions carry an additional responsibility: they must refle
 
 The scope of this capability includes:
 
-* > **Standardised Metadata Models**: Adoption of common vocabularies, ontologies, and schemas that make data and services understandable across domains.
+* > **Standardised metadata models** and application profiles, supported by common vocabularies and ontologies where appropriate, to enable interoperable descriptions across domains.
 * > **Policy-Aware Descriptions**: Integration of usage conditions, data-sharing rules, and sustainability-related criteria into offering descriptions.
-* > **Machine-Readability**: Ensuring that descriptions are FAIR (Findable, Accessible, Interoperable, Reusable) and support automation in publication and discovery processes.
+* > **Machine-Readability**: Ensuring that descriptions are FAIR (Findable, Accessible, Interoperable, Reusable), machine-readable, suitable for automated discovery, integration, and processing, and support automation in publication and discovery processes.
 * > **Sector-Specific Extensions**: Where relevant, additional descriptors are introduced to reflect the unique requirements of sustainability use cases, such as emissions tracking, lifecycle analysis, or resource efficiency.
 
 By implementing harmonised description mechanisms, GDDS ensures that participants have full visibility into the ecosystem of available resources. This not only facilitates efficient data sharing, but also accelerates the creation of innovative services, business models, and collaborative projects aligned with the EU Green Deal.

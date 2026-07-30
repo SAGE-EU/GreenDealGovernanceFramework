@@ -8,7 +8,7 @@ icon: message-check
 _This section might be updated based on the latest developments in the SAGE consortium, specifically considering WP2, WP3, WP4, and WP5 working groups. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
 {% endhint %}
 
-According to the [DSSC Blueprint](https://blueprint.dssc.eu/?pane=technical#TechnicalBuildingBlocks-2.Overviewofpillars), Data Interoperability outlines capabilities needed for data exchange, semantic models, data formats, and interfaces (APIs). This also includes functionalities for provenance and traceability.
+According to the [DSSC Blueprint](https://blueprint.dssc.eu/?pane=technical#TechnicalBuildingBlocks-2.Overviewofpillars), Data Interoperability outlines capabilities enabling consistent, interoperable, and scalable data exchange. These include: common semantic data models, metadata standards, data formats, APIs, data exchange protocols, and mechanisms supporting provenance and traceability.
 
 * Data Models: capabilities to define and use shared semantics in a data space.
 * Data Exchange: capabilities relating to the actual exchange and sharing of data.

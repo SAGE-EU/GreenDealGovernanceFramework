@@ -30,8 +30,8 @@ Participants shall comply with the GDDS governance, legal, and technical require
 
 The GDDS recognises two participant types, which determine the applicable onboarding path:&#x20;
 
-* Institutional Participants — organisations, public bodies, academic institutions, NGOs, and research labs that participate as a legal entity. A designated representative acts on behalf of the institution, which then serves as an umbrella for any individual users it authorises internally.&#x20;
-* Individual Participants — natural persons (such as freelancers, private consultants, and independent researchers) who participate in their own capacity, not as representatives of a legal entity. Individual Participants have more restricted access privileges than Institutional Participants.&#x20;
+* **Institutional Participants** — organisations, public bodies, academic institutions, NGOs, and research labs that participate as a legal entity. A designated representative acts on behalf of the institution, which then serves as an umbrella for any individual users it authorises internally.&#x20;
+* **Individual Participants** — natural persons (such as freelancers, private consultants, and independent researchers) who participate in their own capacity, not as representatives of a legal entity. Individual Participants have more restricted access privileges than Institutional Participants.&#x20;
 
 The distinction is structural: Institutional onboarding establishes a legal entity as the primary trust actor, which then governs its own internal users; Individual onboarding establishes a natural person directly, with no organisational umbrella.&#x20;
 
