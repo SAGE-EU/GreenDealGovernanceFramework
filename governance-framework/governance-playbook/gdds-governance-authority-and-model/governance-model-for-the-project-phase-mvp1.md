@@ -22,7 +22,7 @@ The MVP1 phase, therefore, also serves as a testing environment for elements of 
 
 The Figure below showcases the MVP1 governance structure, in line with the current project organisation and includes the governance bodies.
 
-<figure><img src="../../../.gitbook/assets/mvp1_interim_governance_structure.png" alt=""><figcaption><p>Figure XXXXX: MVP1 Governance Model for SAGE Project Phase</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/mvp1_interim_governance_structure.png" alt=""><figcaption><p>Figure 4: MVP1 Governance Model for SAGE Project Phase</p></figcaption></figure>
 
 ***
 

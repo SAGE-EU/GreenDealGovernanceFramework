@@ -58,10 +58,14 @@ Readers concerned with the practical operation, service delivery, and operationa
 This framework defines how the GDDS is governed, by whom, and under which rules. It comprises the following: &#x20;
 
 * The Governance Playbook, which describes the governance model, decision-making bodies, and lines of authority across the data space, &#x20;
-* The Governance / GDDS Rulebook, which operationalises the governance framework, with the following subsections:
-  * Trust & Participant Governance (how participants are identified, admitted, onboarded, monitored, and, where necessary, suspended or withdrawn),&#x20;
-  * The Conformity Framework & Governance Enforcement (the mechanisms for verifying compliance and enforcing the rules),&#x20;
-  * Data Sovereignty (the governance of rights and control over data), and Technical Governance (the governance touchpoints for the technical components and standards of the data space). &#x20;
+* Rolebook&#x20;
+*   The Governance / GDDS Rulebook, which operationalises the governance framework, with the following subsections:
+
+    * Trust & Participant Governance (how participants are identified, admitted, onboarded, monitored, and, where necessary, suspended or withdrawn),&#x20;
+    * The Conformity Framework & Governance Enforcement (the mechanisms for verifying compliance and enforcing the rules),&#x20;
+    * Data Sovereignty (the governance of rights and control over data), and Technical Governance (the governance touchpoints for the technical components and standards of the data space). &#x20;
+
+    Additionally, there is the GDDS Rolebook that is considered to be developed. This would be a companion document to the Green Deal Data Space (GDDS) Rulebook. Where the Rulebook establishes the overall governance structure, legal framework, and participation lifecycle, the Rolebook operationalises those rules into role-specific playbooks. (TBD – not yet final)
 
 Readers seeking to understand participants’ rights and obligations, the governance bodies, and how the rules are maintained and enforced should consult this framework.&#x20;
 

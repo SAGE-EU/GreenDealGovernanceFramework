@@ -5,7 +5,7 @@ icon: briefcase-blank
 # Business Model
 
 {% hint style="warning" %}
-_This section might be updated based on the latest development in the SAGE consortium, specifically considering D7.1 by WP7 - Business Model working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
+_This section might be updated based on the latest developments in the SAGE consortium, specifically considering D7.1 by WP7 - Business Model working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
 {% endhint %}
 
 A clear business model defines how value is created and made available for sharing, who can benefit from that new value, and how operations are sustained over time. &#x20;
@@ -14,7 +14,7 @@ Therefore, the purpose of this section is to analyse how the value created throu
 
 ## Applying the DSSC Business Model to GDDS &#x20;
 
-The SAGE's D7.1 deliverable \[ref] developed a business model for the \[SAGE Data Space] based on  the DSSC business model \[ref], concieving the \[SAGE Data Space] as a multi-actor ecosystem, with the Data Space serving as a central coordination layer connecting multiple participant groups and use cases. A key feature of this model is the one-to-many relationship between the \[SAGE Data Space] and multiple use cases build on top of that Data Space, enabling a common shared infrastructure and governance framework to support diverse domain-specific applications, such as forestry, construction, textiles, and environmental monitoring, each deriving value from the shared capabilities. Read more [here ](use-cases.md)about the GDDS initial Use Cases.&#x20;
+The SAGE's D7.1 deliverable \[ref] developed a business model for the \[SAGE Data Space] based on the DSSC business model \[ref], conceiving the \[SAGE Data Space] as a multi-actor ecosystem, with the Data Space serving as a central coordination layer connecting multiple participant groups and use cases. A key feature of this model is the one-to-many relationship between the \[SAGE Data Space] and multiple use cases built on top of that Data Space, enabling a common shared infrastructure and governance framework to support diverse domain-specific applications, such as forestry, construction, textiles, and environmental monitoring, each deriving value from the shared capabilities. Read more [here ](use-cases.md)about the GDDS initial Use Cases.&#x20;
 
 The model also highlights the distinction between different roles within the ecosystem, including data providers, data users, service providers, and federation service providers. These actors interact through the data space, which facilitates data exchange, service delivery, and value creation. Importantly, the DSSC model recognises that additional actors can continuously join the ecosystem, reinforcing the scalability and network effects of the data space.&#x20;
 
@@ -30,12 +30,10 @@ Building on the DSSC business model framework, this section presents a GDDS-spec
 
 The resulting application is presented across two complementary figures. The first, Figure 13 below, focuses on the structural elements of the business model, including objectives, actors, value propositions, services, governance, and cost and revenue mechanisms.&#x20;
 
-Figure XX: The DSSC Business Model for GDDS – Business Section&#x20;
-
-<img src="../.gitbook/assets/unknown (5).png" alt="Figure XX: The DSSC Business Model for GDDS (Source: SAGE Consortium WP7, Business Model Group, D7.1, 2026)" height="266" width="624">
+<img src="../.gitbook/assets/unknown (5).png" alt="Figure 2: The DSSC Business Model for GDDS (Source: SAGE Consortium WP7, Business Model Group, D7.1, 2026)" height="266" width="624">
 
 The second highlights the dynamic capabilities of the GDDS, including monitoring, business model innovation, and governance evolution, which together enable the data space to adapt, scale, and remain sustainable.&#x20;
 
-<div align="center"><img src="../.gitbook/assets/unknown (6).png" alt="Figure XXX: The DSSC Business Model for GDDS- Ecosystem and Governance Section (Source: SAGE Consortium WP7, Business Model Group, D7.1, 2026)" height="317" width="642"></div>
+<div align="center"><img src="../.gitbook/assets/unknown (6).png" alt="Figure 3: The DSSC Business Model for GDDS- Ecosystem and Governance Section (Source: SAGE Consortium WP7, Business Model Group, D7.1, 2026)" height="317" width="642"></div>
 
 Together, these figures provide a comprehensive and participant-centric view of the GDDS as a governed, service-enabled, and economically viable ecosystem. They illustrate not only how value is created and captured across different actors, but also how the data space can grow and evolve over time through aligned incentives, continuous onboarding of use cases, and the development of new services and capabilities.&#x20;

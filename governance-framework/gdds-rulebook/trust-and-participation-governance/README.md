@@ -28,27 +28,29 @@ Participants are entities that have formally joined the GDDS and committed to th
 
 Participants shall comply with the GDDS governance, legal, and technical requirements, and shall align their internal data governance processes, including data rights management, quality assurance, and compliance mechanisms, with the GDDS framework. A participant may hold one or more of the roles defined below, depending on the context of its activities.&#x20;
 
-The GDDS recognises two participant types, which determine the applicable onboarding path:&#x20;
+The GDDS recognises two **participant types,** which determine the applicable onboarding path:&#x20;
 
 * **Institutional Participants** — organisations, public bodies, academic institutions, NGOs, and research labs that participate as a legal entity. A designated representative acts on behalf of the institution, which then serves as an umbrella for any individual users it authorises internally.&#x20;
 * **Individual Participants** — natural persons (such as freelancers, private consultants, and independent researchers) who participate in their own capacity, not as representatives of a legal entity. Individual Participants have more restricted access privileges than Institutional Participants.&#x20;
 
 The distinction is structural: Institutional onboarding establishes a legal entity as the primary trust actor, which then governs its own internal users; Individual onboarding establishes a natural person directly, with no organisational umbrella.&#x20;
 
-### Roles, rights, and responsibilities&#x20;
+### Functional Roles, rights, and responsibilities&#x20;
 
-Participants operate under clearly defined roles that determine their rights and obligations. Roles are context-dependent: a single organisation may hold several roles depending on the data transaction or service concerned.&#x20;
+Participants operate under clearly defined roles that determine their rights and obligations. These are functional roles that are context-dependent: a single organisation may hold several roles depending on the data transaction or service concerned.&#x20;
 
 The primary participant roles are:&#x20;
 
 * Data Providers — supply data to the data space by publishing datasets or data services accessible to other participants.&#x20;
-* Data Recipients / Consumers — consume data for purposes such as analytics, decision-making, or the development of data-driven services.&#x20;
+* [Data Recipients / Consumers / User ](#user-content-fn-1)[^1]— consume data for purposes such as analytics, decision-making, or the development of data-driven services.&#x20;
 * Data Rights Holders — hold legal rights over specific data assets and determine the conditions under which those assets may be shared or reused.&#x20;
-* [Intermediaries — facilitate data exchange by providing services such as connectors, interoperability infrastructure, registries, trust services.  ](#user-content-fn-1)[^1]
+* [Intermediaries — facilitate data exchange by providing services such as connectors, interoperability infrastructure, registries, and trust services.  ](#user-content-fn-2)[^2]
 * Service Providers — The legal entity with whom the Customer has entered into a contractual relationship regarding the provision of Data Processing Services and other Services by the Provider under the Agreement, and from which the customer now intends to change to another provider;&#x20;
 
 {% hint style="warning" %}
-_Note: this section will be further developed based on inputs from Wp6, Wp4._ &#x20;
+_Note: this section will be further developed based on inputs from Wp6 and Wp4. The specific section that should be developed in the next phase, from September onwards, is the Distinction of the Participant Roles – Functional Roles like Data provider, consumer, etc; and Governing Body roles like how participants can join a Body, can they join when onboarding, or is it only upon request. This section will be developed together with the Appointment Procedures of each Governing Body (as they are currently defined in MVP2). The current MVP2 Governing Bodies do not have a defined ' Participant lifecycle' process for them, e.g. onboarding, offboarding, appointment processes, eligibility etc. Owner: WP4_
+
+Another point that was raised is ' For DSGOs, it might make sense to be more strict than for regular participants; onboarding should be handled in subsidiary fashion by the DSGs where possible.'
 {% endhint %}
 
 ## How roles and trust conditions apply across the lifecycle&#x20;
@@ -57,11 +59,13 @@ A role is not a static label; it determines what a participant must satisfy at e
 
 * Identity assurance scales with the role. Roles that publish or control data, or that operate shared infrastructure, require higher levels of identity assurance than roles that only consume open data. The minimum assurance per role is set out at the identification and eligibility stages.&#x20;
 * Certain infrastructure roles are certified roles. Intermediaries and Service Providers occupying trust-critical functions (such as the Participant Registry, Authorisation Registry, or Identity Provider) must pass conformity assessment before admission and maintain valid certification thereafter. The certification mechanism is defined under Conformity Framework & Governance Enforcement (see [here](../conformity-framework-and-governance-enforcement/)).&#x20;
-* Trust conditions are continuous obligations. The conditions accepted at onboarding, adherence to the Rulebook, the signed agreements, and any role-specific requirements, remain binding for the duration of participation, and their breach is what the monitoring and enforcement stages act upon.&#x20;
+* Trust conditions are continuous obligations. The conditions accepted at onboarding, adherence to the Rulebook, the signed agreements, and any role-specific requirements remain binding for the duration of participation, and their breach is what the monitoring and enforcement stages act upon.&#x20;
 
 This mapping is what makes the lifecycle a single narrative rather than a set of disconnected steps: the same role-based trust conditions are established, exercised, and tested at successive stages.&#x20;
 
-[^1]: or the ones who provide data intermediation services --> 'A service which aims to establish relationships of an economic character for the purposes of data sharing between an undetermined number of data subjects or data holders and data users, through technical, legal or other means, including for the purpose of exercising the rights of data subjects in relation to personal data, and which :
+[^1]: To decide on ONE&#x20;
+
+[^2]: or the ones who provide data intermediation services --> 'A service which aims to establish relationships of an economic character for the purposes of data sharing between an undetermined number of data subjects or data holders and data users, through technical, legal or other means, including for the purpose of exercising the rights of data subjects in relation to personal data, and which :
 
     (1) do not have as their main purpose the intermediation of copyright-protected content;
 

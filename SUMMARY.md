@@ -18,7 +18,7 @@
 * [Intermediaries & Operators](operational-framework/intermediaries-and-operators/README.md)
   * [Identity, Authentication and Authorisation (IAA) Services](operational-framework/intermediaries-and-operators/identity-authentication-and-authorisation-iaa-services.md)
   * [Catalogue and Data Brokerage Services](operational-framework/intermediaries-and-operators/catalogue-and-data-brokerage-services.md)
-* [Service Management Framework](operational-framework/service-management-framework.md)
+* [Service Management Framework/ System](operational-framework/service-management-framework-system.md)
 * [Operating Policies & Procedures](operational-framework/operating-policies-and-procedures.md)
 
 ## GOVERNANCE FRAMEWORK

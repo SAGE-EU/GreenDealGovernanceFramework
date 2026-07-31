@@ -4,7 +4,7 @@
 _This section might be updated based on the latest developments in the SAGE consortium, specifically considering the WP4 Governance working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._ &#x20;
 {% endhint %}
 
-The Governance Framework defines how the GDDS is governed, by whom, and under which rules. It also serves as a foundation of the GDDS, including its governance bodies, decision-making processes, and participation lifecycle management mechanisms. Together, these elements provide the structure necessary to ensure accountability, trust, and coordinated collaboration across the data space.
+The Governance Framework defines how the GDDS is governed, by whom, and under which rules. It also serves as a foundation of the GDDS, defining its governance bodies, decision-making processes, and participation lifecycle management mechanisms. Together, these elements provide the structure necessary to ensure accountability, trust, and coordinated collaboration across the data space.
 
 For this reason, the Governance Frameworks comprise:&#x20;
 
@@ -20,7 +20,9 @@ _The current GDDS Governance Framework has been developed through an iterative c
 Readers seeking to understand participants’ rights and obligations, the governance bodies, and how the rules are maintained and enforced should consult this section.
 {% endhint %}
 
-To further orient readers, this section first introduces a layered view of governance – helping readers understand how governance can be structured and what it should enable – before describing the individual components in detail.&#x20;
+***
+
+To further orient readers, this section first introduces a layered view of governance, helping readers understand how governance can be structured and what it should enable, before describing the individual components in detail.&#x20;
 
 This layered approach supports the design of an evolving governance model that can adapt as the data space matures, while ensuring clear responsibilities for strategic direction, operational execution, stakeholder participation, and independent oversight. See the expandable tabs below with Layer 1 and Layer 2 detailed descriptions.
 
@@ -45,28 +47,30 @@ For the GDDS, governance therefore:&#x20;
 
 ### Principle 2 – Multi-Layer Governance is Essential&#x20;
 
-All mature data space initiatives adopt a multi-layer governance approach, recognising that no single governance level can address all needs. This is aligned with the principle of Transparency and ultimately contributes to fostering the Accountability of the GDDS and its participants.&#x20;
+All mature data space initiatives adopt a multi-layer governance approach, recognising that no single governance level can address all needs. This is aligned with the principle of Transparency and ultimately contributes to fostering the Accountability of the GDDS and its participants.
 
-The GDDS governance framework is therefore expected to operate across clearly distinguished layers, including:&#x20;
+The GDDS governance framework is therefore expected to operate across clearly distinguished layers, including:
 
-* an ecosystem or cross-data-space layer,&#x20;
-* a GDDS-wide governance layer,&#x20;
-* domain or use-case-specific governance, to maintain FAIR principles across participants&#x20;
-* and participant-level rules and obligations, to preserve Accountability.&#x20;
+* an ecosystem or cross-data-space layer,
+* a GDDS-wide governance layer,
+* domain or use-case-specific governance, to maintain FAIR principles across participants,
+* and participant-level rules and obligations, to preserve Accountability.
 
-Each layer has a distinct purpose and scope, and governance decisions must be taken at the appropriate layer to avoid over-centralisation or fragmentation.&#x20;
+Each layer has a distinct purpose and scope. The allocation of decisions across these layers is addressed in Principle 3.
 
 ### Principle 3 – Subsidiarity by Design&#x20;
 
-Subsidiarity is a core governance principle in European data spaces. Decisions should be taken at the lowest competent level, closest to where data is used and value is created.&#x20;
+**Principle 3 – Subsidiarity by Design**
 
-For the GDDS, this implies:&#x20;
+Building on the layered structure established in Principle 2, subsidiarity determines at which layer a given decision is taken. Decisions should be taken at the lowest competent level, closest to where data is used, and value is created.
 
-* domain- or use-case-specific decisions are handled at domain level,&#x20;
-* Data space -level governance intervenes only when cross-cutting impacts exist,&#x20;
-* Escalation paths are explicit and predictable.&#x20;
+For the GDDS, this implies:
 
-Subsidiarity supports scalability, respects data sovereignty, and prevents governance bottlenecks.&#x20;
+* domain- or use-case-specific decisions are handled at domain level,
+* data space-level governance intervenes only when cross-cutting impacts exist,
+* escalation paths are explicit and predictable.
+
+Subsidiarity supports scalability, respects data sovereignty, and prevents governance bottlenecks.
 
 ### Principle 4 – Governance Authority Must Be Clearly Scoped&#x20;
 
@@ -187,8 +191,6 @@ Governance must enable the GDDS to operate under a formally constituted authorit
 * Accommodate facilitator and use-case orchestrator roles within the governance structure.&#x20;
 * Define and oversee monetisation models, including centralised payment and settlement mechanisms.&#x20;
 
-[_See: Organisational Form and Governance Authority (p. XX)_ ](#user-content-fn-3)[^3]
-
 ### Participation Management, Onboarding and Admission&#x20;
 
 Governance must enable a structured, trustworthy participation lifecycle, including the ability to:&#x20;
@@ -196,10 +198,8 @@ Governance must enable a structured, trustworthy participation lifecycle, includ
 * Require candidates to attest to compliance with the rules of participation at onboarding.&#x20;
 * Allow candidates to request membership in one or more Data Sharing Groups.&#x20;
 * Notify participants upon acceptance and issue the necessary credentials.&#x20;
-* Issue participant identities enabling selective data browsing prior to transactions.&#x20;
+* Issue participant identities enabling selective data browsing before transactions.&#x20;
 * Onboard holders of specialised or sensitive datasets under appropriate governance safeguards.&#x20;
-
-[_See: Participation Management, Onboarding and Admission (p. XX)_ ](#user-content-fn-3)[^3]
 
 ### GDDS Roles, Rights and Responsibilities&#x20;
 
@@ -213,8 +213,6 @@ Governance must establish a clear and enforceable taxonomy of roles and associat
 * Support event-based notifications from providers upon relevant operational events.&#x20;
 * Require providers to expose data access via standard, governed interfaces (e.g. APIs).&#x20;
 
-[_See: GDDS Roles, Rights and Responsibilities (p. XX)_ ](#user-content-fn-3)[^3]
-
 ### Participation, Roles and Trust Framework / Authentication and Authorisation&#x20;
 
 Governance must establish the conditions under which participants are authenticated, authorised, and trusted, enabling the GDDS to:&#x20;
@@ -226,8 +224,6 @@ Governance must establish the conditions under which participants are authentica
 * Facilitate access by financial institutions to ecosystem service and natural capital evaluations (UC9 specific).&#x20;
 * Enforce trust conditions established at onboarding throughout the participation lifecycle.&#x20;
 
-[_See: Participation, Roles and Trust Framework / Authentication and Authorisation (p. XX)_ ](#user-content-fn-3)[^3]
-
 ### Data Sovereignty and Technical Governance&#x20;
 
 Governance must align technical mechanisms with governance rules, ensuring the GDDS can:&#x20;
@@ -237,14 +233,12 @@ Governance must align technical mechanisms with governance rules, ensuring the G
 * Support multiple licensing models (open, research-use, commercial) with enforcement.&#x20;
 * Provide GDDS-level licence templates and a reference library for data holders.&#x20;
 * Enable selective sharing and delegation of access and usage rights by data owners.&#x20;
-* Support granular, tiered access control (RBAC/ABAC) at the data-asset level.&#x20;
+* Support granular, tiered access control (RBAC/ABAC) at the data-product level.&#x20;
 * Enforce encrypted access control and data segmentation at the technical layer.&#x20;
 * Track data usage by participant and, where applicable, by declared purpose.&#x20;
 * Ensure licensing and usage rights are clearly defined, accessible, and consistently applied.&#x20;
 * Govern data refresh frequency, latency expectations, and upload protocol standards.&#x20;
 * Enable custom access policies where standard policies are insufficient, including geofence-based rules. &#x20;
-
-[_See: Data Sovereignty and Technical Governance (p. XX)_ ](#user-content-fn-3)[^3]
 
 ### Certification and Conformity Framework&#x20;
 
@@ -255,8 +249,6 @@ Governance must define and oversee a conformity regime ensuring all participants
 * Enforce GDPR compliance for internal data flows, including those involving personal data.&#x20;
 * Apply personal data protection requirements to health-sensitive data (GDPR, EHDS).&#x20;
 
-[_See: Certification and Conformity Framework (p. XX)_ ](#user-content-fn-3)[^3]
-
 </details>
 
 ### Alignment with the overall GDDS Mission, Vision, and Values&#x20;
@@ -265,12 +257,10 @@ The GDDS Governance Framework operates in alignment with the overarching GDDS mi
 
 While the definition and evolution of the GDDS mission and vision are addressed at the data space level through cross-work-package collaboration (including business, ethical, social and sustainability perspectives), the Governance Framework ensures that governance structures, decision-making processes, and operational practices remain consistent with these shared objectives.&#x20;
 
-[The Governance Authority is responsible for monitoring alignment between governance decisions and the GDDS mission and vision, and for triggering formal review processes when external policy developments (e.g. changes in European Green Deal priorities) require reassessment. ](#user-content-fn-4)[^4]
+[The Governance Authority is responsible for monitoring alignment between governance decisions and the GDDS mission and vision, and for triggering formal review processes when external policy developments (e.g. changes in European Green Deal priorities) require reassessment. ](#user-content-fn-3)[^3]
 
 [^1]: TBC
 
 [^2]: attach referance or link
 
-[^3]: add link
-
-[^4]: Is it the DSGA in collaboration with the Ethics Committee?&#x20;
+[^3]: Is it the DSGA in collaboration with the Ethics Committee?&#x20;

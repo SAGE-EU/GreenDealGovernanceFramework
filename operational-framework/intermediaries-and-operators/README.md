@@ -10,6 +10,8 @@ _This section might be updated based on the latest developments in the SAGE cons
 
 In GDDS, intermediaries and operators play a crucial enabling role, making data accessible, trustworthy, and compliant with EU regulations. They help reduce complexity and lower barriers to entry for participants.
 
+Within the GDDS, understood as a federated and distributed system, intermediaries and operators are the roles and bodies that operate at the federation level to sustain the shared functions on which the data space depends. Rather than holding or controlling participants’ data, they provide core and value-added services that make data discoverable and accessible, make services available, and keep the federation trustworthy and interoperable. Multiple intermediaries and operators may coexist under shared federated rules, allowing sectoral or domain specialisations while preserving a single, interoperable data space. This section describes these roles and the federation-level operations they enable; the technical specifications underpinning them are described in the Technical Frameworks.
+
 Key responsibilities may include:
 
 * Identity and Access Management (e.g. authenticating participants, issuing credentials);
