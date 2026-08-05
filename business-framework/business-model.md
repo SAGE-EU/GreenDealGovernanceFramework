@@ -26,7 +26,7 @@ Overall, the \[SAGE Data Space] business model demonstrates that the \[SAGE Data
 
 ## Breaking Down the Business Models Using the DSSC Framework&#x20;
 
-Building on the DSSC business model framework, this section presents a GDDS-specific application that translates the model's conceptual elements into a concrete representation of how the data space operates in practice. The DSSC framework is particularly suited to the GDDS as it captures the multi-actor, multi-sided nature of data spaces, the separation between governance and operational roles, and the dynamic mechanisms required to sustain and evolve the ecosystem over time.&#x20;
+Building on the DSSC business model framework, this section presents a GDDS-specific implementation that translates the model's conceptual elements into a concrete representation of how the data space operates in practice. The DSSC framework is particularly suited to the GDDS as it captures the multi-actor, multi-sided nature of data spaces, the separation between governance and operational roles, and the dynamic mechanisms required to sustain and evolve the ecosystem over time.&#x20;
 
 The resulting application is presented across two complementary figures. The first, Figure 13 below, focuses on the structural elements of the business model, including objectives, actors, value propositions, services, governance, and cost and revenue mechanisms.&#x20;
 

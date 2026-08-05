@@ -8,9 +8,9 @@ The Publication & Discovery capability enables providers of data and services to
 
 In the Green Deal Data Space (GDDS), this capability is central for creating transparency and trust between stakeholders. It ensures that:
 
-* > Providers can effectively showcase datasets, services, and tools.
-* > Consumers can discover offerings aligned with their technical, legal, and sustainability needs.
-* > The catalogue mechanism _(centralised, decentralised, or hybrid)_ balances openness with controlled access, reflecting governance rules.
+* Providers can effectively showcase datasets, services, and tools.
+* Consumers can discover offerings aligned with their technical, legal, and sustainability needs.
+* The catalogue mechanism _(centralised, decentralised, or hybrid)_ balances openness with controlled access, reflecting governance rules.
 
 It directly contributes to **Article 33 of the EU Data Act** (interoperability, discoverability, and accessibility of data spaces).
 

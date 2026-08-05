@@ -266,7 +266,7 @@ While the definition and evolution of the GDDS mission and vision are addressed 
 
 [The Governance Authority is responsible for monitoring alignment between governance decisions and the GDDS mission and vision, and for triggering formal review processes when external policy developments (e.g. changes in European Green Deal priorities) require reassessment. ](#user-content-fn-7)[^7]
 
-[^1]: TBC
+[^1]: There is the GDDS Rolebook that is considered to be developed. This would be a companion document to the Green Deal Data Space (GDDS) Rulebook. Where the Rulebook establishes the overall governance structure, legal framework, and participation lifecycle, the Rolebook operationalises those rules into role-specific playbooks. _(TBD – not yet final)_
 
 [^2]: specifies?
 

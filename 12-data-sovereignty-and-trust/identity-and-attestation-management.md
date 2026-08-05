@@ -12,25 +12,25 @@ By combining machine-readable rulebooks, standardized credential formats, and se
 
 This capability is essential for:
 
-* > Trust & Compliance – Verifying that participants meet the GDDS baseline requirements and any sector-specific rules.
-* > Interoperability – Enabling credential federation across other recognised data spaces and trust frameworks.
-* > Efficiency – Reducing onboarding time and transaction costs through reusable, portable credentials.
+* Trust & Compliance – Verifying that participants meet the GDDS baseline requirements and any sector-specific rules.
+* Interoperability – Enabling credential federation across other recognised data spaces and trust frameworks.
+* Efficiency – Reducing onboarding time and transaction costs through reusable, portable credentials.
 
 ### **Core Capabilities**
 
-* > Trusted Legal & Natural Person Identification – Support for both organisational and human identities, aligned with EU-recognised schemes (eIDAS, Qualified Trust Service Providers).
-* > Secure Credential Lifecycle Management – Issuance, renewal, revocation, and validation of credentials in compliance with GDDS governance.
-* > Conformity Assessment Integration – Alignment with the GDDS Rulebook and automated compliance checks.
-* > Credential Portability & Federation – Interoperable with other ecosystems through open standards (W3C Verifiable Credentials, DIDs, OIDC4VC).
-* > Attestation Diversity – Support for multiple attestation types, including identity, membership, and compliance attestations.
+* Trusted Legal & Natural Person Identification – Support for both organisational and human identities, aligned with EU-recognised schemes (eIDAS, Qualified Trust Service Providers).
+* Secure Credential Lifecycle Management – Issuance, renewal, revocation, and validation of credentials in compliance with GDDS governance.
+* Conformity Assessment Integration – Alignment with the GDDS Rulebook and automated compliance checks.
+* Credential Portability & Federation – Interoperable with other ecosystems through open standards (W3C Verifiable Credentials, DIDs, OIDC4VC).
+* Attestation Diversity – Support for multiple attestation types, including identity, membership, and compliance attestations.
 
 ### **Design Principles**
 
-* > Self-Sovereign Identity (SSI) – Allow participants to control their identity attributes while meeting governance requirements.
-* > Standards-First Approach – Prioritise open, widely adopted technical and governance standards.
-* > Federation over Centralisation – Enable multiple trust domains to coexist with GDDS as the trust anchor.
-* > Policy-Linked Identity – Ensure access and usage rights are tied to verified identities.
-* > Credential Reuse – Encourage interoperability with existing compliance certifications to minimise duplication.
+* Self-Sovereign Identity (SSI) – Allow participants to control their identity attributes while meeting governance requirements.
+* Standards-First Approach – Prioritise open, widely adopted technical and governance standards.
+* Federation over Centralisation – Enable multiple trust domains to coexist with GDDS as the trust anchor.
+* Policy-Linked Identity – Ensure access and usage rights are tied to verified identities.
+* Credential Reuse – Encourage interoperability with existing compliance certifications to minimise duplication.
 
 ***
 

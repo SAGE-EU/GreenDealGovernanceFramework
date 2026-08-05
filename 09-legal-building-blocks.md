@@ -1,6 +1,6 @@
 # Introduction
 
-The Legal Frameworks of the GDDS establish the legal basis for participation in and operation of the data space, enabling trustworthy, compliant, and scalable data sharing across diverse actors and sectors. They support legal certainty by helping stakeholders understand and apply the relevant regulatory requirements and by structuring contractual arrangements tailored to the needs of a federated and purpose-driven data space like the GDDS.
+The Legal Framework of the GDDS establish the legal basis for participation in and operation of the data space, enabling trustworthy, compliant, and scalable data sharing across diverse actors and sectors. They support legal certainty by helping stakeholders understand and apply the relevant regulatory requirements and by structuring contractual arrangements tailored to the needs of a federated and purpose-driven data space like the GDDS.
 
 This pillar is composed of two key components:
 
