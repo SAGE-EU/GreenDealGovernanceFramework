@@ -42,7 +42,7 @@ Research across multiple European data spaces consistently shows that governance
 
 Governance therefore:&#x20;
 
-* precedes and enables[^2] technical implementation,&#x20;
+* precedes and enables technical implementation,&#x20;
 * provides predictability and trust for participants,&#x20;
 * balances innovation with accountability, and
 * ensures alignment with European Green Deal objectives.&#x20;
@@ -236,7 +236,7 @@ Governance must align technical mechanisms with governance rules, ensuring the G
 * Maintain full and auditable, yet securely held, logs of data publication, access, and transaction events.&#x20;
 * Support multiple licensing models (e.g. open, research-use, commercial) with enforcement.&#x20;
 * Provide GDDS-level licence templates and a reference library for data holders.&#x20;
-* [Enable data providers and rights holders to selectively share and to delegate specific access and usage rights to nominated parties. ](#user-content-fn-3)[^3]
+* [Enable data providers and rights holders to selectively share and to delegate specific access and usage rights to nominated parties. ](#user-content-fn-2)[^2]
 * Support granular, tiered access control (RBAC/ABAC) at the data-product level.&#x20;
 * Enforce encrypted access control and data segmentation at the technical layer.&#x20;
 * Track data usage by participant and, where applicable, by declared purpose.&#x20;
@@ -249,10 +249,10 @@ Governance must align technical mechanisms with governance rules, ensuring the G
 
 Governance must define and oversee a conformity regime ensuring all participants and data products meet applicable legal, technical, and ethical standards, enabling the GDDS to:&#x20;
 
-* [Ensure compliance with EU data governance regulations (DGA, Data Act, GDPR, INSPIRE, Open Data Directive). ](#user-content-fn-4)[^4]
+* Ensure compliance with EU data governance regulations (DGA, Data Act, GDPR, INSPIRE, Open Data Directive).&#x20;
 * Support validation of data products against registered reporting and data standards.  ESG and CSRD reporting (UC9, UC4) are examples of such standards.
-* Enforce[^5] GDPR compliance for internal data flows, including those involving personal data.&#x20;
-* [Apply personal data protection requirements to health-sensitive data (GDPR, EHDS).](#user-content-fn-6)[^6]&#x20;
+* Enforce GDPR compliance for internal data flows, including those involving personal data.&#x20;
+* Apply personal data protection requirements to health-sensitive data (GDPR, EHDS).&#x20;
 
 </details>
 
@@ -264,18 +264,10 @@ The GDDS Governance Framework operates in alignment with the overarching GDDS mi
 
 While the definition and evolution of the GDDS mission and vision are addressed at the data space level through cross-work-package collaboration (including business, ethical, social and sustainability perspectives), the Governance Framework ensures that governance structures, decision-making processes, and operational practices remain consistent with these shared objectives.&#x20;
 
-[The Governance Authority is responsible for monitoring alignment between governance decisions and the GDDS mission and vision, and for triggering formal review processes when external policy developments (e.g. changes in European Green Deal priorities) require reassessment. ](#user-content-fn-7)[^7]
+[The Governance Authority is responsible for monitoring alignment between governance decisions and the GDDS mission and vision, and for triggering formal review processes when external policy developments (e.g. changes in European Green Deal priorities) require reassessment. ](#user-content-fn-3)[^3]
 
 [^1]: There is the GDDS Rolebook that is considered to be developed. This would be a companion document to the Green Deal Data Space (GDDS) Rulebook. Where the Rulebook establishes the overall governance structure, legal framework, and participation lifecycle, the Rolebook operationalises those rules into role-specific playbooks. _(TBD – not yet final)_
 
-[^2]: specifies?
+[^2]: Note: Rights are expressed at the offering and catalogue level (for example in ODRL) and, at runtime, are backed by verifiable delegation evidence (for example iSHARE delegation evidence) so that a party acting on another's behalf can prove its authorisation. This complements, and sits above, the access-control mechanisms (RBAC/ABAC) in the bullets below.
 
-[^3]: Note: Rights are expressed at the offering and catalogue level (for example in ODRL) and, at runtime, are backed by verifiable delegation evidence (for example iSHARE delegation evidence) so that a party acting on another's behalf can prove its authorisation. This complements, and sits above, the access-control mechanisms (RBAC/ABAC) in the bullets below.
-
-[^4]: I don't know how to do this.  We could, e.g., use the DPV from UGhent (Beatriz Esteves) which codes up all of these regulations into a vocabulary that can be used to describe data.  E.g. this data is "non-personal".  The coding of this is the data provider's responsibility and liability.  We can also provide tools that data providers can run against a "non-personal" data set to validate this claim — then issue a credential as evidence of this (better than a simple "attestation"). &#x20;
-
-[^5]: again don't know how to do this.  Best we can do is break GDPR down into a bunch of statements by the data processor that they do A, B, C, etc. Some of these might be testable using a conformity service.
-
-[^6]: Again, the mechanism is, data provider labels data set regarding its sensitivity.  That sensitivity is translated into operational/technical measures required of any recipient of that data set (data consumer).  Those measures become requirements that the data consumer must agree to, as part of the access/use policy, and generally prove that they have the wherewithall to comply (e.g. ISO 27k for cybersecurity for teh recipient organization, training certificates of any personnel touching this data on proper handling of such data, uzw ad nauseam)
-
-[^7]: Is it the DSGA in collaboration with the Ethics Committee?&#x20;
+[^3]: Is it the DSGA in collaboration with the Ethics Committee?&#x20;

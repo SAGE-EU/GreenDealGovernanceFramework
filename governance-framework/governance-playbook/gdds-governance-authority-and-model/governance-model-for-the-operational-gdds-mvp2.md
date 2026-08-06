@@ -1,15 +1,15 @@
 # Governance Model for the Operational GDDS (MVP2)
 
-A future-oriented governance model (MVP2) has been outlined to describe how governance is recommended to function once the GDDS becomes fully operational.&#x20;
+A future-oriented governance model (MVP2) has been outlined to describe how governance could function once the GDDS becomes fully operational.&#x20;
 
-Upon completion of the project phase (March, 2028), the GDDS is expected to transition into an incorporated organisational form (e.g., foundation, association, cooperative, or other suitable entity). The exact legal form will be determined before operational launch and can be seen [here](../gdds-organisational-form.md).&#x20;
+Before completion of the project phase (28 February, 2028), the GDDS is expected to transition to a stable form, most likely an incorporated organisational form (e.g., foundation, association, cooperative, or other suitable entity). The exact legal form will be determined before operational launch and can be seen [here](../gdds-organisational-form.md).&#x20;
 
 MVP2 governance builds upon the institutional foundations established during MVP1 and introduces:&#x20;
 
-* a formal Council of Participants as governance authority,&#x20;
-* domain-level governance through Data Sharing Groups (DSGs), and Orchestrators,&#x20;
+* a formal Council of Participants for both overall governance of the new incorporated entity, as well as the final "data space governance authority" (as defined by DSSC),&#x20;
+* domain-level governance through Data Sharing Groups (DSGs) and their Orchestrators,&#x20;
 * an operator responsible for infrastructure and services,&#x20;
-* independent oversight bodies ensuring accountability and trust.&#x20;
+* independent oversight, and advisory bodies ensuring accountability and trust.&#x20;
 
 The Figure below showcases the MVP2 governance model with the recommended structure of governance bodies.&#x20;
 
@@ -27,11 +27,7 @@ Below you can find the detailed description of each body, their responsibilities
 
 ### Role and Function &#x20;
 
-In the operational phase, the Community of Practice (CoP) continues to function as the open\* ecosystem engagement layer of the GDDS.
-
-{% hint style="info" %}
-\*"Open" refers to the voluntary and non-restricted nature of participation; "ecosystem engagement" refers to the structured dialogue the Community of Practice maintains between the GDDS and its wider stakeholder environment, including participants, other data spaces, public authorities, and domain experts.
-{% endhint %}
+In the operational phase, the Community of Practice (CoP) continues to represent the broadest and most inclusive engagement layer of the GDDS during the project phase, providing a voluntary and unrestricted forum for engagement with the broader GDDS Ecosystem, including external stakeholders, participants, other data spaces, public authorities, and domain experts. The CoP is designed to support collaboration, knowledge exchange, and stakeholder feedback.
 
 While its basic function remains consistent with the project phase, the Community of Practice evolves into a broader forum supporting knowledge exchange, stakeholder engagement, and cross-domain collaboration across the operational data space ecosystem.&#x20;
 
@@ -62,7 +58,7 @@ _Note: No admission procedure applies because the Community of Practice holds no
 The Community of Practice continues to perform an advisory and consultative role, including:&#x20;
 
 * providing feedback on GDDS developments and operational practices,&#x20;
-* identifying emerging ecosystem needs, opportunities, and risks,&#x20;
+* identifying emerging GDDS Ecosystem needs, opportunities, and risks,&#x20;
 * contributing sector knowledge and best practices,&#x20;
 * facilitating collaboration with other initiatives and data spaces (creating cross-sector synergies).&#x20;
 
@@ -123,10 +119,14 @@ The Council of Participants is composed of representatives of organisations form
 
 Representation is designed to ensure balanced participation across stakeholder categories and domains of activity.&#x20;
 
-Membership may include:&#x20;
+Members may include:&#x20;
 
 * representatives of participating organisations in GDDS that also fulfil some of the ecosystem roles (data providers, data consumers, service providers, intermediaries, etc),&#x20;
-* Data Sharing Group Orchestrators representing domain clusters,&#x20;
+* Data Sharing Group Orchestrators representing domain clusters.&#x20;
+
+{% hint style="info" %}
+_Note: Representation rules/eligibility may be further defined in the governance procedures of the GDDS._
+{% endhint %}
 
 ### Responsibilities & Limitations&#x20;
 
@@ -152,7 +152,7 @@ It also interacts with:&#x20;
 
 * Data Sharing Groups —  through the Data Sharing Group Orchestrators, which provide domain-level input,&#x20;
 * DSGA — delegated executive governance: admission and rejection decisions, application of the participation frameworks, compliance steering (classification and enforcement decisions), maintenance of governance-relevant registries and attestations at scheme level.&#x20;
-* GDDS Operator — technical execution of those decisions (identity verification, onboarding tooling, registry status changes), acting under DSGA oversight &#x20;
+* Operator — technical execution of those decisions (identity verification, onboarding tooling, registry status changes), acting under DSGA oversight &#x20;
 * Supervisory Board — oversight of both, plus appeal/escalation functions, with no delegated decision powers.&#x20;
 
 ### Operational Support&#x20;
@@ -248,11 +248,11 @@ To perform this role effectively, DSGOs require:&#x20;
 
 The Data Space Governance Authority (DSGA) is the executive governance body of the operational GDDS. It exercises the governance responsibilities delegated to it by the Council of Participants and is responsible for the day-to-day application of the governance framework, in particular the participation lifecycle and compliance processes.
 
-The DSGA occupies the position between rule-setting and execution: the Council of Participants defines the governance rules and frameworks, the DSGA applies them through individual governance decisions, and the GDDS Operator carries out the technical execution of those decisions under DSGA oversight.
+The DSGA occupies the position between rule-setting and execution: the Council of Participants defines the governance rules and frameworks, the DSGA applies them through individual governance decisions, and the Operator carries out the technical execution of those decisions under DSGA oversight.
 
 ### **Composition**
 
-The DSGA is appointed by, and accountable to, the Council of Participants. It operates as a distinct body, separate from the GDDS Operator, in order to preserve the segregation between governance decision-making and operational execution.
+The DSGA is appointed by, and accountable to, the Council of Participants. It operates as a distinct body, separate from the Operator, in order to preserve the segregation between governance decision-making and operational execution.
 
 {% hint style="warning" %}
 _Note: The composition, appointment procedure, and legal positioning of the DSGA (e.g. as part of the incorporated GDDS Operating Entity) are to be defined as part of the MVP2 organisational design._
@@ -264,7 +264,7 @@ The DSGA is responsible for:
 
 * managing the admission process and holding the accept/reject authority for participant applications, within the eligibility rules and frameworks approved by the Council of Participants,
 * acting as the designated compliance authority ("steering" function): assessing reported non-compliance, classifying it, and deciding on proportionate enforcement action,
-* overseeing the GDDS Operator's execution of governance decisions, including identity verification, technical onboarding, and registry status changes,
+* overseeing the Operator's execution of governance decisions, including identity verification, technical onboarding, and registry status changes,
 * maintaining scheme-level governance records, registries, and attestations,
 * reporting on its delegated activities to the Council of Participants.
 
@@ -274,16 +274,16 @@ The DSGA operates within the frameworks defined by the Council of Participants a
 * perform operational or technical execution, which remains the responsibility of the GDDS Operator,
 * act outside the scope of its delegation instrument.
 
-DSGA decisions are subject to the appeal and escalation procedures defined in this Rulebook, and its functioning is subject to oversight by the Supervisory Board.
+DSGA decisions are subject to the appeal and escalation procedures defined in the Rulebook, and its functioning is subject to oversight by the [Supervisory Board](#user-content-fn-2)[^2].
 
 ### **Coordination**
 
 The DSGA:
 
 * receives its delegated mandate from, and reports to, the **Council of Participants**,
-* oversees the **GDDS Operator** in the execution of governance decisions,
-* escalates systemic governance issues to the **Supervisory Board**,
-* interacts with the **Compliance & Ethics Committee** on escalation pathways and cases requiring independent compliance assessment,
+* oversees the **Operator** in the execution of governance decisions,
+* escalates systemic governance issues to the **Supervisory Board**, and if needed to the **Council of Participants**,
+* interacts with the [**Compliance & Ethics** ](#user-content-fn-3)[^3]**Committee** on escalation pathways and cases requiring independent compliance assessment,
 * coordinates with **Data Sharing Group Orchestrators** on domain-level admission and compliance matters.
 
 ### **Operational Support**
@@ -310,7 +310,7 @@ The GDDS Operator is foreseen as the operating entity or entities responsible fo
 
 The Operator(s) has/have operational authority but does not define governance rules.&#x20;
 
-The Operator maintains records of operational decisions and provides periodic reports to the Supervisory Board to support governance oversight and transparency.
+The Operator maintains records of operational decisions and provides periodic reports to the Supervisory Board and the DSGA to support governance oversight and transparency.
 
 It is also foreseen that there are specific working groups under the Operator, such as Technical, Business, Legal, Change Management, etc. This could be derived from the working groups of MVP1. &#x20;
 
@@ -320,17 +320,15 @@ See more about the Operational Framework [here](https://app.gitbook.com/s/2Q8OXI
 
 <details>
 
-<summary><strong>Supervisory Board (Internal Oversight)</strong></summary>
+<summary><strong>Supervisory Board (Internal Advisory and Oversight)</strong></summary>
 
 ### Function and Role&#x20;
 
 It acts as an oversight body of the Council of Participants and ensures that the data space operates in accordance with its governance framework, principles, and strategic objectives.&#x20;
 
-The Supervisory Board ensures accountability of the GDDS Operator and the DSGA and safeguards the fairness and transparency of governance processes.&#x20;
+The Supervisory Board ensures accountability of the Operator, and the DSGA safeguards the fairness and transparency of governance processes.&#x20;
 
-{% hint style="warning" %}
 _Note: Currently, the Supervisory Board is considered an internal GDDS oversight body consisting of independent experts; however, this can be changed based on the final organisation form of the GDDS, as well as the final set-up of MVP2. It has been raised that the Ethics & Compliance Committee has similar oversight responsibilities; however, they are an external body acting independently from GDDS._&#x20;
-{% endhint %}
 
 ### Composition&#x20;
 
@@ -354,13 +352,13 @@ _For example: 'Members are appointed by the Council of Participants for a fixed,
 
 The Supervisory Board is responsible for:&#x20;
 
-* overseeing implementation of governance decisions,&#x20;
+* overseeing implementation of all CoP decisions,&#x20;
 * supervising the activities of the GDDS Operator and DSGA as executive bodies,&#x20;
 * monitoring fairness, inclusivity, and transparency of the data space together with the Ethics & Compliance Committee,&#x20;
 * reviewing performance indicators, audits, and system evaluations,&#x20;
-* assessing the continued fitness of governance mechanisms.&#x20;
+* assessing the continued fitness of the organisational form and governance mechanisms.
 
-The Supervisory Board provides oversight and governance supervision but does not perform operational management. Operational execution remains the responsibility of the GDDS Operator, and DSGA.&#x20;
+The Supervisory Board provides oversight and governance supervision but does not perform operational management. Operational execution remains the responsibility of the Operator and DSGA.&#x20;
 
 {% hint style="warning" %}
 _Note: Some questions to further clarify for the SB if established: 1. The division of responsibilities between the SB and E\&C Committee needs to be made clearer. 2. What are the likely repercussions of the evaluation carried out by the Supervisory Board?_
@@ -370,8 +368,8 @@ _Note: Some questions to further clarify for the SB if established: 1. The divis
 
 The Supervisory Board:&#x20;
 
-* oversees the GDDS Operator,&#x20;
-* receives advice from the Council of Participants and ecosystem actors,&#x20;
+* oversees the Operator and the DSGA,&#x20;
+* receives direction from the Council of Participants,&#x20;
 * interacts with the Compliance & Ethics Committee on compliance matters. &#x20;
 
 ### Operational Requirements&#x20;
@@ -386,7 +384,7 @@ To ensure independence and effective oversight, the Supervisory Board requires:&
 
 <details>
 
-<summary><strong>Ethics &#x26; Compliance Committee (External Independent Oversight)</strong></summary>
+<summary><strong>Ethics &#x26; Compliance Committee (External Independent Oversight and Advisory)</strong></summary>
 
 ### Function and Role&#x20;
 
@@ -439,15 +437,17 @@ _Note: To further define working principles like opinions and assessments are is
 The Compliance & Ethics Committee receives input from:&#x20;
 
 * the Council of Participants,&#x20;
-* the Data Sharing Groups and their orchestration bodies through the Council of Participants&#x20;
-* the GDDS Operator, and DSGA.&#x20;
+* the Data Sharing Groups and their Orchestrators through the Council of Participants&#x20;
+* the Operator, and&#x20;
+* DSGA.&#x20;
 
 The Committee may provide opinions or recommendations to:&#x20;
 
 * the Council of Participants,&#x20;
-* the Supervisory Board where issues concern systemic governance risks.&#x20;
+* the DSGA where issues concerns systemic governance risks
+* the Supervisory Board where issues concern structural or other systemic risks.&#x20;
 
-Upon receiving an escalation concerning structural or systemic governance risk, the Supervisory Board may (a) require the DSGA or GDDS Operator to submit a corrective action plan within a set period, (b) suspend implementation of a contested decision pending review, and (c) refer the matter to the Council of Participants with a recommendation where it exceeds the Board's mandate. This keeps the SB in its oversight lane.
+Upon receiving an escalation concerning a governance risk, the Supervisory Board may (a) require the DSGA and/or Operator to submit a corrective action plan within a set period, (b) suspend implementation of a contested decision pending review, and (c) refer the matter to the Council of Participants with a recommendation where it exceeds the Board's mandate. This keeps the SB in its oversight lane.
 
 ### Operational Requirements&#x20;
 
@@ -469,3 +469,7 @@ _This section might be updated based on the latest developments in the SAGE cons
 {% endhint %}
 
 [^1]: TBD
+
+[^2]: if this is the way proposed, then diagram should show this.  Could be OK
+
+[^3]: different name?
