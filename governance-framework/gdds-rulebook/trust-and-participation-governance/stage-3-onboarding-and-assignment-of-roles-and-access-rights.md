@@ -26,11 +26,9 @@ _Note: A dedicated co-creation session on special onboarding scenarios, covering
 {% endhint %}
 
 {% hint style="info" %}
-_The Pictures below are a first draft, and they might be removed, or moved to either the technical framework section or operational framework section - TBD._
+_The Pictures below are a first draft, and they might be removed or moved to either the technical framework section or the operational framework section - TBD._
 {% endhint %}
 
-<img src="../../../.gitbook/assets/unknown (10).png" alt="" height="368" width="624">
+<figure><img src="../../../.gitbook/assets/GDDS-codesprint-4-Participate.png" alt=""><figcaption><p>Figure 8: Participant Onboarding. High-level Technical Onboarding.</p></figcaption></figure>
 
-<img src="../../../.gitbook/assets/unknown (11).png" alt="" height="345" width="624">
-
-&#x20;
+<figure><img src="../../../.gitbook/assets/#09_CoCreation_Session_WP4_SAGE (28_05_2026) (1).png" alt=""><figcaption><p>Figure 9: Participant Technical Onboarding Steps.</p></figcaption></figure>

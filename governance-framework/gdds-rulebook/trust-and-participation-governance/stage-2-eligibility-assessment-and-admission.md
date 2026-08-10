@@ -2,7 +2,7 @@
 
 Admission depends on meeting the GDDS eligibility criteria. The eligibility model operates on two layers:&#x20;
 
-* GDDS baseline layer: a lightweight set of minimum criteria applied uniformly to all applicants at the GDDS levlow-frictionlow friction at the point of first entry. Focuses on verifiable legal identity and the signing of legal and governance agreements. This baseline does not include sector-specific or Green Deal relevance criteria as mandatory entry requirements — these were assessed and rejected as too restrictive for the initial phase.&#x20;
+* GDDS baseline layer: a lightweight set of minimum criteria applied uniformly to all applicants at the GDDS level. Designed to be low friction at the point of first entry. Focuses on verifiable legal identity and the signing of legal and governance agreements. This baseline does not include sector-specific or Green Deal relevance criteria as mandatory entry requirements — these were assessed and rejected as too restrictive for the initial phase.&#x20;
 * Data Sharing Group (DSG) layer: additional or stricter eligibility requirements may be applied at the level of individual Data Sharing Groups, set by the relevant DSG orchestrator. These are not GDDS-wide requirements; they reflect domain-specific contexts and use case needs. [(Current UCs to become DSGs](#user-content-fn-1)[^1])
 
 The following design principles govern the eligibility model:&#x20;
@@ -77,21 +77,20 @@ _- Automated checks (e.g. smart contracts, data usage policies) can manage acces
 
 The previously listed criteria per category are also suggested to be divided by role. So there is a clear distinction in the onboarding flows, and on who needs to fulfil what requirement. The table below represents a working proposal developed in Co-Creation Sessions 8 and 9 (28th of May, 2026), following the initial list of requirements that is showcased above per legal, governance and technical requirements.&#x20;
 
-| Criterion                                                                              | Data Provider  | Data Recipient  | Data Rights Holder  | Intermediary   | Service Provider  |
-| -------------------------------------------------------------------------------------- | -------------- | --------------- | ------------------- | -------------- | ----------------- |
-| EU/EEA establishment OR legally authorised EU representative                           | ✓ Required     | ✓ Required      | ✓ Required          | ✓ Required     | ✓ Required        |
-| Legal capacity to enter binding agreements                                             | ✓ Required     | ✓ Required      | ✓ Required          | ✓ Required     | ✓ Required        |
-| Verifiable legal identity — LEI · VAT · eIDAS Org ID · iSHARE DID                      | ✓ Required     | ✓ Required      | ✓ Required          | ✓ Required     | ✓ Required        |
-| Self-declaration: past sanctions, investigations, prior exclusions                     | ✓ Required     | ✓ Required      | ✓ Required          | ✓ Required     | ✓ Required        |
-| GDPR compliance statement (non-EEA: adequacy decision / SCCs / BCRs)                   | ✓ Required     | ✓ Required      | ✓ Required          | ✓ Required     | ✓ Required        |
-| Eligibility for requested Data Sharing Group(s) — per DSG-specific rules               | Per DSG rules  | Per DSG rules   | Per DSG rules       | Per DSG rules  | Per DSG rules     |
-| PKI certificate / X.509 eSeal — M2M connector participants                             | ✓ Required     | ✓ Required      | N/A                 | ✓ Required     | ✓ Required        |
-| Conformance testing + digital cert from accredited CA (certified roles — TBC WP2/WP3)  | Optional       | Optional        | N/A                 | ✓ Required     | ✓ Required        |
-| Sector certification (ISO 27001, CSRD, domain accreditation) — optional / per DSG      | Optional       | Optional        | Optional            | Recommended    | Recommended       |
-
 {% hint style="warning" %}
 _Note: The eligibility-criteria table is a working proposal from Co-Creation Sessions 8 and 9 (28 May 2026), subject to review and formal approval by WP4. Conformance-testing scope for Intermediaries and Service Providers is to be confirmed with WP2 and WP3. Personal data collected via the application form requires an explicit lawful basis, and the GDDS Privacy Policy must cover data received from identity providers — coordinate with WP4 for legal review. The primary/secondary classification of application fields is subject to finalisation._&#x20;
 {% endhint %}
+
+| EU/EEA establishment OR legally authorised EU representative                           | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     |
+| -------------------------------------------------------------------------------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
+| Legal capacity to enter binding agreements                                             | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     |
+| Verifiable legal identity — LEI · VAT · eIDAS Org ID · iSHARE DID                      | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     |
+| Self-declaration: past sanctions, investigations, prior exclusions                     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     |
+| GDPR compliance statement (non-EEA: adequacy decision / SCCs / BCRs)                   | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     |
+| Eligibility for requested Data Sharing Group(s) — per DSG-specific rules               | Per DSG rules  | Per DSG rules  | Per DSG rules  | Per DSG rules  | Per DSG rules  |
+| PKI certificate / X.509 eSeal — M2M connector participants                             | ✓ Required     | ✓ Required     | N/A            | ✓ Required     | ✓ Required     |
+| Conformance testing + digital cert from accredited CA (certified roles — TBC WP2/WP3)  | Optional       | Optional       | N/A            | ✓ Required     | ✓ Required     |
+| Sector certification (ISO 27001, CSRD, domain accreditation) — optional / per DSG      | Optional       | Optional       | Optional       | Recommended    | Recommended    |
 
 ***
 
@@ -105,7 +104,7 @@ The admission workflow operates under the oversight of the GDDS governance struc
 * Compliance and Ethics Committee: ensures ethical and compliance standards are met in admission decisions, particularly in cases involving sensitive data categories or high-risk roles.&#x20;
 * GDDS Operator: handles  identity verification (Step 1.2) and technical onboarding (Step 5) under DSGA oversight.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Rulebook_Diagrams.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Rulebook_Diagrams.png" alt=""><figcaption><p>Figure 6: Participant Onboarding Flow. High-level Governance &#x26; Legal Point of view. </p></figcaption></figure>
 
 Overarching design principle: despite the multi-body governance structure, the applicant-facing admission process must be lightweight and as frictionless as possible. Governance complexity is managed in the back end; it must not create unnecessary barriers for applicants.&#x20;
 
@@ -147,7 +146,7 @@ An applicant may appeal a rejection. Therefore, the contest mechanism is as foll
 3. The reviewing body must respond within 5 working days. _(Note: consider having it at least a month since the reviewing body might meet on a monthly basis)_
 4. The final decision is recorded, and any terms for re-application are stated.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Rulebook_Diagrams (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Rulebook_Diagrams (1).png" alt=""><figcaption><p>Figure 7: Rejection &#x26; Appeal Procedure of a Participant at Onboarding.</p></figcaption></figure>
 
 ### Outcome&#x20;
 

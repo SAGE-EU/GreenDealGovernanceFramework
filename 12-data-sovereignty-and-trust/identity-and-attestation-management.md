@@ -6,9 +6,12 @@ _This section might be updated based on the latest developments in the SAGE cons
 
 The Identity & Attestation Management capability provides a trusted foundation for onboarding, verifying, and maintaining participants’ credentials within the GDDS ecosystem.
 
-It ensures that every actor and asset is uniquely identifiable, authenticated, and authorized before engaging in data transactions, while preserving sovereignty over identity data.
+It ensures that:&#x20;
 
-By combining machine-readable rulebooks, standardized credential formats, and secure exchange protocols, GDDS enables participants to present and verify attestations, such as membership, compliance, or sector-specific qualifications, across multiple domains and jurisdictions.
+* every actor is uniquely identifiable, authenticated, and authorised before engaging in data transactions, while preserving sovereignty over data
+* and every asset is uniquely identified and protected by access and usage policies.&#x20;
+
+By combining machine-readable rulebooks, standardised credential formats, and secure exchange protocols, GDDS enables participants to present and verify attestations, such as membership, compliance, or sector-specific qualifications, across multiple domains and jurisdictions.
 
 This capability is essential for:
 
@@ -88,11 +91,13 @@ Organisations such as municipalities, real estate companies, consultancies, or r
 
 ### 2. Academic Participants&#x20;
 
-Individuals working within academic institutions (e.g. universities, applied research centres) may participate via their existing academic credentials, such as institutional logins compliant with eduGAIN or national federation protocols.&#x20;
-
-* \[Note on participant type: Academic participants are classified as Institutional participants for governance purposes. The Academic pathway is an identity/credential pathway available to Institutional participants whose institution provides authentication via eduGAIN or an equivalent national academic federation. 'Academic' is not a separate participant type; the distinction is retained solely at the identity and credential level.]&#x20;
+* Individuals working within academic institutions (e.g. universities, applied research centres) may participate via their existing academic credentials, such as institutional logins compliant with eduGAIN or national federation protocols.&#x20;
 * The level of access will depend on the authentication assurances provided by the institution.&#x20;
 * If an academic participant requires higher assurance or greater access rights than their institution offers, they may proceed via the individual pathway (see below).&#x20;
+
+{% hint style="info" %}
+_Note on participant type: Academic participants are classified as Institutional participants for governance purposes. The Academic pathway is an identity/credential pathway available to Institutional participants whose institution provides authentication via eduGAIN or an equivalent national academic federation. 'Academic' is not a separate participant type; the distinction is retained solely at the identity and credential level._
+{% endhint %}
 
 ### 3. Individual Participants&#x20;
 

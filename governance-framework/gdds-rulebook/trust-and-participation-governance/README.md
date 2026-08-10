@@ -44,7 +44,7 @@ The primary participant roles are:&#x20;
 * Data Providers — supply data to the data space by publishing datasets or data services accessible to other participants.&#x20;
 * [Data Recipients / Consumers / User ](#user-content-fn-1)[^1]— consume data for purposes such as analytics, decision-making, or the development of data-driven services.&#x20;
 * Data Rights Holders — hold legal rights over specific data assets and determine the conditions under which those assets may be shared or reused.&#x20;
-* [Intermediaries — facilitate data exchange by providing services such as connectors, interoperability infrastructure, registries, and trust services.  ](#user-content-fn-2)[^2]
+* [Intermediaries — facilitate data exchange by providing services such as connectors, interoperability infrastructure, registries, and trust services.  ](#user-content-fn-2)[^2]Intermediaries provide the data space’s shared enabling and trust functions, and may hold the certified infrastructure roles (Participant Registry, Authorisation Registry, Identity Provider), without being party to the underlying data transaction.
 * Service Providers — The legal entity with whom the Customer has entered into a contractual relationship regarding the provision of Data Processing Services and other Services by the Provider under the Agreement, and from which the customer now intends to change to another provider;&#x20;
 
 {% hint style="warning" %}
