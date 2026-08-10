@@ -56,112 +56,11 @@ All mature data space initiatives adopt a multi-layer governance approach, recog
 The GDDS governance framework is therefore expected to operate across clearly distinguished layers, including:
 
 * a cross-data-space layer to enable interoperability and cross-data-space alignment,
-* a data space-wide governance layer, to maintain FAIR principles across participants, as well as participant rules and obligations, to preserve accountability,
+* a data space-wide governance layer to maintain FAIR principles across participants, as well as participant rules and obligations, to preserve accountability,
 * domain or use-case-specific governance, to give use cases the ability to adopt specific rules and obligations that allow their own use cases to achieve their objectives
 * and participant-level rules and obligations that all must adhere to, which enhances trust and accountability eventually.
 
 Each layer has a distinct purpose and scope. The allocation of decisions across these layers is addressed in Principle 3.
-
-### Principle 3 – Subsidiarity by Design&#x20;
-
-Building on the layered structure established in Principle 2, subsidiarity determines at which layer a given decision is taken. Decisions should be taken at the lowest competent level, closest to where data is used, and value is created.
-
-Ideally:
-
-* domain- or use-case-specific decisions are handled at domain level,
-* data space-level governance intervenes only when cross-cutting impacts exist, such as limits on scalability or extensibility,
-* escalation paths, in the event of conflicts or incompatibility, are explicit and predictable.
-
-Subsidiarity supports scalability, respects data sovereignty, and prevents governance bottlenecks (e.g. the delays that arise when too many decisions must be escalated to a single central authority for approval).
-
-### Principle 4 – Governance Authority Must Be Clearly Scoped&#x20;
-
-Research highlights the importance of distinguishing between:&#x20;
-
-* legal existence (legal entity),&#x20;
-* decision authority (governance authority),&#x20;
-* and operational execution (operating entity).&#x20;
-
-Ideally:&#x20;
-
-* governance authority is defined explicitly by mandates and rules, not by legal form alone, to maintain accountability,&#x20;
-* multiple governance authorities may coexist with delegated scopes, for example governing separate use cases, while compatible with overarching data space governance,
-* operational entities execute decisions but do not define governance (they do not make the rules — law enforcement vs. the justice system).&#x20;
-
-{% hint style="info" %}
-_Note: the usual definition of federation, in a political context, is that certain topics are the responsibility of one level of government (e.g. education for German Länder), while other topics are the domain of the federal government (e.g. defence for the Bundesrepublik). There are corresponding sets of enforcement bodies and justice systems._
-{% endhint %}
-
-Clear scoping of authority prevents overlap, conflicts of interest, and ambiguity for participants.&#x20;
-
-### Principle 5 – Separation of Governance and Operations&#x20;
-
-A consistent best practice across data spaces is the separation of governance from operations.&#x20;
-
-Governance bodies:&#x20;
-
-* define rules, roles, and decision rights, &#x20;
-* oversee compliance and evolution,&#x20;
-* safeguard trust and accountability.&#x20;
-
-Operating entity:&#x20;
-
-* runs technical infrastructure, maintaining, as much as possible, privacy and data protection,&#x20;
-* supports onboarding by promoting inclusivity and non-discriminatory service delivery,&#x20;
-* implements governance decisions.&#x20;
-
-This separation enables professional operations and avoids concentration of power.&#x20;
-
-### Principle 6 – Trust Frameworks Are Non-Negotiable&#x20;
-
-Trust is a prerequisite for data sharing at scale. Research confirms that trust must be addressed through both technical and operational mechanisms and governance processes.&#x20;
-
-A data space governance framework must define:&#x20;
-
-* roles and responsibilities related to trust, to maintain accountability &#x20;
-* criteria for participant eligibility, fairly and inclusively,&#x20;
-* mechanisms for identity, credentials, and verification,&#x20;
-* compliance monitoring (in particular, in the area of privacy and data protection) and enforcement procedures (to maintain accountability)&#x20;
-
-Eventually, trust frameworks defined for different data spaces could be aligned to enable a cross-data space trust framework, which would then form the basis for cross-data space data sharing and interoperability.
-
-### Principle 7 – Rulebooks Are the Core Governance Instrument&#x20;
-
-Across European data spaces, the "Rulebook" has emerged as the key governance artefact.&#x20;
-
-The Rulebook for each data space:&#x20;
-
-* consolidates legal, organisational, and technical rules and components,&#x20;
-* defines mandatory versus optional requirements,&#x20;
-* assigns rights, obligations, and decision powers,&#x20;
-* evolves through formal, transparent change processes.&#x20;
-
-Effective Rulebooks are modular, versioned, and designed to accommodate future evolution without undermining trust.&#x20;
-
-### Principle 8 – Inclusivity and Legitimacy Are Governance Requirements&#x20;
-
-Research and SAGE's own agreed principles emphasise that governance must enable:&#x20;
-
-* Inclusivity of diverse participant types (public, private, SMEs, research),&#x20;
-* Fair and balanced representation in decision-making to avoid dominance by single actors, and as much as possible inclusion of those affected by decision-making in decision-making processes,
-* Transparency in decision-making,&#x20;
-* Accountability toward broader societal objectives.&#x20;
-
-Governance legitimacy is as important as governance efficiency, especially for public-interest data spaces such as GDDS.&#x20;
-
-### Principle 9 – Governance Must Be Evolutionary&#x20;
-
-Governance is not static. As the data space matures and its membership, needs and technologies change, its governance evolves through phases:&#x20;
-
-* from formation and experimentation,&#x20;
-* to operation and scaling,&#x20;
-* to consolidation and long-term sustainability.&#x20;
-
-Research warns against over-engineering governance too early or locking structures prematurely. Instead, governance frameworks should explicitly support:&#x20;
-
-* iterative refinement,&#x20;
-* periodic review,&#x20;
-* structured transition between lifecycle phases.
 
 </details>
 
@@ -178,95 +77,6 @@ Ideally:
 * escalation paths, in the event of conflicts or incompatibility, are explicit and predictable.
 
 Subsidiarity supports scalability, respects data sovereignty, and prevents governance bottlenecks (e.g. the delays that arise when too many decisions must be escalated to a single central authority for approval).
-
-### Principle 4 – Governance Authority Must Be Clearly Scoped&#x20;
-
-Research highlights the importance of distinguishing between:&#x20;
-
-* legal existence (legal entity),&#x20;
-* decision authority (governance authority),&#x20;
-* and operational execution (operating entity).&#x20;
-
-Ideally:&#x20;
-
-* governance authority is defined explicitly by mandates and rules, not by legal form alone, to maintain accountability,&#x20;
-* multiple governance authorities may coexist with delegated scopes, for example governing separate use cases, while compatible with overarching data space governance,
-* operational entities execute decisions but do not define governance (they do not make the rules — law enforcement vs. the justice system).&#x20;
-
-{% hint style="info" %}
-_Note: the usual definition of federation, in a political context, is that certain topics are the responsibility of one level of government (e.g. education for German Länder), while other topics are the domain of the federal government (e.g. defence for the Bundesrepublik). There are corresponding sets of enforcement bodies and justice systems._
-{% endhint %}
-
-Clear scoping of authority prevents overlap, conflicts of interest, and ambiguity for participants.&#x20;
-
-### Principle 5 – Separation of Governance and Operations&#x20;
-
-A consistent best practice across data spaces is the separation of governance from operations.&#x20;
-
-Governance bodies:&#x20;
-
-* define rules, roles, and decision rights, &#x20;
-* oversee compliance and evolution,&#x20;
-* safeguard trust and accountability.&#x20;
-
-Operating entity:&#x20;
-
-* runs technical infrastructure, maintaining, as much as possible, privacy and data protection,&#x20;
-* supports onboarding by promoting inclusivity and non-discriminatory service delivery,&#x20;
-* implements governance decisions.&#x20;
-
-This separation enables professional operations and avoids concentration of power.&#x20;
-
-### Principle 6 – Trust Frameworks Are Non-Negotiable&#x20;
-
-Trust is a prerequisite for data sharing at scale. Research confirms that trust must be addressed through both technical and operational mechanisms and governance processes.&#x20;
-
-A data space governance framework must define:&#x20;
-
-* roles and responsibilities related to trust, to maintain accountability &#x20;
-* criteria for participant eligibility, fairly and inclusively,&#x20;
-* mechanisms for identity, credentials, and verification,&#x20;
-* compliance monitoring (in particular, in the area of privacy and data protection) and enforcement procedures (to maintain accountability)&#x20;
-
-Eventually, trust frameworks defined for different data spaces could be aligned to enable a cross-data space trust framework, which would then form the basis for cross-data space data sharing and interoperability.
-
-### Principle 7 – Rulebooks Are the Core Governance Instrument&#x20;
-
-Across European data spaces, the "Rulebook" has emerged as the key governance artefact.&#x20;
-
-The Rulebook for each data space:&#x20;
-
-* consolidates legal, organisational, and technical rules and components,&#x20;
-* defines mandatory versus optional requirements,&#x20;
-* assigns rights, obligations, and decision powers,&#x20;
-* evolves through formal, transparent change processes.&#x20;
-
-Effective Rulebooks are modular, versioned, and designed to accommodate future evolution without undermining trust.&#x20;
-
-### Principle 8 – Inclusivity and Legitimacy Are Governance Requirements&#x20;
-
-Research and SAGE's own agreed principles emphasise that governance must enable:&#x20;
-
-* Inclusivity of diverse participant types (public, private, SMEs, research),&#x20;
-* Fair and balanced representation in decision-making to avoid dominance by single actors, and as much as possible inclusion of those affected by decision-making in decision-making processes,
-* Transparency in decision-making,&#x20;
-* Accountability toward broader societal objectives.&#x20;
-
-Governance legitimacy is as important as governance efficiency, especially for public-interest data spaces such as GDDS.&#x20;
-
-### Principle 9 – Governance Must Be Evolutionary&#x20;
-
-Governance is not static. As the data space matures and its membership, needs and technologies change, its governance evolves through phases:&#x20;
-
-* from formation and experimentation,&#x20;
-* to operation and scaling,&#x20;
-* to consolidation and long-term sustainability.&#x20;
-
-Research warns against over-engineering governance too early or locking structures prematurely. Instead, governance frameworks should explicitly support:&#x20;
-
-* iterative refinement,&#x20;
-* periodic review,&#x20;
-* structured transition between lifecycle phases.
 
 </details>
 
@@ -292,75 +102,6 @@ _Note: the usual definition of federation, in a political context, is that certa
 
 Clear scoping of authority prevents overlap, conflicts of interest, and ambiguity for participants.&#x20;
 
-### Principle 5 – Separation of Governance and Operations&#x20;
-
-A consistent best practice across data spaces is the separation of governance from operations.&#x20;
-
-Governance bodies:&#x20;
-
-* define rules, roles, and decision rights, &#x20;
-* oversee compliance and evolution,&#x20;
-* safeguard trust and accountability.&#x20;
-
-Operating entity:&#x20;
-
-* runs technical infrastructure, maintaining, as much as possible, privacy and data protection,&#x20;
-* supports onboarding by promoting inclusivity and non-discriminatory service delivery,&#x20;
-* implements governance decisions.&#x20;
-
-This separation enables professional operations and avoids concentration of power.&#x20;
-
-### Principle 6 – Trust Frameworks Are Non-Negotiable&#x20;
-
-Trust is a prerequisite for data sharing at scale. Research confirms that trust must be addressed through both technical and operational mechanisms and governance processes.&#x20;
-
-A data space governance framework must define:&#x20;
-
-* roles and responsibilities related to trust, to maintain accountability &#x20;
-* criteria for participant eligibility, fairly and inclusively,&#x20;
-* mechanisms for identity, credentials, and verification,&#x20;
-* compliance monitoring (in particular, in the area of privacy and data protection) and enforcement procedures (to maintain accountability)&#x20;
-
-Eventually, trust frameworks defined for different data spaces could be aligned to enable a cross-data space trust framework, which would then form the basis for cross-data space data sharing and interoperability.
-
-### Principle 7 – Rulebooks Are the Core Governance Instrument&#x20;
-
-Across European data spaces, the "Rulebook" has emerged as the key governance artefact.&#x20;
-
-The Rulebook for each data space:&#x20;
-
-* consolidates legal, organisational, and technical rules and components,&#x20;
-* defines mandatory versus optional requirements,&#x20;
-* assigns rights, obligations, and decision powers,&#x20;
-* evolves through formal, transparent change processes.&#x20;
-
-Effective Rulebooks are modular, versioned, and designed to accommodate future evolution without undermining trust.&#x20;
-
-### Principle 8 – Inclusivity and Legitimacy Are Governance Requirements&#x20;
-
-Research and SAGE's own agreed principles emphasise that governance must enable:&#x20;
-
-* Inclusivity of diverse participant types (public, private, SMEs, research),&#x20;
-* Fair and balanced representation in decision-making to avoid dominance by single actors, and as much as possible inclusion of those affected by decision-making in decision-making processes,
-* Transparency in decision-making,&#x20;
-* Accountability toward broader societal objectives.&#x20;
-
-Governance legitimacy is as important as governance efficiency, especially for public-interest data spaces such as GDDS.&#x20;
-
-### Principle 9 – Governance Must Be Evolutionary&#x20;
-
-Governance is not static. As the data space matures and its membership, needs and technologies change, its governance evolves through phases:&#x20;
-
-* from formation and experimentation,&#x20;
-* to operation and scaling,&#x20;
-* to consolidation and long-term sustainability.&#x20;
-
-Research warns against over-engineering governance too early or locking structures prematurely. Instead, governance frameworks should explicitly support:&#x20;
-
-* iterative refinement,&#x20;
-* periodic review,&#x20;
-* structured transition between lifecycle phases.
-
 </details>
 
 <details>
@@ -383,57 +124,6 @@ Operating entity:&#x20;
 
 This separation enables professional operations and avoids concentration of power.&#x20;
 
-### Principle 6 – Trust Frameworks Are Non-Negotiable&#x20;
-
-Trust is a prerequisite for data sharing at scale. Research confirms that trust must be addressed through both technical and operational mechanisms and governance processes.&#x20;
-
-A data space governance framework must define:&#x20;
-
-* roles and responsibilities related to trust, to maintain accountability &#x20;
-* criteria for participant eligibility, fairly and inclusively,&#x20;
-* mechanisms for identity, credentials, and verification,&#x20;
-* compliance monitoring (in particular, in the area of privacy and data protection) and enforcement procedures (to maintain accountability)&#x20;
-
-Eventually, trust frameworks defined for different data spaces could be aligned to enable a cross-data space trust framework, which would then form the basis for cross-data space data sharing and interoperability.
-
-### Principle 7 – Rulebooks Are the Core Governance Instrument&#x20;
-
-Across European data spaces, the "Rulebook" has emerged as the key governance artefact.&#x20;
-
-The Rulebook for each data space:&#x20;
-
-* consolidates legal, organisational, and technical rules and components,&#x20;
-* defines mandatory versus optional requirements,&#x20;
-* assigns rights, obligations, and decision powers,&#x20;
-* evolves through formal, transparent change processes.&#x20;
-
-Effective Rulebooks are modular, versioned, and designed to accommodate future evolution without undermining trust.&#x20;
-
-### Principle 8 – Inclusivity and Legitimacy Are Governance Requirements&#x20;
-
-Research and SAGE's own agreed principles emphasise that governance must enable:&#x20;
-
-* Inclusivity of diverse participant types (public, private, SMEs, research),&#x20;
-* Fair and balanced representation in decision-making to avoid dominance by single actors, and as much as possible inclusion of those affected by decision-making in decision-making processes,
-* Transparency in decision-making,&#x20;
-* Accountability toward broader societal objectives.&#x20;
-
-Governance legitimacy is as important as governance efficiency, especially for public-interest data spaces such as GDDS.&#x20;
-
-### Principle 9 – Governance Must Be Evolutionary&#x20;
-
-Governance is not static. As the data space matures and its membership, needs and technologies change, its governance evolves through phases:&#x20;
-
-* from formation and experimentation,&#x20;
-* to operation and scaling,&#x20;
-* to consolidation and long-term sustainability.&#x20;
-
-Research warns against over-engineering governance too early or locking structures prematurely. Instead, governance frameworks should explicitly support:&#x20;
-
-* iterative refinement,&#x20;
-* periodic review,&#x20;
-* structured transition between lifecycle phases.
-
 </details>
 
 <details>
@@ -450,44 +140,6 @@ A data space governance framework must define:&#x20;
 * compliance monitoring (in particular, in the area of privacy and data protection) and enforcement procedures (to maintain accountability)&#x20;
 
 Eventually, trust frameworks defined for different data spaces could be aligned to enable a cross-data space trust framework, which would then form the basis for cross-data space data sharing and interoperability.
-
-### Principle 7 – Rulebooks Are the Core Governance Instrument&#x20;
-
-Across European data spaces, the "Rulebook" has emerged as the key governance artefact.&#x20;
-
-The Rulebook for each data space:&#x20;
-
-* consolidates legal, organisational, and technical rules and components,&#x20;
-* defines mandatory versus optional requirements,&#x20;
-* assigns rights, obligations, and decision powers,&#x20;
-* evolves through formal, transparent change processes.&#x20;
-
-Effective Rulebooks are modular, versioned, and designed to accommodate future evolution without undermining trust.&#x20;
-
-### Principle 8 – Inclusivity and Legitimacy Are Governance Requirements&#x20;
-
-Research and SAGE's own agreed principles emphasise that governance must enable:&#x20;
-
-* Inclusivity of diverse participant types (public, private, SMEs, research),&#x20;
-* Fair and balanced representation in decision-making to avoid dominance by single actors, and as much as possible inclusion of those affected by decision-making in decision-making processes,
-* Transparency in decision-making,&#x20;
-* Accountability toward broader societal objectives.&#x20;
-
-Governance legitimacy is as important as governance efficiency, especially for public-interest data spaces such as GDDS.&#x20;
-
-### Principle 9 – Governance Must Be Evolutionary&#x20;
-
-Governance is not static. As the data space matures and its membership, needs and technologies change, its governance evolves through phases:&#x20;
-
-* from formation and experimentation,&#x20;
-* to operation and scaling,&#x20;
-* to consolidation and long-term sustainability.&#x20;
-
-Research warns against over-engineering governance too early or locking structures prematurely. Instead, governance frameworks should explicitly support:&#x20;
-
-* iterative refinement,&#x20;
-* periodic review,&#x20;
-* structured transition between lifecycle phases.
 
 </details>
 
@@ -506,31 +158,6 @@ The Rulebook for each data space:&#x20;
 
 Effective Rulebooks are modular, versioned, and designed to accommodate future evolution without undermining trust.&#x20;
 
-### Principle 8 – Inclusivity and Legitimacy Are Governance Requirements&#x20;
-
-Research and SAGE's own agreed principles emphasise that governance must enable:&#x20;
-
-* Inclusivity of diverse participant types (public, private, SMEs, research),&#x20;
-* Fair and balanced representation in decision-making to avoid dominance by single actors, and as much as possible inclusion of those affected by decision-making in decision-making processes,
-* Transparency in decision-making,&#x20;
-* Accountability toward broader societal objectives.&#x20;
-
-Governance legitimacy is as important as governance efficiency, especially for public-interest data spaces such as GDDS.&#x20;
-
-### Principle 9 – Governance Must Be Evolutionary&#x20;
-
-Governance is not static. As the data space matures and its membership, needs and technologies change, its governance evolves through phases:&#x20;
-
-* from formation and experimentation,&#x20;
-* to operation and scaling,&#x20;
-* to consolidation and long-term sustainability.&#x20;
-
-Research warns against over-engineering governance too early or locking structures prematurely. Instead, governance frameworks should explicitly support:&#x20;
-
-* iterative refinement,&#x20;
-* periodic review,&#x20;
-* structured transition between lifecycle phases.
-
 </details>
 
 <details>
@@ -545,20 +172,6 @@ Research and SAGE's own agreed principles emphasise that governance must enable:
 * Accountability toward broader societal objectives.&#x20;
 
 Governance legitimacy is as important as governance efficiency, especially for public-interest data spaces such as GDDS.&#x20;
-
-### Principle 9 – Governance Must Be Evolutionary&#x20;
-
-Governance is not static. As the data space matures and its membership, needs and technologies change, its governance evolves through phases:&#x20;
-
-* from formation and experimentation,&#x20;
-* to operation and scaling,&#x20;
-* to consolidation and long-term sustainability.&#x20;
-
-Research warns against over-engineering governance too early or locking structures prematurely. Instead, governance frameworks should explicitly support:&#x20;
-
-* iterative refinement,&#x20;
-* periodic review,&#x20;
-* structured transition between lifecycle phases.
 
 </details>
 
