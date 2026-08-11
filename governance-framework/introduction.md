@@ -4,7 +4,7 @@
 _This section might be updated based on the latest developments in the SAGE consortium, specifically considering the WP4 Governance working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._ &#x20;
 {% endhint %}
 
-The Governance Framework defines how the GDDS is governed, by whom, and under which rules. It also serves as a foundation of the GDDS, defining its governance bodies, decision-making processes, and participation lifecycle management mechanisms. Together, these elements provide the structure necessary to ensure accountability, trust, and coordinated collaboration across the data space, yet are able to adapt as the GDDS matures and requirements change.
+The Governance Framework defines how the GDDS is governed, by whom, and under which rules. It also serves as a foundation of the GDDS, including its governance bodies, decision-making processes, and participation management processes (e.g. onboarding, compliance monitoring, discipline). Together, these elements provide the structure necessary to ensure accountability, trust, and collaboration across the data space, yet can adapt as the GDDS matures and requirements change.
 
 For this reason, the Governance Framework comprise:&#x20;
 
@@ -20,7 +20,7 @@ _The current GDDS Governance Framework has been developed through an iterative c
 Readers seeking to understand participants’ rights and obligations, the governance bodies, and how the rules are maintained and enforced should consult this section.
 {% endhint %}
 
-To further orient readers, this section introduces a layered view of governance, helping readers first understand key governance design principles, based on relevant research, and then synthesising those principles into governance requirements: how it can be structured and what it should enable, before describing the individual governance components in detail. See next section.&#x20;
+This layered approach supports the design of an evolving governance model that can adapt as the data space matures, while ensuring clear responsibilities for strategic direction, operational execution, stakeholder participation, and independent oversight. See the expandable tabs below with Layer 1 and Layer 2 detailed descriptions.
 
 ***
 

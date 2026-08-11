@@ -32,15 +32,15 @@ The core values establish accountability, broad participation, and cross-collabo
 
 ### **Mission**
 
-To enable a trusted, interoperable, and sustainable \[SAGE Data Space] ecosystem that empowers all actors, within the \[SAGE Data Space] and beyond, to securely share and use environmental and sustainability data in support of the European Green Deal objectives.&#x20;
+To enable a trusted, interoperable, and sustainable \[SAGE Data Space] ecosystem that empowers all actors, within the Green Deal Data Space (GDDS) and beyond, to securely share and use environmental and sustainability data in support of the European Green Deal objectives.&#x20;
 
-The \[SAGE Data Space] facilitates secure and governed data access, connects fragmented infrastructures, and improves the findability, accessibility, interoperability and reusability (FAIRness) of the data available from the \[SAGE Data Space]. It supports regulatory implementation, enables advanced use cases such as digital twins, and drives data-driven value creation, while ensuring transparent, inclusive, and adaptable governance that evolves alongside EU priorities.&#x20;
+The Green Deal Data Space (GDDS) facilitates secure and governed data access, connects fragmented infrastructures, and improves the findability, accessibility, interoperability and reusability (FAIRness) of the data available from the Data Space. It supports regulatory implementation, enables advanced use cases such as digital twins, and drives data-driven value creation, while ensuring transparent, inclusive, and adaptable governance that evolves alongside EU priorities.&#x20;
 
 ### **Vision**
 
-A globally connected and self-sustaining \[SAGE Data Space] in which public authorities,  organisations, research institutions, communities, and individuals easily share high-quality, FAIR (Findable, Accessible, Interoperable, and Reusable) environmental data, while respecting the rights of data rights holders to manage how their data is accessed, by whom and why.&#x20;
+A globally connected and self-sustaining Green Deal Data Space (GDDS) in which public authorities,  organisations, research institutions, communities, and individuals easily share high-quality, FAIR (Findable, Accessible, Interoperable, and Reusable) environmental data, while respecting the rights of data rights holders to manage how their data is accessed, by whom and why.&#x20;
 
-In this vision, data-driven insights actively inform environmental action, accelerate circular economy growth, and enable cross-sector collaboration. The \[SAGE Data Space] operates as part of an interoperable ecosystem of data spaces that collectively support a fair, green, and digital transition in Europe and beyond.&#x20;
+In this vision, data-driven insights actively inform environmental action, accelerate circular economy growth, and enable cross-sector collaboration. The Green Deal Data Space (GDDS) operates as part of an interoperable ecosystem of data spaces that collectively support a fair, green, and digital transition in Europe and beyond.&#x20;
 
 ### **Core Values**
 
