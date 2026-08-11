@@ -250,7 +250,7 @@ Governance must enable a structured, trustworthy participation lifecycle, includ
 
 Governance must establish a clear and enforceable taxonomy of roles and associated rights, enabling the GDDS to:
 
-* Allow participants to take multiple roles like Data Provider, Consumer, Service provider, etc.
+* Allow participants to take multiple roles like Data Provider, Consumer, Service Provider, etc.
 * Allow participants to control the visibility of their own presence and their assets in the data space.&#x20;
 * Ensure that when a data provider revokes or materially changes access to a resource, affected recipients are reliably informed.
 * Enable consumers to access data processing and value-added services offered by Service Providers, under defined access conditions.

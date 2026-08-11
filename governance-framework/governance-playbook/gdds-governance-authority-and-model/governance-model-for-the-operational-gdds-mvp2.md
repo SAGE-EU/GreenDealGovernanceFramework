@@ -274,7 +274,7 @@ The DSGA operates within the frameworks defined by the Council of Participants a
 * perform operational or technical execution, which remains the responsibility of the GDDS Operator,
 * act outside the scope of its delegation instrument.
 
-DSGA decisions are subject to the appeal and escalation procedures defined in the Rulebook, and its functioning is subject to oversight by the [Supervisory Board](#user-content-fn-2)[^2].
+DSGA decisions are subject to the appeal and escalation procedures defined in the Rulebook, and its functioning is subject to oversight by the Supervisory Board.
 
 ### **Coordination**
 
@@ -283,7 +283,7 @@ The DSGA:
 * receives its delegated mandate from, and reports to, the **Council of Participants**,
 * oversees the **Operator** in the execution of governance decisions,
 * escalates systemic governance issues to the **Supervisory Board**, and if needed to the **Council of Participants**,
-* interacts with the [**Compliance & Ethics** ](#user-content-fn-3)[^3]**Committee** on escalation pathways and cases requiring independent compliance assessment,
+* interacts with the [**Compliance & Ethics** ](#user-content-fn-2)[^2]**Committee** on escalation pathways and cases requiring independent compliance assessment,
 * coordinates with **Data Sharing Group Orchestrators** on domain-level admission and compliance matters.
 
 ### **Operational Support**
@@ -328,7 +328,9 @@ It acts as an oversight body of the Council of Participants and ensures that the
 
 The Supervisory Board ensures accountability of the Operator, and the DSGA safeguards the fairness and transparency of governance processes.&#x20;
 
+{% hint style="warning" %}
 _Note: Currently, the Supervisory Board is considered an internal GDDS oversight body consisting of independent experts; however, this can be changed based on the final organisation form of the GDDS, as well as the final set-up of MVP2. It has been raised that the Ethics & Compliance Committee has similar oversight responsibilities; however, they are an external body acting independently from GDDS._&#x20;
+{% endhint %}
 
 ### Composition&#x20;
 
@@ -470,6 +472,4 @@ _This section might be updated based on the latest developments in the SAGE cons
 
 [^1]: TBD
 
-[^2]: if this is the way proposed, then diagram should show this.  Could be OK
-
-[^3]: different name?
+[^2]: the Compliance & Ethics Committe might have a different name from phase 2 onwards; TBD&#x20;
