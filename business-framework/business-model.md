@@ -30,7 +30,7 @@ Building on the DSSC business model framework, this section presents a GDDS-spec
 
 The resulting application is presented across two complementary figures. The first, Figure 13 below, focuses on the structural elements of the business model, including objectives, actors, value propositions, services, governance, and cost and revenue mechanisms.&#x20;
 
-<img src="../.gitbook/assets/unknown (5).png" alt="Figure 2: The DSSC Business Model for GDDS (Source: SAGE Consortium WP7, Business Model Group, D7.1, 2026)" height="266" width="624">
+<div align="center"><img src="../.gitbook/assets/unknown (5).png" alt="Figure 2: The DSSC Business Model for GDDS (Source: SAGE Consortium WP7, Business Model Group, D7.1, 2026)" height="266" width="624"></div>
 
 The second highlights the dynamic capabilities of the GDDS, including monitoring, business model innovation, and governance evolution, which together enable the data space to adapt, scale, and remain sustainable.&#x20;
 

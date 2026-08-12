@@ -14,19 +14,15 @@ _The terms 'Intermediaries', 'Intermediary ', and 'Operator(s)' are currently be
 _After the evaluation, definitions will be added to the Glossary, and the Framework sections will reflect those._&#x20;
 {% endhint %}
 
-In GDDS, intermediaries and operators play a crucial enabling role, making data accessible, trustworthy, and compliant with EU regulations. They help reduce complexity and lower barriers to entry for participants.
+In the GDDS, intermediaries and operators are the roles and bodies that operate at the federation level to sustain the shared services on which the data space depends and to connect participants to it. Rather than holding or controlling participants' data, they provide the core services, and a limited set of value-added services in the early operational phase that make data discoverable and accessible, keep the federation trustworthy and interoperable, support participants' compliance with applicable EU rules, and lower the barrier to entry, in particular for SMEs and public bodies. This section describes these roles and the operations they enable at the operational level; the technical specifications that underpin them are set out in the Technical Frameworks, and the definitions, rights, and obligations attached to each role are set out in the Governance Framework.&#x20;
 
-Within the GDDS, understood as a federated and distributed system, intermediaries and operators are the roles and bodies that operate at the federation level to sustain the shared functions on which the data space depends. Rather than holding or controlling participants’ data, they provide core and value-added services that make data discoverable and accessible, make services available, and keep the federation trustworthy and interoperable. Multiple intermediaries and operators may coexist under shared federated rules, allowing sectoral or domain specialisations while preserving a single, interoperable data space. This section describes these roles and the federation-level operations they enable; the technical specifications underpinning them are described in the Technical Frameworks.
+The services operated at this level are the core services introduced in the Data Space Offering, and they correspond to the GDDS core described in D3.1 (WP3), Section 3. They fall into two main groups, each covered in the subsections that follow:&#x20;
 
-Key responsibilities may include:
+* **Identity, Authentication and Authorisation (IAA) services,** through which participants are registered, admitted, identified, and authorised across organisational and national boundaries: these include the Onboarding Portal, the Participant Registry, the Authorisation Registry, and authentication through trusted identity providers (see Identity, Authentication and Authorisation (IAA) Services below, and D3.1 (WP3), Section 3.1);&#x20;
+* **Catalogue and Data brokerage services,** through which data products are made discoverable and access to them is brokered under the data space's rules: these include the GDDS catalogue portal, the Federated Catalogue, and Participant Discovery (see Catalogue and Data Brokerage Services below, and D3.1 (WP3), Section 3.2).&#x20;
 
-* Identity and Access Management (e.g. authenticating participants, issuing credentials);
-* Data and Service brokerage (e.g. data search and matchmaking);
-* [_Compliance assurance (e.g. ensuring data usage aligns with CSRD, EPBD, or GDPR);_](#user-content-fn-1)[^1]
-* Onboarding and support for participants, especially SMEs and municipalities.
+In addition, intermediaries support participant connectivity, so that participants can connect their Data Connectors and exchange data in a decentralised, sovereignty-preserving manner, and they may operate value-added services that increase the usefulness of data products (see Data Space Offering).&#x20;
 
-Operators might include neutral industry bodies, domain-specific hubs, or trusted IT providers. In GDDS, multiple autonomous operators can coexist under a common set of rules (a shared rulebook and trust framework), enabling sectoral specialisation while ensuring interoperability.
+Because the GDDS is a federated and distributed system, multiple intermediaries and operators may coexist under shared federated rules. This allows sectoral or domain specialisation, for example a domain-specific hub, a neutral industry body, or a trusted infrastructure provider operating services for a given community, while preserving a single, interoperable data space. The shared trust framework and the common rules are what keep these services consistent and interoperable across the federation.&#x20;
 
-[^1]: TBD - We can have "conformity services" that check whether data complies with a standard, whether the values in a field in a data asset align with a controlled vocabulary, or an online service performs in accordance with some clear technical specification.
-
-    <br>
+Intermediaries and operators enable and operate services; they do not own participants' data and do not set the access and usage conditions that apply to it, which remain with the data providers. The certification of the roles that operate shared trust and infrastructure services, and the obligations attached to them, are governed under Trust and Participation Governance and the Conformity Framework and Governance Enforcement.&#x20;
