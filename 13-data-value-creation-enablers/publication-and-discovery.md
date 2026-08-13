@@ -20,7 +20,7 @@ It directly contributes to **Article 33 of the EU Data Act** (interoperability, 
 
 The GDDS Catalogue is implemented as a modular web application: a Python FastAPI backend and an Angular frontend, supported by Apache Solr as the search engine and a PostgreSQL database. Metadata records are retrieved from the Federated Catalogue API and synchronised into the search index through a dedicated transformer service (also implemented in Python using FastAPI), which ensures a consistent metadata structure and efficient indexing. This architecture enables scalable ingestion, fast querying, and flexible filtering of metadata across multiple catalogues. The Catalogue is based on the CYFRONET technical solution.&#x20;
 
-The Catalogue integrates with the Federated Catalogue: on selecting a dataset, the user is redirected to the Federated Catalogue dashboard for detailed metadata and to initiate access negotiation and data transfer.&#x20;
+Behind the portal, the Federated Catalogue aggregates the metadata published across the data space: it obtains the list of active participants from the Participant Registry and retrieves each participant's dataset metadata from that participant's Data Connector, holding this as cached metadata rather than the data itself. Metadata is represented in DCAT, the W3C RDF-based vocabulary for catalogue interoperability, and is synchronised on a regular schedule. A Participant Discovery function lists the participants in the data space so that a user can select the participant they belong to as the entry point to authentication. This reflects the catalogue and data brokerage architecture documented in D3.1 (WP3), Section 3.2.
 
 ## Federated authentication and single sign-on&#x20;
 

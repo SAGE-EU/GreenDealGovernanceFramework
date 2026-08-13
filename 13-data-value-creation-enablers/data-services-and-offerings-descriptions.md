@@ -18,5 +18,3 @@ The scope of this capability includes:
 * **Sector-Specific Extensions**: Where relevant, additional descriptors are introduced to reflect the unique requirements of sustainability use cases, such as emissions tracking, lifecycle analysis, or resource efficiency.
 
 By implementing harmonised description mechanisms, GDDS ensures that participants have full visibility into the ecosystem of available resources. This not only facilitates efficient data sharing, but also accelerates the creation of innovative services, business models, and collaborative projects aligned with the EU Green Deal.
-
-_Further content will be added after co-creation sessions._

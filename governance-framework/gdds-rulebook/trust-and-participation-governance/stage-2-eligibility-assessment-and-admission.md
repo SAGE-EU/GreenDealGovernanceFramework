@@ -104,7 +104,7 @@ The admission workflow operates under the oversight of the GDDS governance struc
 * Compliance and Ethics Committee: ensures ethical and compliance standards are met in admission decisions, particularly in cases involving sensitive data categories or high-risk roles.&#x20;
 * GDDS Operator: handles  identity verification (Step 1.2) and technical onboarding (Step 5) under DSGA oversight.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Rulebook_Diagrams.png" alt=""><figcaption><p>Figure 6: Participant Onboarding Flow. High-level Governance &#x26; Legal Point of view. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Rulebook_Diagrams.png" alt=""><figcaption><p>Figure 10: Participant Onboarding Flow. High-level Governance &#x26; Legal Point of View. </p></figcaption></figure>
 
 Overarching design principle: despite the multi-body governance structure, the applicant-facing admission process must be lightweight and as frictionless as possible. Governance complexity is managed in the back end; it must not create unnecessary barriers for applicants.&#x20;
 
@@ -146,7 +146,7 @@ An applicant may appeal a rejection. Therefore, the contest mechanism is as foll
 3. The reviewing body must respond within 5 working days. _(Note: consider having it at least a month since the reviewing body might meet on a monthly basis)_
 4. The final decision is recorded, and any terms for re-application are stated.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Rulebook_Diagrams (1).png" alt=""><figcaption><p>Figure 7: Rejection &#x26; Appeal Procedure of a Participant at Onboarding.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Rulebook_Diagrams (1).png" alt=""><figcaption><p>Figure 11: Rejection &#x26; Appeal Procedure of a Participant at Onboarding.</p></figcaption></figure>
 
 ### Outcome&#x20;
 
