@@ -61,7 +61,7 @@
 ***
 
 * [Introduction](10-technical-building-blocks.md)
-* [GDDS Architecture & Implementation](gdds-architecture-and-implementation.md)
+* [GDDS Architecture & Implementation](gdds-infrastructure-architecture.md)
 * [Data Interoperability](11-data-interoperability/README.md)
   * [Data Models](11-data-interoperability/data-models.md)
   * [Data Exchange](11-data-interoperability/data-exchange.md)
