@@ -5,12 +5,16 @@ icon: briefcase-blank
 # Business Model
 
 {% hint style="warning" %}
-_This section might be updated based on the latest developments in the SAGE consortium, specifically considering D7.1 by WP7 - Business Model working group. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
+_This section might be updated based on the latest developments in the SAGE consortium, specifically considering D7.1 by WP7 - Business Model working group. The officially published deliverable will be referenced here after it becomes available. Since the project runs till 2028, the final GDDS deliverable is expected to have additional information on these sections._
 {% endhint %}
 
 A clear business model defines how value is created and made available for sharing, who can benefit from that new value, and how operations are sustained over time. &#x20;
 
 Therefore, the purpose of this section is to analyse how the value created through the GDDS is translated into sustainable business models for individual participants, for use cases and for the Data Space as a whole. Building on the notion of participant-centric outcomes, the analysis focuses on how value is created, delivered, and captured within the data space. This includes identifying viable revenue mechanisms, cost structures, and incentive models that support long-term participation and ecosystem growth. Rather than analysing business models in isolation, this section examines how GDDS enables participants to realise tangible benefits, including cost reduction, improved data access, reduced risk, and new revenue opportunities. It uses the DSSC Business Model framework to describe the various business model elements and to account for the different participants in the GDDS.&#x20;
+
+According to D7.1 (WP7, Business Model), the business-model analysis develops the Green Deal Data Space business model, an initial funding and sustainability model, and return-on-investment profiles; this section summarises the elements relevant to the other GDDS Frameworks and refers to D7.1 for the detailed pricing, cost, and ROI analysis. Among the available business model frameworks D7.1 considered, the Data Cooperation Canvas, the IDSA model, and the DSSC model, it is proposed that the DSSC business model be adopted as the primary reference, for its ability to distinguish the different actor groups and to capture both the separation of governance and operations and the dynamic capabilities a data space needs to scale.
+
+***
 
 ## Applying the DSSC Business Model to GDDS &#x20;
 
@@ -22,7 +26,11 @@ A particularly important aspect of the GDDS business model is the separation bet
 
 This separation is critical for the GDDS, as it enables a neutral, trusted governance structure while allowing operational flexibility and innovation through multiple service providers. It also supports sustainability, as operational responsibilities can be distributed and scaled independently of governance, reducing dependency on a single entity.&#x20;
 
+According to D7.1, it is proposed that this separation take concrete organisational form as a dual-entity operating model: a legal, governance entity that owns the rulebook, compliance, and ecosystem development, and a commercial operator that runs the platform, onboarding, and services under a contractual mandate from it, following the pattern of established data spaces such as Catena-X. This corresponds to the separation of the GDDS Operator's role from the governance bodies set out in the Operational and Governance Frameworks.
+
 Overall, the GDDS business model demonstrates that the Data Space should not be understood just as a technical platform, but as a coordinated ecosystem in which governance and infrastructure together support use cases to create value. The key role of the data space is to enable these interactions in a consistent, trusted, and scalable way, allowing participants to benefit from shared infrastructure while maintaining their individual roles and objectives.&#x20;
+
+***
 
 ## Breaking Down the Business Models Using the DSSC Framework&#x20;
 
@@ -30,10 +38,18 @@ Building on the DSSC business model framework, this section presents a GDDS-spec
 
 The resulting application is presented across two complementary figures. The first, Figure 13 below, focuses on the structural elements of the business model, including objectives, actors, value propositions, services, governance, and cost and revenue mechanisms.&#x20;
 
-<div align="center"><img src="../.gitbook/assets/unknown (5).png" alt="Figure 2: The DSSC Business Model for GDDS (Source: SAGE Consortium WP7, Business Model Group, D7.1, 2026)" height="266" width="624"></div>
+<div align="center"><img src="../.gitbook/assets/unknown (5).png" alt="Figure 2: The DSSC Business Model for GDDS (Source: D7.1, 2026)" height="266" width="624"></div>
 
 The second highlights the dynamic capabilities of the GDDS, including monitoring, business model innovation, and governance evolution, which together enable the data space to adapt, scale, and remain sustainable.&#x20;
 
-<div align="center"><img src="../.gitbook/assets/unknown (6).png" alt="Figure 3: The DSSC Business Model for GDDS- Ecosystem and Governance Section (Source: SAGE Consortium WP7, Business Model Group, D7.1, 2026)" height="317" width="642"></div>
+<img src="../.gitbook/assets/unknown (14).png" alt=" Figure 3: The DSSC Business Model for GDDS- Ecosystem and Governance Section (Source: D7.1, 2026) " height="316" width="642">
 
 Together, these figures provide a comprehensive and participant-centric view of the GDDS as a governed, service-enabled, and economically viable ecosystem. They illustrate not only how value is created and captured across different actors, but also how the data space can grow and evolve over time through aligned incentives, continuous onboarding of use cases, and the development of new services and capabilities.&#x20;
+
+***
+
+## Funding and sustainability model&#x20;
+
+According to D7.1, it is proposed that the GDDS be funded primarily by its use cases rather than by charging individual data providers and consumers directly, leaving each use case free to design its own downstream pricing. Participation would be charged as an annual subscription tiered by the number of active data-sharing relationships a use case maintains, rather than by data or transaction volume, reflecting that the GDDS's cost base is driven by governance, trust, and coordination rather than by data throughput. The Data Sharing Group is proposed as the enforcement mechanism: each use case operates within its own Data Sharing Group, and continued membership, and with it the ability to exchange data, would depend on the subscription remaining active. The tiers, price points, cost structure, and 2028 to 2030 sustainability forecast are set out in D7.1; in summary, the model anticipates a transitional need for EU or Member State co-funding that narrows as the use-case base grows and matures, set against participant returns from reduced integration and compliance effort, lower risk, and new revenue and network opportunities.&#x20;
+
+These proposals carry through to the other frameworks. The dual-entity model aligns with the GDDS Operator and the governance-and-operations separation in the Operational and Governance Frameworks, the legal entity defining the rules and the commercial operator executing them. Using the Data Sharing Group as the subscription-enforcement unit connects the funding model to the access model: the Governance Framework would need to define the suspension and reinstatement policy, including notice, any grace period, and the treatment of data already shared, which the Operator then enforces, while metering, billing, and Data Sharing Group lifecycle management become operational and technical requirements. Value is assessed not only commercially but against the Theory of Change and impact-assessment framework in D7.1, consistent with the environmental and societal value the Business Framework already sets out.&#x20;

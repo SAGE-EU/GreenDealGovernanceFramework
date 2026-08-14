@@ -23,6 +23,8 @@ _Note: The final admission documentation set (documents to sign, legal instrumen
 
 {% hint style="warning" %}
 _Note: A dedicated co-creation session on special onboarding scenarios, covering authorisation, mandates, and delegation of representation, is required; this sub-section is a placeholder pending that session's output._
+
+_Note (from the D6.2 use-case inputs, TrialHandbook Chapter 3): two onboarding patterns are foreseen beyond the standard lifecycle. First, delegated onboarding, where a Data Sharing Group that has already vetted its participants may present them to the GDDS through a streamlined path, with the option to escalate to full participation later (UC1.2). Second, project-scoped or temporary participation, where admission and roles are bound to a specific project and a participant's role may vary between projects (UC3). The trust, liability, and procedural details are to be developed in D4.3._
 {% endhint %}
 
 {% hint style="info" %}

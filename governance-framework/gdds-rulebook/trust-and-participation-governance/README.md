@@ -52,9 +52,13 @@ The primary participant roles are:&#x20;
 * [Service Providers ](#user-content-fn-3)[^3]— The party with whom the Customer has entered into a contractual relationship regarding the provision of Data Processing Services and other value-added services by the Provider under the Agreement, and from which the customer now intends to transfer, migrate or switch to another service provider. Unlike Intermediaries, Service Providers do not operate the data space’s shared trust or infrastructure functions (Participant Registry, Authorisation Registry, Identity Provider); they participate at the data and services level and are Adhering Participants under the Conformity Framework, subject to any additional requirements set by the relevant Data Sharing Group.
 
 {% hint style="warning" %}
-_Note: this section will be further developed based on inputs from Wp6 and Wp4. The specific section that should be developed in the next phase, from September onwards, is the Distinction of the Participant Roles – Functional Roles like Data provider, consumer, etc; and Governing Body roles like how participants can join a Body, can they join when onboarding, or is it only upon request. This section will be developed together with the Appointment Procedures of each Governing Body (as they are currently defined in MVP2). The current MVP2 Governing Bodies do not have a defined ' Participant lifecycle' process for them, e.g. onboarding, offboarding, appointment processes, eligibility etc. Owner: WP4_
+_Note: this section will be further developed based on inputs from Wp6 and Wp4._&#x20;
 
-Another point that was raised is ' For DSGOs, it might make sense to be more strict than for regular participants; onboarding should be handled in subsidiary fashion by the DSGs where possible.'
+_The specific section that should be developed in the next phase, from September onwards, is the Distinction of the Participant Roles – Functional Roles like Data provider, consumer, etc; and Governing Body roles like how participants can join a Body, can they join when onboarding, or is it only upon request. This section will be developed together with the Appointment Procedures of each Governing Body (as they are currently defined in MVP2). The current MVP2 Governing Bodies do not have a defined ' Participant lifecycle' process for them, e.g. onboarding, offboarding, appointment processes, eligibility etc. Owner: WP4_
+
+_Another point that was raised is ' For DSGOs, it might make sense to be more strict than for regular participants; onboarding should be handled in subsidiary fashion by the DSGs where possible.'_
+
+_Lastly, From Trial handbook chapter 3 consolidated results: Additionally, to consider Permitting a Data Sharing Group to define domain-specific roles, mapped onto this base taxonomy, where a use case requires roles beyond it. The D6.2 use-case inputs introduced such roles (for example trustee, facilitator, multiplier, and certification-body roles), which should be expressible without amending the base taxonomy._
 {% endhint %}
 
 ## How roles and trust conditions apply across the lifecycle&#x20;

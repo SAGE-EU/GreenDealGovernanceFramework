@@ -32,4 +32,6 @@ _Note: This content was relocated from the Operational Framework (Catalogue and 
 
 {% hint style="warning" %}
 _Open governance questions to resolve (raised by a participant): who operates and maintains the catalogue, during the project and in the longer term; and what rules apply to metadata standards, including quality assurance and validation against GDDS-defined schemas. The operator/maintenance question is a governance matter for Registry and discovery governance (Data Sovereignty & Technical Governance, subsection 4); the metadata-standard rules link to Data, Services and Offerings Descriptions. Owner: WP3, with WP4 for the governance rules._&#x20;
+
+_Additionally: Discovery should operate with selective disclosure: an offering and its descriptive metadata can be made discoverable while the underlying data and any sensitive attributes remain access-controlled, so that a use case handling confidential or commercially sensitive data can list an offering in the catalogue without exposing protected detail. This complements the attribute-based filtering of the discovery view (see Access-policy filtering at discovery) and reflects a requirement identified in the D6.2 use-case inputs (for example UC6.1, UC8, and UC10)._
 {% endhint %}
