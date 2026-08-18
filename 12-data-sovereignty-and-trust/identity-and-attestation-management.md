@@ -139,6 +139,8 @@ To enable finer-grained access control, participants may enrich their identity b
 * Property ownership or professional certifications&#x20;
 * eIDAS 2.0-aligned verified attributes&#x20;
 
+Where credentials relate to product, location, certification, DPP, sustainability or traceability information, the credential ontology should support mappings to GS1 identifiers, GS1 Digital Link resource types and relevant GS1 vocabularies.
+
 GDDS will define a credential ontology and maintain a list of trusted credential issuers for access-related attributes. Data providers must:&#x20;
 
 * Define the access rules for their datasets/services&#x20;

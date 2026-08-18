@@ -25,6 +25,7 @@ The SAGE use cases show that provenance and traceability requirements vary signi
 Consequently, provenance and traceability generate additional data that must itself be semantically represented and interpretable across participants. This requires dedicated data models covering two complementary aspects, as proposed by DSSC handbook:&#x20;
 
 * Generic provenance and traceability aspects, which are applicable across multiple domains and scenarios. Common standards and ontologies supporting these capabilities include PROV-O and PAV, which provide mechanisms to represent provenance, derivation, authorship, and versioning information. Some data spaces also model operational or business events occurring within the ecosystem, for which approaches such as CloudEvents can be adopted.&#x20;
+* For domains that model supply-chain or product visibility events, EPCIS and CBV provide an event and vocabulary model alongside the generic approaches above.
 * Data-space-specific provenance and traceability aspects, capturing governance, contractual, policy, transaction, or domain-specific events and interactions unique to a particular data space. These aspects can be represented through extensions or specialisations of generic provenance models such as PROV-O or PAV.&#x20;
 
 Provenance data is treated as a structured, linkable asset that can be queried, audited, and, where appropriate, reused independently of the primary dataset.&#x20;

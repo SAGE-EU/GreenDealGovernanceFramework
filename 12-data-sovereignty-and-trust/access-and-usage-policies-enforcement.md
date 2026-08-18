@@ -38,6 +38,8 @@ Access and Usage Policies Enforcement specifies how agreed access and usage cond
 _Note (Clarify and discuss with WP3, Phase 2): clarify which usage conditions can realistically be enforced once the data has been transferred to another participant? Some conditions may be technically controlled, while others may still rely on contracts, monitoring or audits._ &#x20;
 
 _Note (WP5 scope item, for September onwards): some propose extending access and usage policies to linked resources as well as datasets and services, aligning with GS1 standards. 'For product, asset, party, location and traceability data, GDDS should also align with relevant GS1 standards, complementing data-space trust frameworks such as Gaia-X, iSHARE and IDSA.'_&#x20;
+
+_Additionally, to consider ‘Delegation policies may need resource-level granularity. Public product information, DPP resources, certification evidence and event traceability may require different access rules.’_
 {% endhint %}
 
 ***
