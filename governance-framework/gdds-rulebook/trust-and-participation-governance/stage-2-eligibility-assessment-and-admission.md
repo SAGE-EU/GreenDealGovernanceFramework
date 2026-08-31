@@ -81,16 +81,17 @@ The previously listed criteria per category are also suggested to be divided by 
 _Note: The eligibility-criteria table is a working proposal from Co-Creation Sessions 8 and 9 (28 May 2026), subject to review and formal approval by WP4. Conformance-testing scope for Intermediaries and Service Providers is to be confirmed with WP2 and WP3. Personal data collected via the application form requires an explicit lawful basis, and the GDDS Privacy Policy must cover data received from identity providers — coordinate with WP4 for legal review. The primary/secondary classification of application fields is subject to finalisation._&#x20;
 {% endhint %}
 
-| EU/EEA establishment OR legally authorised EU representative                           | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     |
-| -------------------------------------------------------------------------------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
-| Legal capacity to enter binding agreements                                             | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     |
-| Verifiable legal identity — LEI · VAT · eIDAS Org ID · iSHARE DID                      | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     |
-| Self-declaration: past sanctions, investigations, prior exclusions                     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     |
-| GDPR compliance statement (non-EEA: adequacy decision / SCCs / BCRs)                   | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     | ✓ Required     |
-| Eligibility for requested Data Sharing Group(s) — per DSG-specific rules               | Per DSG rules  | Per DSG rules  | Per DSG rules  | Per DSG rules  | Per DSG rules  |
-| PKI certificate / X.509 eSeal — M2M connector participants                             | ✓ Required     | ✓ Required     | N/A            | ✓ Required     | ✓ Required     |
-| Conformance testing + digital cert from accredited CA (certified roles — TBC WP2/WP3)  | Optional       | Optional       | N/A            | ✓ Required     | ✓ Required     |
-| Sector certification (ISO 27001, CSRD, domain accreditation) — optional / per DSG      | Optional       | Optional       | Optional       | Recommended    | Recommended    |
+| Criterion                                                                              | Data Provider  | Data Recipient | Data Rights Holder | Intermediary   | Service Provider |
+| -------------------------------------------------------------------------------------- | -------------- | -------------- | ------------------ | -------------- | ---------------- |
+| EU/EEA establishment OR legally authorised EU representative                           | ✓ Required     | ✓ Required     | ✓ Required         | ✓ Required     | ✓ Required       |
+| Legal capacity to enter binding agreements                                             | ✓ Required     | ✓ Required     | ✓ Required         | ✓ Required     | ✓ Required       |
+| Verifiable legal identity — LEI · VAT · eIDAS Org ID · iSHARE DID                      | ✓ Required     | ✓ Required     | ✓ Required         | ✓ Required     | ✓ Required       |
+| Self-declaration: past sanctions, investigations, prior exclusions                     | ✓ Required     | ✓ Required     | ✓ Required         | ✓ Required     | ✓ Required       |
+| GDPR compliance statement (non-EEA: adequacy decision / SCCs / BCRs)                   | ✓ Required     | ✓ Required     | ✓ Required         | ✓ Required     | ✓ Required       |
+| Eligibility for requested Data Sharing Group(s) — per DSG-specific rules               | Per DSG rules  | Per DSG rules  | Per DSG rules      | Per DSG rules  | Per DSG rules    |
+| PKI certificate / X.509 eSeal — M2M connector participants                             | ✓ Required     | ✓ Required     | N/A                | ✓ Required     | ✓ Required       |
+| Conformance testing + digital cert from accredited CA (certified roles — TBC WP2/WP3)  | Optional       | Optional       | N/A                | ✓ Required     | ✓ Required       |
+| Sector certification (ISO 27001, CSRD, domain accreditation) — optional / per DSG      | Optional       | Optional       | Optional           | Recommended    | Recommended      |
 
 ***
 
